@@ -113,7 +113,7 @@ public class Translation : MonoBehaviour
 		if (parce) {
 			parce	=	false;
 
-			var	segmentsStrings		=	pda_original.text.Split('\n');
+			var	segmentsStrings		=	ReadFile("Assets/PDA.csv").Split('\n');
 
 			Debug.Log("число строк [ " + segmentsStrings.Length + " ]");
 
