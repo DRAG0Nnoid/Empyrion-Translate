@@ -348,7 +348,7 @@ public class Translation : MonoBehaviour
 		//var	chars			=	new char[]{'.', '\n'};
 
 
-		_text				=	_text.Replace("[]", "[");
+		_text				=	_text.Replace("]", "");
 
 		var	arrayForms		=	_forms.Split('"');
 		//var arrayText		=	_text.Split(chars, System.StringSplitOptions.None);
