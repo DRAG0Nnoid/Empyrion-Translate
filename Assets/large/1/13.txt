@@ -1,0 +1,59 @@
+﻿[]MODE: Attack on sight []ARMAMENT: Fast-tracking Double-Miniguns []hit points: Low []ATTACK SPEED: Very Slow[].
+[]MODE: Attack on sight []ARMAMENT: Laser Weapons []hit points: Medium []ATTACK SPEED: Slow[].
+[]MODE: Attack when provoked []ARMAMENT: Laser Weapons []hit points: Medium []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Shotgun []hit points: Low []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Miniguns []hit points: Low []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Laser Rifle []hit points: Medium []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Sniper Rifle []hit points: Medium []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Rocket Launcher []hit points: Medium []ATTACK SPEED: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Fists []hit points: High []ATTACK SPEED: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Fists []hit points: High []ATTACK SPEED: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Fists []hit points: Very High []ATTACK SPEED: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Fists []hit points: High []ATTACK SPEED: Medium[].
+[]MODE: Attack when provoked []ARMAMENT: Melee []hit points: Medium []ATTACK SPEED: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Medium []ATTACK SPEED: High[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Medium []ATTACK SPEED: High[].
+[]MODE: Attack when provoked []ARMAMENT: Laser Pistol[].
+[]MODE: Attack when provoked []ARMAMENT: Laser Pistol[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Medium []ATTACK SPEED: High[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Low []ATTACK SPEED: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Medium []ATTACK SPEED: Medium[].
+[]MODE: Attack when provoked []ARMAMENT: Melee []hit points: Low []ATTACK SPEED: Very High[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Low []ATTACK SPEED: Very High[].
+[]MODE: Attack on sight []ARMAMENT: Melee []hit points: Low []ATTACK SPEED: Very High[].
+[]MODE: Attack when provoked []ARMAMENT: Melee []hit points: Low []ATTACK SPEED: Very High[].
+States *Calm - walk slowly around, grazing *Low alert - stop walking, raise up (whole group) *High alert - run away from danger together Alerting factors *Noise - shooting a weapon / using items (drill) (max 50 meters) *Damage Vision *If they can see you, and you are moving. (max 90 meters) *not moving persons are not a threat, only if the person gets too close to the animals (20m) *Death of group member >> THE CLOSER THE ALERTING FACTOR IS, THE MORE WILL THE ANIMAL REACT.
+[]MODE: Attack when provoked[].
+[]MODE: Will run away[].
+[]*Has vision, alert, fear States *Calm, no player around - walks randomly *Calm, player around - walks around player, makes small roar animation *After small damage - goes to Rage Modifiers for 'Rage': *If far from player, will make big roar and charge the player *After the start of the charge, he will not make any turns, so it is possible to avoid. *If the charge is not avoided, the damage is deadly! As he is running he is giving damage periodically - so it is possible that he will damage the player multiple times *If the player is close, he will make close range attacks with probability of roars *If he is in rage and player goes to water, trice will stay out and mage angry roars[].
+[]MODE: Attack on sight ARMAMENT: Melee hit points: Low ATTACK SPEED: High[].
+[]MODE: Attack on sight ARMAMENT: Melee hit points: Medium ATTACK SPEED: Medium[].
+[]MODE: Attack on sight ARMAMENT: Ranged Attack hit points: Medium ATTACK SPEED: Very High[].
+Spiders will appear in a group, but they act more individually, they will share fear, and the more spiders is there together, the faster they will recover from fear States: *calm - walks around *low alert - angry gestures, walks towards player *hi alert - attacks player *alerted, but target not accessible(in water) *When player is in water > angry gestures, random walk Variants *when they see the player, they will attack him *they can get scared and run away, they will come back, once they 'shake off the fear' *the more spiders there is together, the less they fear Fear factors *proximity to player *noises (shooting, drilling) *damage - damage to one spider will create fear in the whole group *fear from death of a group member NOTE: - Spiders can be alerted, but without seeing the player, in this case it will run around 'searching' the source of the alert - The ability to scare the spider is to make the fight more dynamic, to give the player more breathing room and something interesting. The spider should not run away completely..
+Group *Has vision and fear *Acts as individual, shares fear in group States *Calm - walks around *Low alert + player nearby - keeps distance from player, but rotates towards him and makes gestures ..*Scared Modifier for 'Scared': *High probability of running away *Low probability of attacking the player - one attempt to hit, then run away.
+[]MODE: Attack on sight ARMAMENT: Melee hit points: Medium ATTACK SPEED: Medium[].
+Single *Has vision and alert States *Calm - walks around *Alerted - attacks the player with a projectile Modifiers for 'Alerted': *If the player is far, he will walk towards him *If he is too far from spawn position, it will return back to it *If the player is too close, it will keep distance *During the attack he will fire 1 - 3 projectiles, then change position.
+[]MODE: Attack on sight[].
+[]MODE: Attack when provoked[].
+[]MODE: Attack when provoked[].
+[]MODE: Attack on sight[].
+[]MODE: Attack when provoked[].
+[]MODE: Attack when provoked[].
+10 Tips for GETTING STARTED.
+Click HEADLINE and PDA INFO.
+Lakes, swamps, deep forests, oceans and vast open plains are the geographical characteristics of this temperate planet. It has a multitude of mountain ranges with snow-capped peaks, some formed by volcanic activity, others by glacial flow. The climate is moderate and the atmosphere breathable.[]Possible resources:[]  Iron, Cobalt, Erestrum, Zascosium, Promethium[]Possible weather effects:[]  Rain (Heavy), Storm, Radiated Fog[]Planet type data and possible variations:[]  Life-bearing[]  Atmosphere breathable: []Yes[]  Atmospheric O2 fraction: 10 - 40%[]  Atmospheric density: 0.9 - 1.7 kg/m³[]  Day temperature: -30 to 50°C[]  Night temperature: -45 to 40°C[]  Water abundant[]  Radiation: 0 (approx. mean)*[]  Gravity: 0.6 - 1.2 g[]  Radiation: 3 - 6 Gy/d[]Note: Planet has a chance for small, but highly irradiated biomes..
+Congratulations! You discovered a new planet type: ALIEN[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: ARID[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: BARREN[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: BARREN (Metal)[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: DESERT[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: DESERT (Burnt)[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: LAVA[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: LAVA (Nascent)[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: OCEAN[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: SNOW[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: TEMPERATE[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: TEMPERATE (Plateau)[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+Congratulations! You discovered a new planet type: TEMPERATE (Swamp)[]Check the []Empyriopedia []F1[]) for more information about the planet and the benefits of exploring the galaxy!.
+United Council of Humanity (UCH ).
+Galactic Liberation and Defense (GLD)

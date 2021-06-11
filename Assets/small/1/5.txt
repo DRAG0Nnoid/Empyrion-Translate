@@ -1,0 +1,91 @@
+﻿Updating mission.
+Hover Vessel.
+Hover Vessel.
+Have a seat.
+Small Vessel.
+Find vessel.
+Refill.
+Damages.
+Open Control Panel.
+Repairs.
+Place Fuel Tank.
+Place Generator.
+Power up.
+Start Engines.
+=.
+Back to Base.
+Return.
+Teleporter.
+Alerting.
+Check Output.
+Destroy The Legacy.
+Vessels or Stations.
+Flight tips.
+Flying tips.
+Story...
+..initializing.
+Start up information.
+Data...
+..initializing.
+Prelude.
+Com Station.
+Access Console.
+Access Console.
+Message incoming!.
+decoding....
+Assessing Situation.
+Updating mission.
+Message incoming!.
+decoding...
+[]..message incoming..[].
+[]..message incoming..[].
+Crafting Preparations.
+Eat Energy Bar.
+Go to Trader.
+Locate bridge.
+Story...
+..initializing.
+Deactivate Containment (L7).
+Find Switch.
+Bridge (L7).
+Find Staircase.
+Bridge Area.
+Bridge Logs.
+Access Console.
+Use Override.
+Pull the lever.
+Find System Console.
+Find Ventilation Control.
+Fix problems.
+Maintenance Deck (L4).
+Enter deck.
+Find the exit.
+Find Bay access.
+Find Elevator.
+Activate Elevator.
+Engine Section (L2).
+Infected Section.
+Find Warp Control.
+Use Alternative Access.
+Enter Turbine Room.
+Enter Hangar.
+Purge Container.
+Pull Lever.
+Do as advised..
+Use Cargo Hatch.
+Find Entry Point.
+Find Damaged Vent.
+Be careful.
+Waypoint 1.
+Follow the waypoints.
+Waypoint 2.
+Follow the waypoints.
+Waypoint 3.
+Follow the waypoints.
+Defeat Whisperer.
+Lock and load..
+Updating mission.
+Go ahead.
+Find Prisoner.
+Story.
+Find station

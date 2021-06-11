@@ -1,0 +1,2113 @@
+﻿English.
+The Meeting.
+The Meeting.
+Find Sectioner32.
+Find Sectioner32.
+Foreign Intel.
+Foreign Intel.
+Foreign Intel.
+===.
+Foreign Intel.
+Foreign Intel.
+Investigate.
+Foreign Intel.
+Escape.
+Find the terminal.
+Descend into mine.
+Investigate room.
+Check Panel 1.
+Read carefully.
+Check Panel 2.
+Read Carefully.
+Check Panel 3.
+Read carefully.
+Debriefing.
+Talk to Sectioner32.
+Activate Teleporter.
+Activate Teleporter.
+Debriefing.
+Back to Waystation.
+Back to Waystation.
+Meet Sectioner32.
+Meet Sectioner32.
+Epsilon Base.
+Xenu Base.
+Ghyst Base.
+Rados Base.
+Mining Corp.
+Mining Corp.
+1000 Promethium Ore.
+1000 Magnesium Ore.
+1000 Cobalt Ore.
+500 Sathium Ore.
+500 Neodymium Ore.
+Gas Station.
+Gas Station.
+Craft 100 Pentaxid.
+Medical Preps.
+15x Health Pack.
+10x Trauma Kit.
+10x Detox Kit.
+5x Decontamination Kit.
+Life Support.
+Defeat Alien POIs.
+Defeat Alien POIs.
+The Crashed Bird.
+Snow Planet.
+Find Wreckage.
+The Titan.
+IDA.
+===.
+Wreckage.
+Me.
+===.
+Knock Knock.
+Find Outpost.
+Access Console.
+Knock Knock.
+Radar Station.
+Core Room.
+Radar Station.
+Teleporter.
+Knock Knock.
+Mainframe.
+Arrival.
+Mainframe.
+Release Info.
+The Titan.
+The Titan.
+Me.
+Me.
+===.
+[] Not yet..
+===.
+Wreckage.
+Wreckage.
+Me.
+===.
+IDA.
+===.
+Secrets, you say?.
+Wreckage.
+Me.
+===.
+Wreckage.
+Me.
+===.
+Wreckage.
+Wreckage.
+IDA.
+Me.
+===.
+IDA ?.
+IDA! Status report!.
+===.
+Wreckage.
+Wreckage.
+Me.
+IDA.
+===.
+===.
+Wreckage.
+Wreckage.
+Me.
+IDA.
+Wreckage.
+IDA.
+===.
+Wreckage.
+Me.
+===.
+IDA!!.
+===.
+===.
+Wreckage.
+Me.
+===.
+Wreckage.
+Me.
+===.
+Great..
+Maintenance Console.
+Find Token Consoles.
+Override Code.
+Radar Station.
+Find and Access.
+TITAN Front.
+Go to bridge.
+Access Command Console.
+Secret Entrance.
+Pull lever.
+TITAN Middle.
+TITAN Rear.
+150m fly by.
+Front.
+Middle.
+Rear.
+Wreckage.
+A way in.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Defend Position.
+Defend Position.
+Defend Position.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Mainframe.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Mainframe.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Back to Teleporter.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Me.
+Me.
+Me.
+Me.
+===.
+===.
+===.
+IDA.
+For now, IDA..
+===.
+===.
+Me.
+===.
+Me.
+===.
+Mainframe.
+Use Teleporter.
+Enter Room.
+Find Token Consoles.
+Find Token Consoles.
+Scout Unholy Places.
+Locate.
+Sky Guys bar.
+Get a beer.
+Inferno Club.
+Find the Club.
+Find Base.
+Pirates YARR!.
+Retrieve Recipe.
+Pirates YARR!.
+Bring Back Recipe.
+Distillery.
+Orbital Minefield.
+Assess situation.
+Debriefing.
+Foreign Intel.
+Investigate.
+==.
+Check Control Room.
+===.
+Debriefing.
+Fly To Waystation.
+===.
+Investigate.
+Heal and Reload.
+Pest Control.
+The Unholy.
+Torching the Weed.
+Action and Reaction.
+Unknown.
+Me.
+===.
+Whispering.
+Warning.
+===.
+Taming the Mood.
+Whispering.
+Warning.
+===.
+Another unsolved riddle?.
+Scout Ore Deposits.
+Scout Ore Deposits.
+Privacy Matters.
+Wildlife Cam.
+Weaponized Negotiations.
+Counter Strike I.
+Counter Strike II.
+Untrusted Trading.
+Radiated Trace.
+Crime Scene Cleaner.
+Supreme Court I.
+Supreme Court II.
+Control Station.
+The Ilmarinen.
+Engame.
+Hunt Predators.
+Chop down plants.
+Fire Brigade.
+Defend Settlement.
+Assassinate Zirax Troops.
+Masters Of Taste.
+Pirates YARR!.
+Tastiness.
+Wait...
+..and Fight.
+First Wave.
+Third Wave.
+Victory.
+The root cause.
+Find Location.
+Destroy Drones.
+Scout Ore Deposits.
+Extract Promethium Ore.
+Defend Facility.
+Decimate Zirax Personnel.
+Destroy Containers.
+Decimate Creatures.
+POLARIS Trading Station.
+Extract Pentaxid.
+Locate Crash Site.
+Survive Ambush.
+Warning Example.
+Out of Business.
+Find station.
+Use Teleporter.
+Find Answers.
+Kill Predators.
+Harvest Wood Logs.
+Find Settlement.
+Kill Creatures.
+Kill Zirax.
+Destroy Devices.
+Approach Station.
+Brewmaster Lark.
+Rootmaster.
+Go To Office.
+Defend The Station.
+Defeat Troops.
+Defeat Troops.
+Get Gratification.
+Speak to Manager.
+Speak to Bartender.
+Locate.
+Destroy Drones.
+Find Deposit 1.
+Find Deposit 2.
+Find Deposit 3.
+Collect Promethium Ore.
+Find Facility.
+Destroy Drones.
+Kill Zirax.
+Destroy Containers.
+Kill PREY.
+Locate facility.
+Collect Pentaxid.
+Locate.
+Kill Creatures.
+Destroy Statues.
+Find Trading Station.
+Kill some Traders.
+New message.
+Downloading.
+==.
+New Message.
+Updating position...
+===.
+Sigma Zero system.
+Approach the Base.
+Find door.
+Speak Commander.
+Updating...
+===.
+What we know....
+Find Emmerson.
+Incoming Message.
+Securing comm channel...
+===.
+Central Operations.
+Speak to Mercer.
+Sigma Fulcrum.
+Find Yarod.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Integration.
+Sigma Fulcrum.
+Destroy the core.
+Debriefing.
+Back to Base.
+Find the Station.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Destroy Yarod.
+===.
+Incoming Message.
+Securing com channel...
+===.
+GLaD station.
+Speak to Mercer.
+Approach the Station.
+===.
+GLaD station.
+Updating position.
+...
+Message source.
+Find asteroid field.
+Approach signal.
+The ambassador.
+Board ship.
+===.
+Go to bridge.
+===.
+Excavation Site.
+Land on Planet.
+Approach Site.
+Excavation Site.
+Find Artifacts.
+The Archive.
+Back to Ambassador.
+Find Orbit.
+Approach Archive.
+==.
+Board Ship.
+Find the Keeper.
+The Archive.
+Wait for Download.
+===.
+Defend the Archive.
+Kill Attackers.
+The Ambassador.
+Back to Ambassador.
+GLaD station.
+The ambassador.
+Excavation Site.
+The Archive.
+The Archive.
+GLaD Hideout.
+GLaD Hideout.
+===.
+GLaD Hideout.
+Speak to Mercer.
+===.
+GLaD Hideout.
+Speak to Bartender.
+===.
+GLaD Hideout.
+Find Ensign Henrid.
+GLaD Hideout.
+Fend off attacker.
+====.
+Follow noise.
+===.
+GLaD Hideout.
+Ensign? Henrid?.
+GLaD Hideout.
+Find Palant.
+GLaD Hideout.
+Go to console.
+===.
+GLaD Hideout.
+Speak to Palant.
+===.
+GLaD Hideout.
+Speak to Palant.
+===.
+GLaD Hideout.
+Find Mercer.
+===.
+Eliminate Commander.
+===.
+GLaD Hideout.
+GLaD Hideout.
+Speak Mercer.
+===.
+GLaD Hideout.
+Countdown...
+Cold Case.
+Wait for events...
+===.
+Prison Break.
+Find System.
+Prison Break.
+Distraction 1.
+Distraction 2.
+===.
+Prison Break.
+Break into Prison.
+Prison Break.
+Find Alex.
+===.
+Prison Break.
+Speak to Tharkan.
+===.
+Prison Break.
+===.
+Release Prisoners.
+===.
+Prison Break.
+Securing com..
+===.
+Prison Break.
+Use Lever.
+===.
+Prison Break.
+Leave system.
+===.
+Sigma Fulcrum.
+Find Code 1.
+Find Code 2.
+Find Code 3.
+Sigma Fulcrum.
+Find CPU Console.
+===.
+Sigma Fulcrum.
+Find Quartermaster.
+Sigma Fulcrum.
+Access CPU console.
+===.
+Access Station Console.
+GLaD Hideout.
+Eliminate Creatures.
+===.
+What was that?.
+GLaD Hideout.
+Hacking door...
+===.
+GLaD Hideout.
+Purge Base.
+GLaD Hideout.
+Evacuation.
+Fly to base.
+===.
+Prison Break.
+Approach Prison.
+===.
+Prison Break.
+Main Cell Block.
+===.
+Prison Break.
+Checking options...
+===.
+Prison Break.
+Securing com...
+===.
+Prison Break.
+Find override access.
+Debriefing.
+===.
+[]...to be continued![].
+Destroy Targets.
+Polaris - Production.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+VOID.
+Destroy Targets.
+HOUSES.
+Mercer (Senior), Commander.
+DAVE.
+IDA.
+THEIA.
+Doctor Paul Dawson.
+Doctor Katelyn Greyson.
+Tech Chief Kuehn.
+John Emmerson, Ensign.
+Nicole Palant, Sergeant.
+Mercer (Junior), Lieutenant.
+Admiral R.T. Yaden.
+Chief SaintJohn.
+Tharkan.
+Ambassador Hyzani.
+Yarod.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+GAME MECHANICS Q&A.
+Techtree.
+Offline Protection.
+ALT Look Mode.
+PvP vs PvE.
+Registry.
+Map Markers.
+Temperatur.
+[.
+Radiation.
+Global Info.
+Oxygenated Rooms.
+How to oxygenate.
+Gameplay Questions.
+Player Armor.
+Boosters.
+Durability and Repair.
+Portals - Instances.
+Instances.
+Structural Integrity (SI).
+My Base Collapsed.
+Deactivate SI.
+Building Materials.
+Rotating Blocks.
+Mirror Planes.
+Painting and Texturing.
+Window Opacity.
+Change Device Settings.
+Renaming Base/Vessel/Devices.
+Multi Cockpit Rules.
+Docking.
+Warp.
+Weapons and Defenses.
+Range of Weapons.
+Enhanced Weapons.
+Player Drone.
+Building Helper.
+Player Faction.
+Create or Join.
+Allies.
+Control Panel.
+Device Remote Access.
+Grouping Devices.
+Set Homebase.
+Triggers and Sensors.
+How to setup.
+Handling Tips.
+Signal Logic.
+Blueprints.
+Save a Blueprint.
+Single Player Cheat.
+Publish to Workshop.
+MISC Questions.
+Creative Mode.
+Remove Blocks.
+Materials and Harvesting.
+Create own POIs.
+Delete Base.
+Admin Setting.
+PDA Info.
+Deactivate PDA HUD.
+Close Tasks Manually.
+PDA Expansions.
+MISC Topics.
+Report an Issue.
+Save a Game.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+- Spice.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+- Use Toilet.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+[]*n/a[].
+[]*Medikits[].
+[]*n/a[].
+[]*Antiparasitic medication[].
+[]*n/a[].
+[]*Medikits[].
+[]*n/a[].
+[]*Medikits[].
+[]*n/a[].
+[]*n/a[].
+[]*Antitoxic medication []*Medikits[].
+[]*Akua Berries bush[].
+[]*Akua Berries bush[].
+[]*n/a[].
+[]*Blue Alien Flower[].
+[]*n/a[].
+[]*n/a[].
+[]*n/a[].
+[]*n/a[].
+[]*n/a[].
+[]*Ingredient for meals[].
+[]*Fiber Plant[].
+[]*Fiber Plant[].
+[]*Wood Logs[].
+[]*Fire Moss[].
+[]*n/a[].
+[]*n/a[].
+[]*Wild Grain[].
+[]*n/a[].
+[]*Meals[].
+[]*Aloe Vera[].
+[]*n/a[].
+[]*n/a[].
+[]*n/a[].
+[]*Ingredient for meals[].
+[]*Brown Mushroom[].
+[]*n/a[].
+[]*Kavae Plant[].
+[]*n/a[].
+[]*Alien Worm plant[].
+[]*Alien Worm plant[].
+[]*n/a[].
+[]*Ahax plant[].
+[]*Vegetables[].
+[]*Cobra Leaves[].
+[]*Cobra Leaves[].
+[]*n/a[].
+[]*n/a[].
+KRIEL.
+TRADERS GUILD.
+Tag: Any.
+DOCTORS JOURNAL.
+BIOLOGIST'S GUIDE.
+EXPLORERS JOURNAL.
+Temperate.
+Temperate (Swamp).
+Arid.
+Snow.
+Alien.
+Planet discovered!.
+..creating report...
+Planet discovered!.
+Ocean.
+Barren.
+Barren (Metal).
+Desert.
+Desert (Burnt).
+Lava.
+Lava (Nascent).
+Temperate (Plateau).
+===.
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+===.
+Planet discovered!.
+..creating report...
+===.
+Planet discovered!.
+..creating report...
+==.
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+===.
+Zirax Empire (Zrx).
+Talon (Tal).
+Polaris Megacorp (Pol).
+Kriel Empire (Kri).
+Traders Guild (Tra).
+Pirate Clans (Pir).
+The LEGACY (Lgc).
+Progenitor (Pro).
+The VOID (Voi).
+TESCH Collective (Tsc).
+Free Colonists (Col).
+New Task.
+New Action.
+New Task.
+New Action.
+INTEL.
+STRUCTURE.
+TECHNOLOGY.
+HISTORY.
+SUMMARY.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+=.
+=.
+=.
+New Task.
+New Action.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+Resources and Mining.
+Iron.
+Silicon.
+Copper.
+Cobalt.
+Neodymium.
+Sathium.
+Magnesium.
+Titanium.
+Aluminium.
+Erestrum.
+Zascosium.
+Promethium.
+Pentaxid.
+Gold.
+Platinum.
+Ice.
+Crushed Stones.
+Surface rocks.
+..creating report...
+=.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Resources.
+Types.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+Underground deposit.
+Asteroids.
+New Action.
+New Action.
+0.
+0.
+Meteorit.
+New Action.
+0.
+Moon (Barren).
+Moon (Desert).
+Moon (Forest).
+Moon (Nascent).
+Moons.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Asteroid Field (Junkyard).
+Asteroid Field.
+Asteroid Field (Poor).
+Asteroid Field (Rich).
+Asteroid Field (Infested).
+Asteroid Field (Pirates).
+Asteroid Fields.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Empty Sector.
+Trading Stations.
+Sectors.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+O.
+B.
+A.
+F.
+G.
+K.
+M.
+N (Neutron Star).
+BH (Black Hole).
+Irregular Green Sun.
+Sun Types.
+Other celestial bodies.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+The LEGACY (Homeworld).
+Zirax Empire (Homeworld).
+Barren (Scorched).
+Kriel Empire (Homeworld).
+New Task.
+New Action.
+=.
+Planetary Sector (Scorched).
+Planetary Sector (Lava).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Task.
+New Action.
+=.
+New Action.
+=.
+== GALAXY ==.
+== FACTIONS ==.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+== NPCs ==.
+New Task.
+New Action.
+==.
+Drone (EMP).
+Drone (Minigun).
+Drone (Rocket).
+Drone (Cannon).
+Gunship (Minigun).
+Gunship (Rocket).
+Gunship (Bomber).
+Heavy Interceptor.
+Artillery Support.
+Kiuvera Class (PV).
+Korat Class (PV).
+Sunat Class (Corvette).
+Periat Class (Frigate).
+Imerat Class (Destroyer).
+Kamirat Class (Battlecarrier).
+Tovera Class (Dreadnought).
+Zirax Empire (Zrx).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+D.E.S.C. (DSC).
+New Task.
+New Action.
+=.
+Drone (PLR).
+Fighter (Laser).
+Fighter (Pulse).
+Idala Class (PV).
+Kellend Class (Corvette).
+Hoyzen Class (Frigate).
+Polaris Megacorp (Pol).
+Ilmarinen Class (Tender).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Plasma Drone.
+Fighter (Plasma).
+Fighter bomber (Plasma).
+Traders Guild (Tra).
+Frigate.
+Light Destroyer.
+Destroyer.
+Skylord (HC Cannon).
+Thrasher (Mortar).
+Stripper.
+Rocket Ferry.
+Corvus (Corvette).
+Privateer (Corvette).
+Rum Runner (Corvette).
+Pioneer (Corvette).
+Planeteer (PV).
+Quin Merac (Frigate).
+Pirate Clans (Pir).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Colonists (combat) vessels.
+Freighter C02.
+Freighter C04.
+Freighter C06.
+Freighter AiX.
+Freighter Tug-3.
+Freighter Tug-6.
+Albatross.
+Atherton Heavy Transport.
+Attenborough RS.
+Freighter CA-I.
+Hakon Sunseeker.
+LEV-A23 Horizon.
+MSA Freighter.
+Luxonberg Transport.
+Mule.
+Patron-V Transport.
+SAM-1a Lifter.
+Sparrow.
+Stalos MK4.
+TVI 01.
+TVI 02.
+Warhound Transport.
+Magpie.
+Light Transport P016.
+Medium Transport P017.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Warlords.
+New Task.
+New Action.
+=.
+Seeker Drone.
+Infector G/O (Corvette).
+Decimator (Frigate).
+Hasher.
+Vector A/B (Corvette).
+Breacher (Frigate).
+Hunter Drone.
+Beholder L (Frigate).
+Subjugator (Destroyer).
+Accipiter.
+Overseer (Battleship).
+The LEGACY (Lgc).
+TESCH Collective (Tsc).
+Kriel Empire (Kri).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Warlords.
+D.E.S.C. (DSC).
+The VOID (Voi).
+Progenitor (Pro).
+Free Colonists (Col).
+Talon (Tal).
+Faction information.
+New Task.
+New Action.
+=.
+Titan Class (Cruiser).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Troop Transport (Planet).
+New Task.
+New Action.
+=.
+Resources.
+Planets.
+Attack/Defense Values.
+Teleporter (Survival).
+New Task.
+Basic function.
+Basics.
+New Action.
+=.
+NPC Faction Reputation.
+Station Services.
+Docking (Vessels).
+Global Info.
+Basics.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+NPC vessels.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Questions & Answers.
+Volume & Mass.
+CPU.
+Detector and Scanning.
+Proximity Log (MP).
+Ground Base Attack.
+Boost Capability.
+Torque.
+Aerodynamic Lift.
+Virtual Drag.
+Definition.
+Explanation.
+Using boosters.
+Boost Directions.
+Function.
+Explanation and Usecase.
+Thruster Torque.
+Definition.
+Questions and Answers.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Setup.
+Knowledge.
+Flight Control keys.
+Global Info.
+Overview.
+Connected Toolbar.
+Overview / Setup.
+New Action.
+Knowledge.
+Info.
+Limitations.
+New Action.
+Handling Info.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Movement Blocked.
+Check surroundings.
+Rivalry.
+HUD.
+Levels.
+Actions.
+Basics.
+Player Factions.
+Player Origins.
+New Task.
+New Action.
+=.
+Solar Power (Battery).
+Function.
+Conventional Power (Fuel).
+Planet efficiency factors.
+Function.
+Devices.
+Calculation details.
+COMBAT: Attack values.
+COMBAT: Defense values.
+INFANTRY: Attack values.
+INFANTRY: Defense values.
+AAD, IAD.
+Roaming Entities.
+Space efficiency factors.
+Flight Modes (I).
+Align vessel (O).
+Hover Vessels.
+Lift Capability.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Crafting Machines.
+Survival Constructor.
+Portable Constructor.
+Small Constructor.
+Large Constructor.
+Advanced Constructor.
+Deconstructor.
+Furnace.
+Food Processor.
+Mining techniques.
+Find a resource.
+1. Surface Rocks.
+2. Underground deposits.
+3. Resource Meteoroids.
+4. Resource Asteroids.
+Handheld Drill mining.
+Vessel mining.
+Autominer.
+New Task.
+New Action.
+Map layers.
+1. Planet.
+2. Orbital Sectors.
+3. Solar System.
+4. Galaxy.
+Warp requirements.
+Sector - Sector.
+Navigation.
+Maps.
+Warp destination.
+Bookmarks.
+Starter Info.
+Game Mechanics.
+Warp Limitations.
+Orbital Patrol Vessels.
+Questions and Answers.
+Questions and Answers.
+Freighters.
+Questions and Answers.
+Credibility Seals.
+Restore Reputation.
+== NPCs ==.
+== FACTIONS ==.
+== GALAXY ==.
+=.
+Story Characters.
+Jonathan Hyde, Captain.
+Anita Porter, Commander.
+Kanydan.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+[] Eternal Glaze.
+[] Eternal Syphon.
+Shade.
+New Task.
+New Action.
+=.
+New Task.
+New Task.
+New Action.
+New Action.
+=.
+=.
+Sy'reem Destroyer.
+New Task.
+New Action.
+=.
+[] Leviathan.
+[] Esco.
+[] Cerberus.
+[] Raider.
+[] Nemesis.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Apollon Station.
+Science Lab.
+Crew Quarters.
+Lab A.
+Engine Section.
+Core Compartment.
+Core Compartment.
+Lab A.
+Hangar Control.
+Summary.
+Summary.
+Ilmarinen Exploration Crew.
+Mission day 500.
+Mission day 503.
+Mission day 514.
+Mission day 520.
+Mission day 501.
+Mission day 550.
+Inferno Club.
+Summary.
+Log 22-17-5301.
+Summary.
+Sigma Fulcrum.
+Yarod.
+Material Properties.
+The TESCH rumor.
+Summary.
+TESCH.
+VOID.
+The LEGACY.
+War of Silence.
+Zirax Empire.
+Summary.
+Summary.
+Confirming 1-year loss.
+The Legacy.
+The war.
+Name reveal.
+Child Stories.
+Serious Conclusions.
+Emmerson, Bridge Officer.
+Crashed Birds.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Starting the Journey.
+Talon Chief.
+Specialist Kar'han.
+Inscription Plate.
+First Contact.
+Cryoprison Talks.
+Early reveals.
+Command Meeting Room.
+Mission Planning Room.
+Captains Room.
+Bridge - Pre-Jump.
+A Glacial Grave.
+Ancient Revelations.
+Minefield Control Station.
+Captain's Log.
+Chief SaintJohn.
+Warning Message.
+Bridge.
+Mission Log.
+Totally Overpowered.
+New Task.
+New Action.
+New Task.
+New Action.
+Mahan Station.
+Ascending From Darkness.
+The Talon-Zirax Assembly.
+Uncertain Outcome.
+New Task.
+New Task.
+New Action.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Meet the GLaD.
+New Task.
+New Action.
+New Task.
+New Action.
+Sigma Fulcrum.
+Unexpected Ally.
+New Faction Information.
+New Background Info.
+Wins and Losses.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+A new direction.
+First Contact.
+Open the door.
+Clear area.
+Find Station.
+===.
+The Tower.
+Kill Spiders.
+Go to Trader.
+The Legacy.
+Close Escape.
+Get Equipment.
+Speak to inmate.
+RUN!.
+Reveal Signal position.
+Use Detector.
+Crash Site.
+Personal Data Assistant.
+Open PDA []({keybind(PDA)})[].
+Exit PDA.
+Status Panel.
+Open []({keybind(Inventory)})[].
+Survival Tool.
+Harvest Plant Protein.
+Extract Fiber.
+Healing.
+Craft Bandage.
+Use Bandage.
+Nutrition.
+Craft Energy Bar.
+Survival Tool Modes.
+..loading data...
+IDA.
+..initializing...
+Detector.
+Craft.
+Detector.
+Equip.
+Com Station.
+Access Console.
+Techtree.
+Large Wreckage.
+Access Techtree []({keybind(TechTree)})[].
+Unlock Port. Constructor.
+Gather Iron Ore.
+Craft Port.Constructor.
+Place Port. Constructor.
+Craft Small Generator.
+Go to wreckage.
+Search for containers.
+Loot container.
+Assess situation.
+Increased Mobility.
+Com Station.
+Arrive.
+=.
+Capture Station.
+Craft a Core.
+Salvage Steel Plates.
+Place Core.
+Conventional Power Source.
+Unlock Small Generator.
+Activating the base.
+Fuel the base.
+Craft Devices.
+Power the base.
+Craft BioFuel.
+Place Small Generator.
+Fill Tank.
+Deploy bike.
+Portable Constructor.
+Exit window.
+=.
+Place Devices.
+Survival Tent.
+Craft Tent.
+Place Tent.
+Assessing situation.
+Updating mission.
+Follow the indices.
+Unlock Weapons.
+Access Techtree []({keybind(TechTree)})[].
+Close Techtree.
+Craft Pistol.
+Craft Pistol Round.
+Craft armament.
+Kill Infected.
+Kill the Infected.
+The Shaman.
+Tech Upgrades.
+Find worship place.
+Access Cauldron (F).
+Craft Antitoxic Ointment.
+Gratification.
+Assessing situation.
+Updating mission.
+Craft medicine.
+Access Barrels (F).
+Apply Antitoxic Ointment.
+Use medicine.
+Access Barrels.
+Shopping.
+Speak to Trader.
+Approach settlement.
+The tribal settlement.
+Unholy creatures.
+Access Portable Constructor.
+Access Port. Constructor.
+Add Template.
+Open Door.
+The facility.
+Enemy Contact.
+Robinson Protocol I.
+Assessing situation.
+Updating mission.
+Sit down.
+Find the Room.
+Robinson Protocol II.
+Base.
+Return to...
+..Com Station.
+Descending.
+Activate Base.
+Subterrain.
+Use Lever.
+Entry room.
+Check the walls.
+Preparations.
+Approach resource deposit.
+Mine deposit.
+Iron Ore.
+Copper Ore.
+Silicon Ore.
+Portable Constructor.
+Access.
+Crafting Capabilities.
+Place Small Constructor.
+Place Cargo Box.
+Production Setup.
+Access Small Constructor.
+Defense Capabilities.
+Place Sentry Gun.
+Place Ammo Box.
+Personal Defense.
+Place Armor Locker.
+Equip Small Constructor.
+Equip Cargo Box.
+Access Armor Locker.
+Farming.
+Place Food Processor.
+Equip Growing Plot.
+Place Growing Plot.
+Assessing situation.
+Updating mission.
+Respawn.
+Place Clone Chamber.
+Find a cure.
+Back to Settlement.
+Clear the Area.
+Eliminate Troops.
+Approach Wreckage.
+The Savior.
+Speak to Prisoner.
+Access bridge console.
+The Sanctuary.
+Approach station.
+Get an appointment.
+The Appointment.
+Find the Commander.
+Speak to Commander.
+The Assistant.
+Speak Kezzel.
+The Crashed Bird.
+The Burial Chamber.
+Find the site.
+Find Technical Artifacts.
+Debriefing.
+Speak to Kezzel.
+Return to Sanctuary.
+Assessing situation.
+Updating mission.
+Hover Vessel.
+Hover Vessel.
+Have a seat.
+Small Vessel.
+Find vessel.
+Refill.
+Damages.
+Open Control Panel.
+Repairs.
+Place Fuel Tank.
+Place Generator.
+Power up.
+Start Engines.
+=.
+Back to Base.
+Return.
+Teleporter.
+Alerting.
+Check Output.
+Destroy The Legacy.
+Vessels or Stations.
+Flight tips.
+Flying tips.
+Story...
+..initializing.
+Start up information.
+Data...
+..initializing.
+Prelude.
+Com Station.
+Access Console.
+Access Console.
+Message incoming!.
+decoding....
+Assessing Situation.
+Updating mission.
+Message incoming!.
+decoding...
+[]..message incoming..[].
+[]..message incoming..[].
+Crafting Preparations.
+Eat Energy Bar.
+Go to Trader.
+Locate bridge.
+Story...
+..initializing.
+Deactivate Containment (L7).
+Find Switch.
+Bridge (L7).
+Find Staircase.
+Bridge Area.
+Bridge Logs.
+Access Console.
+Use Override.
+Pull the lever.
+Find System Console.
+Find Ventilation Control.
+Fix problems.
+Maintenance Deck (L4).
+Enter deck.
+Find the exit.
+Find Bay access.
+Find Elevator.
+Activate Elevator.
+Engine Section (L2).
+Infected Section.
+Find Warp Control.
+Use Alternative Access.
+Enter Turbine Room.
+Enter Hangar.
+Purge Container.
+Pull Lever.
+Do as advised..
+Use Cargo Hatch.
+Find Entry Point.
+Find Damaged Vent.
+Be careful.
+Waypoint 1.
+Follow the waypoints.
+Waypoint 2.
+Follow the waypoints.
+Waypoint 3.
+Follow the waypoints.
+Defeat Whisperer.
+Lock and load..
+Updating mission.
+Go ahead.
+Find Prisoner.
+Story.
+Find station

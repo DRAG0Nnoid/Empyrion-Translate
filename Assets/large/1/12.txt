@@ -1,0 +1,86 @@
+﻿..when received: []Intoxication[]..when cured: - []..when not cured: []Radiation Sickness[].
+[]- Anti Radiation Injection []- Decontamination Kit[].
+[]- Medical Station Type 4[].
+You also []NEED TO LOWER Body Radiation below 1[] by:[]..taking a shower []..consuming Anti-Radiation medication.
+..when received: []Intoxication[]..when cured: - []..when not cured: []Death[].
+Body Radiation > 4.
+[]- Antibiotic Injection []- Trauma Kit[].
+[]- Medical Station Type 2[].
+..when received: []Fever Attack[]..when cured: - []..when not cured: []Death[].
+- Energy Pills []- Adrenaline Injection.
+- []Wait until effect is removed (5 seconds)[].
+- Natural Stimulant []- Energy Drink.
+..when received: - []..when cured: - []..when not cured: -.
+[]Increase In-Suit Temperature above 15°C by:[]..sleeping []..taking a shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+- Hot Beverages and most meals will increase your temperature as well.
+..when received: - []..when cured: - []..when not cured: []Starving[].
+In-Suit Temperature lower than 15°C.
+[]Decrease In-Suit Temperature below 35°C by:[]..seeping []..taking a shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+- Purified Water, Juices, Milk, Fruits and a few meals will decrease your temperature.
+..when received: - []..when cured: - []..when not cured: []Stamina Low[].
+In-Suit Temperature higher than 35°C.
+[]We always assume that evolution in the universe follows the same rules, so there is a high chance that we do not see anything extraordinary when looking to the stars. Of course, the chances that we are wrong, are equally high. []Ernest Jakkard, Sc.D UCH Xenobiological Research Facility 2468 AD []--- []To show all topics of this guide, click the DROPDOWN ARROW of this chapters HEADLINE in the list on the left! Click the SUB-task to reveal the info contained. Make sure the PDA INFO button on the TOP RIGHT of the screen is selected![].
+[]Your suit will automatically test and categorize any biological and non-biological item according to similarities found with earth organisms with the built-in xenobiological testing procedure. []This means: Even if an item might look different or drop from a plant that does not even remotely look earth-like, anything you can harvest from a plant will be categorized into []Nutrition Groups[] and displayed as: Plant Protein, Natural Sweetener, Grain, Berries, Fruit, Mushroom, Natural Stimulant, Vegetables, Spice, Buds.[]Medical ingredients[] are displayed as: Herbal Leaves, Confetti Moss Scrapings, Fire Moss Scrapings, Alien Tooth, Alien Parts, Alien Plasma T6, Alien Plasma ZR1, Alien Thorn[]Note: Eating ingredients or raw food has a risk of getting you an Indigestion!.
+[]Sprouts are created in the food processor from an item/crop of the plant and Nutrient Solution. Example: Plant Protein + Nutrient Solution will give you an Ahax Sprout.[].
+[]Oxygen: Always required []No O2 = []Plant will stop growing[]Temperature: 15-35°C | lower 0 or higher than 50 = []Plant will die[]Radiation: 0[] | RAD higher than 3 = []Plant will die[].
+[]- Base / Vessel needs to be powered | No Power = []Plant will stop growing[]- Inside a base or Vessel you need a GROWING LIGHT. Place it on the ceiling with exactly 2 blocks in between the top side of the growing plot and the ceiling where the Growing Light is placed []- A growing light can support 3x3 growing plots at max when placed at the ceiling in the center spot of this array. []- If the outside conditions meet the Growing Conditions, you can set up a farm without a growing light on the outside. In this case OUTSIDE = open to the sky with no roof (includes NO windows).
+[]For most of the items, protocols allow to []alternatively craft them from different ingredients[] as well. []For example: Milk, Meat, Plant Protein and most of the Medical ingredients like Scrapings, Alien Parts and Plasma can be converted from substitutes![].
+[]*Reef Plant []*Red Coral[].
+[]*Egg + Alien Parts + Nitrocellulose[].
+[]*Loot of NPC and creatures[].
+[]*Meat + Alien Tooth + Nutrient Solution[].
+[]*Pod Plant []*White Coral[].
+[]*Egg + Alien plasma ZR1 + Nitrocellulose[].
+[]*Opuntia Cactus []*Thorn Plant []*Beehive Cactus[].
+[]*Alien Tooth + Nitrocellulose + Pentaxid Ore[].
+[]*Loot of NPC and creatures[].
+[]Reducing Body Temperature[]*Healthy Juices *Meals[].
+[]*Creating Hot Beverages ([]Increasing Body Temperature[].
+[]*Confetti Moss []*Dimple Dome []*Dimple Dome Snow[].
+[]*Crushed Stones + Mushrooms + Promethium Pellets[].
+[]*Required ingredient for all PILL medications *Medikits *Stamina Boosters[].
+[]*Loot of NPC and creatures[].
+[]*Crafting BioFuel and Survival Tent []*Crafting ingredient for Farming tech and devices []*Ingredient for Bandages and Medikits[].
+[]*Crushed Stones + Mushrooms + Promethium Pellets[].
+[]*Required ingredient for all INJECTION medications []*Medikits []*Stamina Boosters[].
+[]*Pearthing Plant []*Space Orange Tree[].
+[]*Pearthing Plant []*Space Orange Tree[].
+[]Reducing Body Temperature[]*Healthy Juices []*Meals[].
+[]*Corn plant []*Wheat plant[].
+[]*Pixie Stalks & Pixie Stalks Snow Aloe Vera[].
+[]Removes INDIGESTION when consumed[]*Basic ingredient for nearly all medications and Medikits[].
+[]*Loot of NPC and creatures[].
+[]*Plant Protein + Vegetables[].
+[]*Growing Alien Parts []*Ingredient for meals[].
+[]*Loot of NPC and creatures[].
+[]*Plant Protein + Purified Water[].
+[]*Green Spiky Mushroom []*Brown Mushroom []*Tall Green Mushroom[].
+[]Removes POISON BITE when consumed[]*Ingredient for all Radiation medications []*Medikits[].
+[]*Kavae Plant []*Brain Fungus & Brain Fungus Snow []*Pulpit Fungus[].
+[]Removes STUNNED when consumed[]*Ingredient for all stamina-boosting Drinks and Drugs.
+[]Removes DERMAL BURN when consumed[]*Sweetening Ingredient for meals and bakery products[].
+[]*Corn Dogs & Corn Dogs Snow []*Ahax plant []*Seaweed & Hydrilla []*Big Alien Flower[].
+[]*Ingredient for all Ointment medications []*Ingredient for Parasite medications []*Ingredient for Bandages []*Meals[].
+[]Increases Body Temperature when consumed[]*Can remove INDIGESTION but also has a chance to cause INDIGESTION again when consumed[]*Meals []*Stomach Pills []*Energy Pills.
+[]*Eggplant []*Large Eggplant []*Tomato plant []*Pumpkin plant []*Blue Pepper[].
+[]*Pumpkin plant []*Blue Pepper []*Tomato plant []*Large Eggplant[].
+[]*Healthy Juices []*Basic ingredient for a lot of meals[].
+[]The Universe is full of dangers, and wonders, and wonderful dangers! []Motto of 2nd Exploration Corps UCH Founded 2460 AD []--- []To show all topics of this guide, click the DROPDOWN ARROW of this chapters HEADLINE in the list on the left! Click the SUB-task to reveal the info contained. Make sure the PDA INFO button on the TOP RIGHT of the screen is selected![].
+1. All the faction-assignments below apply to wandering NPCs and Patrols at all times (does NOT depend on the faction territory!) []2. If an NPC is spawned in a POI, the origin of the NPC is defined by the faction of the POI, EXCEPT the creator of the POI has set a different origin for the to-be-spawned NPC (what is possible in the NPC Spawn setup dialogue!) []3. Turret targeting info, regarding NPC factions: []- All NPC factions members ( Zrx, Pol, Tal) apply to the 'NPC Factions' checkbox, either in a POI or when wandering around! []- Turrets will not attack Zrx, Pol and Tal if you are on NEUTRAL standing or better, even WHEN the checkbox for NPC factions is ticked! []- LEGACY (Global 'Alien' Faction) creatures will be attacked only when PREDATOR checkbox is ticked, as Aln is not a real NPC faction (you cannot change your standing; always HOSTILE) []- Prey and Predator are no NPC factions. That's why they have their own targeting setting..
+Tag: Zrx - ArmoredGolem -DroneBomberAttackBase - DroneLargeAttackBase - DroneSmallFast01Minigun - DroneSmallFast01Rocket - DroneSmallSlow02Minigun - EnemyDroneV2Minigun - EnemyDroneV2Plasma - Mechanoid - RipperDog - SpaceDronePlasma - TraderZirax - TurretRobotV2 - Zirax Commander - ZiraxLaser - ZiraxMinigun - ZiraxRocket - ZiraxShotgun - ZiraxSniper.
+Tag: Tal - Crawler - TalonGuardian (all variations, static and moving) - TraderTalon (all variations) - TalonSentinel (all variations).
+Tag: Pol -  (any) - AssaultCyborg.
+Tag: Aln (Alien) -  AlienBug02 - GolemDesert - GolemIce - GolemSwamp -  Overseer - PlantMonster (not used anymore) - TotalHorror - WoodWalker.
+Tag:  AlienAssassinGrey - AlienAssassinRed  - Hexapod.
+- AlienBug03 - AlienBug04 - CaveWormGreen - CaveWormGrey - CaveWormWhite - Creepy - Otyugh - Raptor - RaptorNight - Spider01 - Spider02 - Spider03 - Spinosaurus - Telluropod.
+- AlienBug01 (but will attack if player is too close) - LizardMule - LizardMuleBaby - MegalonopsGrey - Oviraptor - Pangolin - Parasaur - Slime - SlimeWhite - Triceratops - WormDesert - WormDesertLarge.
+[]MODE: Attack on sight []ARMAMENT: Minigun, Cannon, Rockets, Plasma []hit points: Low []MOVEMENT: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Single & Double Minigun, Single & Double Cannon, Plasma []hit points: Medium []MOVEMENT: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Minigun, Plasma []hit points: High []MOVEMENT: Slow[].
+[]MODE: Attack on sight []ARMAMENT: Cluster Bombs []hit points: High []MOVEMENT: Fast[].
+[]MODE: Attack on sight []ARMAMENT: Laser Pulse Cannon []hit points: Medium []MOVEMENT: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Plasma Cannon []hit points: Medium []MOVEMENT: Slow[].
+[]MODE: Drops Reinforcements to attacked positions []ARMAMENT: non []hit points: Very High []MOVEMENT: Medium[].
+[]MODE: Attack on sight []ARMAMENT: Light to Medium []hit points: Medium to High []MOVEMENT: Slow to Medium[].
+[]MODE: Attack on sight []ARMAMENT: Heavy []hit points: High to Very High []MOVEMENT: Slow to Medium[].
+[]MODE: Attack on sight []ARMAMENT: Light to Medium []hit points: Medium to High []MOVEMENT: Slow[]

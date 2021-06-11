@@ -1,0 +1,395 @@
+﻿English.
+The Meeting.
+The Meeting.
+Find Sectioner32.
+Find Sectioner32.
+Foreign Intel.
+Foreign Intel.
+Foreign Intel.
+===.
+Foreign Intel.
+Foreign Intel.
+Investigate.
+Foreign Intel.
+Escape.
+Find the terminal.
+Descend into mine.
+Investigate room.
+Check Panel 1.
+Read carefully.
+Check Panel 2.
+Read Carefully.
+Check Panel 3.
+Read carefully.
+Debriefing.
+Talk to Sectioner32.
+Activate Teleporter.
+Activate Teleporter.
+Debriefing.
+Back to Waystation.
+Back to Waystation.
+Meet Sectioner32.
+Meet Sectioner32.
+Epsilon Base.
+Xenu Base.
+Ghyst Base.
+Rados Base.
+Mining Corp.
+Mining Corp.
+1000 Promethium Ore.
+1000 Magnesium Ore.
+1000 Cobalt Ore.
+500 Sathium Ore.
+500 Neodymium Ore.
+Gas Station.
+Gas Station.
+Craft 100 Pentaxid.
+Medical Preps.
+15x Health Pack.
+10x Trauma Kit.
+10x Detox Kit.
+5x Decontamination Kit.
+Life Support.
+Defeat Alien POIs.
+Defeat Alien POIs.
+The Crashed Bird.
+Snow Planet.
+Find Wreckage.
+The Titan.
+IDA.
+===.
+Wreckage.
+Me.
+===.
+Knock Knock.
+Find Outpost.
+Access Console.
+Knock Knock.
+Radar Station.
+Core Room.
+Radar Station.
+Teleporter.
+Knock Knock.
+Mainframe.
+Arrival.
+Mainframe.
+Release Info.
+The Titan.
+The Titan.
+Me.
+Me.
+===.
+[] Not yet..
+===.
+Wreckage.
+Wreckage.
+Me.
+===.
+IDA.
+===.
+Secrets, you say?.
+Wreckage.
+Me.
+===.
+Wreckage.
+Me.
+===.
+Wreckage.
+Wreckage.
+IDA.
+Me.
+===.
+IDA ?.
+IDA! Status report!.
+===.
+Wreckage.
+Wreckage.
+Me.
+IDA.
+===.
+===.
+Wreckage.
+Wreckage.
+Me.
+IDA.
+Wreckage.
+IDA.
+===.
+Wreckage.
+Me.
+===.
+IDA!!.
+===.
+===.
+Wreckage.
+Me.
+===.
+Wreckage.
+Me.
+===.
+Great..
+Maintenance Console.
+Find Token Consoles.
+Override Code.
+Radar Station.
+Find and Access.
+TITAN Front.
+Go to bridge.
+Access Command Console.
+Secret Entrance.
+Pull lever.
+TITAN Middle.
+TITAN Rear.
+150m fly by.
+Front.
+Middle.
+Rear.
+Wreckage.
+A way in.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Emergency Broadcast.
+Defend Position.
+Defend Position.
+Defend Position.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Mainframe.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Mainframe.
+IDA.
+Me.
+===.
+===.
+Mainframe.
+Back to Teleporter.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Take a break.
+Me.
+Me.
+Me.
+Me.
+===.
+===.
+===.
+IDA.
+For now, IDA..
+===.
+===.
+Me.
+===.
+Me.
+===.
+Mainframe.
+Use Teleporter.
+Enter Room.
+Find Token Consoles.
+Find Token Consoles.
+Scout Unholy Places.
+Locate.
+Sky Guys bar.
+Get a beer.
+Inferno Club.
+Find the Club.
+Find Base.
+Pirates YARR!.
+Retrieve Recipe.
+Pirates YARR!.
+Bring Back Recipe.
+Distillery.
+Orbital Minefield.
+Assess situation.
+Debriefing.
+Foreign Intel.
+Investigate.
+==.
+Check Control Room.
+===.
+Debriefing.
+Fly To Waystation.
+===.
+Investigate.
+Heal and Reload.
+Pest Control.
+The Unholy.
+Torching the Weed.
+Action and Reaction.
+Unknown.
+Me.
+===.
+Whispering.
+Warning.
+===.
+Taming the Mood.
+Whispering.
+Warning.
+===.
+Another unsolved riddle?.
+Scout Ore Deposits.
+Scout Ore Deposits.
+Privacy Matters.
+Wildlife Cam.
+Weaponized Negotiations.
+Counter Strike I.
+Counter Strike II.
+Untrusted Trading.
+Radiated Trace.
+Crime Scene Cleaner.
+Supreme Court I.
+Supreme Court II.
+Control Station.
+The Ilmarinen.
+Engame.
+Hunt Predators.
+Chop down plants.
+Fire Brigade.
+Defend Settlement.
+Assassinate Zirax Troops.
+Masters Of Taste.
+Pirates YARR!.
+Tastiness.
+Wait...
+..and Fight.
+First Wave.
+Third Wave.
+Victory.
+The root cause.
+Find Location.
+Destroy Drones.
+Scout Ore Deposits.
+Extract Promethium Ore.
+Defend Facility.
+Decimate Zirax Personnel.
+Destroy Containers.
+Decimate Creatures.
+POLARIS Trading Station.
+Extract Pentaxid.
+Locate Crash Site.
+Survive Ambush.
+Warning Example.
+Out of Business.
+Find station.
+Use Teleporter.
+Find Answers.
+Kill Predators.
+Harvest Wood Logs.
+Find Settlement.
+Kill Creatures.
+Kill Zirax.
+Destroy Devices.
+Approach Station.
+Brewmaster Lark.
+Rootmaster.
+Go To Office.
+Defend The Station.
+Defeat Troops.
+Defeat Troops.
+Get Gratification.
+Speak to Manager.
+Speak to Bartender.
+Locate.
+Destroy Drones.
+Find Deposit 1.
+Find Deposit 2.
+Find Deposit 3.
+Collect Promethium Ore.
+Find Facility.
+Destroy Drones.
+Kill Zirax.
+Destroy Containers.
+Kill PREY.
+Locate facility.
+Collect Pentaxid.
+Locate.
+Kill Creatures.
+Destroy Statues.
+Find Trading Station.
+Kill some Traders.
+New message.
+Downloading.
+==.
+New Message.
+Updating position...
+===.
+Sigma Zero system.
+Approach the Base.
+Find door.
+Speak Commander.
+Updating...
+===.
+What we know....
+Find Emmerson.
+Incoming Message.
+Securing comm channel...
+===.
+Central Operations.
+Speak to Mercer.
+Sigma Fulcrum.
+Find Yarod.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Integration.
+Sigma Fulcrum.
+Destroy the core.
+Debriefing.
+Back to Base.
+Find the Station.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Sigma Fulcrum.
+Destroy Yarod.
+===.
+Incoming Message.
+Securing com channel...
+===.
+GLaD station.
+Speak to Mercer.
+Approach the Station.
+===.
+GLaD station.
+Updating position.
+...
+Message source.
+Find asteroid field.
+Approach signal.
+The ambassador.
+Board ship.
+===.
+Go to bridge.
+===

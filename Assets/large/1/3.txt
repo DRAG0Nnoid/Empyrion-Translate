@@ -1,0 +1,79 @@
+﻿Story Chapter 8: []Sigma Fulcrum[]You have finally made contact with what remains of the UCH . Those that did not want to join Vice Admiral Perez have founded Galactic Liberation and Defense (GLaD). Your partner Commander Alex Lamarr and Captain Jennifer Zerogen were integral in its creation. []Thanks to information you provided, the GLaD were able to piece together a vague outline of what is happening in Andromeda - but there is still much we do not know.[]In the meantime, the GLaD requests your assistance once again...
+Commander, please let us []meet []in the []command room[] We have in need of your skills with a delicate problem we are facing....
+The Central Operations area is where you met Mercer Junior for the first time..
+Find an Access Point.
+Find the []CPU_Console[] so Yarod can upload himself to the station core. You need to be within 4m..
+[] Perfect. Uploading started. []I need a few seconds[]. Stay low..
+Yarod needs a few seconds to upload himself to the station core..
+Fly back to the GLaD Outpost in the nearby asteroid field..
+Speak to the Traders.
+Speak to the traders in the trading room at the main entrance..
+Yarod was last seen in the lower level of the station. He is probably hiding!.
+Sigma Fulcrum is in the same system. Warp to the []STATION symbol[] on the system map ([]).
+Very nice. Let's []check out[] the []traders and ask around[]. []Best place for information on these stations..
+We should watch out while searching for Yarod. []Some of those guys don't look too friendly. We don't want to be shot in the back..
+[] Well done. This was very convincing. Now let's find an []Access Point.[].
+Story Chapter 9: []Unexpected Allies[].
+The commander can be found in the main command center..
+[] Interesting. The data from Sigma Fulcrum would have sent us to this system as well. Yarod and I do not think this is pure coincidence...
+The system is close to the GLaD base in a direct line from there just a few clicks into the Zirax territory.[]Look for a solar system with the marker '[]Mining Operation[]'. Find the []asteroid field[] inside the system.[]You need to bring the []STAFF OF GUIDANCE[] with you in your inventory!.
+[] We are receiving coordinates of a vessel nearby and advised to hold fire on approach. []The message is signed by Ambassador  Hyzani from the House of Abyssal of the Zirax Empire!.
+Do not fire on the vessel!.
+[] They are asking us to bring our ship along their starboard side. There is an entrance on the aft..
+[] Welcome to the abyssal science vessel 'Her Majesty Herschel' . []You will find the []ambassador on the bridge[]. Please, Do not touch anything!.
+Warp to the []temperate []planet in this system..
+[] Do I need to point out the fact that this lady is aware of our activities here and she knew exactly where to find us and the GLaD? Just saying...[] She is part of the House of Abyssal. Intelligence reports suggest there is growing unrest in the Empire.
+Follow the yellow marker after entering the planet..
+Check the boxes and cargo containers in the rooms for Technical Artifacts and Mutated Substance.
+[] Commander, this technical artifact fragment is similar to the one I came in touch with previously. Also, this room is permeated with an inert form of Essence of the VOID. It is encased in this []Mutated Substance[] and stored in this container! We should []take both with us[].
+Bring the artifact and the mutated substance to the ambassador.
+Find the archive in the orbit of the Desert Burnt world.
+[] I am scanning a few Pirate vessels and Zirax in that sector. Not many, but we should be cautious..
+[] There is a []boarding ramp at the back[] of a docked vessel. This would make a good entry point!.
+Board ship and make your way through the asteroid..
+The keeper can be found in one of the archive rooms. You might need to find a way inside. Check the []docked vessel[] and all the []caverns []for []notes []and []levers. []They might include hints on how to get inside!.
+Let's see if we learn anything valuable from this archive..
+[]  We are getting company! Counting []10 []enemy signatures.[]You need to find the []enemies []in the archive rooms and[] kill them[] before they can destroy the archive!.
+There are 10 enemies spawned in the archive, but not outside! Find them and kill them..
+[] Download completed. This archive is now shutting down. Thanks for your visit. Farewell, Keeper of the Staff!.
+Fly back to the ship of the ambassador in the asteroid field of the system and talk to her..
+Story Chapter 9: []Unexpected Allies[]You found Yarod, a former station AI that got in touch with a VOID artifact, which seems to have allowed him to develop his own personality. He has integrated himself into your suit and is now supporting IDA and you on your missions. He asked you to not reveal  him to the GLaD or any other organization. He might have a reason for this. And you possibly too.[]You still do not entirely trust that organization called GLaD. Even the UCH itself has become a bit suspicious to you, based on what you learned from the TITAN logs -  but your recent endeavors also didn't bring you any closer to Alex or an answer that would explain what is happening.[]So you have no other choice as to smile and try to stay in the game - which leads to finding an unexpected ally..[].
+Story Chapter 10: []Wins and Losses[].
+[]Story Chapter 10: []Wins and Losses[]Something unexpected happened: you found an ally within the Zirax Empire. The ambassador Hyzani of the House of Abyssal not only helped you to understand more about what makes the Zirax Empire tick, but also seems to know a lot about the events of the recent past. Especially about the LEGACY. And also about a mysterious, presumably extinct race named the PROGENITOR. []While you still try to fiddle out how the new information fits into the big picture, including the VOID and the TESCH, you are racing back to the GLaD outpost to reveal a possible traitor and save the crew from an already rolling Ghyst assault on the base..
+Back to Asteroid Field.
+Fly back to the GLaD outpost - and do not waste time!.
+Go to Command Center.
+Hello Commander! []I have a note for you: []Ensign Henrid[] wants to speak to you. []He can be found upstairs in the Crew Quarters..
+Use the elevator behind the door to the left of the bartender. It leads up to the crew quarters, sleeping and bathrooms..
+WHAT THE HELL .. !.
+Sergeant Palant can be found in the loading dock on the lower level of the base..
+[] Commander, I am measuring an increase in the particle density. Please - you have the only fully closed suit - reactivate the seals whatever it costs..
+[] Commander, our communication array has just exploded!.
+Ah .. the sound of treason![]Palant! Gather the crew and get out of here. We are under attack! []I'll []go upstairs, []find []Mercer []and cover your back..
+[] .. and you'll probably survive, Commander Mercer![].
+Have a seat in your cockpit and send the code.
+[] Sir, we did not get sent any coordinates and it seems all the vessels are already gone.  And now all the traces of a possible traitor are also eradicated...
+[]  Message incoming. It is from ambassador Hyzani!.
+The system is marked on your map with '[]High Security[]': Find the spot where the Zirax and Kriel territory nearly touch. A few clicks behind the Zirax border, there should be the system.  Go there and warp to the local '[]Asteroid Field[]'.
+[] To distract the troops from the prison, we should []destroy 2 stations[] of the []Ghyst[]. Search for  their bases or defense stations and destroy their station []cores[]..
+Fly to any planet orbit and []destroy 2 stations[] of the []Ghyst[]. If you do not find any, search in the nearby star systems. []Destroy their cores[] to complete the task. Vessels will work as well..
+[] Well done. We should have distracted them enough for now. Fly []to the prison[]. The priority code of the []Ghyst Command Card[] will []silence the turrets[] and []open the hangar doors[] for you. Please let me know when you need help with the escape..
+You need to have the []Ghyst Command Card[] in your inventory to unlock the hangar doors of the prison!.
+Find Cell Block Control.
+Convince the station AI of a required maintenance. Use the various []station consoles[] and read what the station AI is saying. Look for the following keywords in the messages: []Date of Activation[], []Incompatibility errors[] and []Polaris references. []This might take several tries. []Keywords/sentence to look for:[]date of activation[].
+[]Keywords/sentence to look for:[]I keep finding []Polaris references[].
+[]Keywords/sentence to look for:[] incompatibility errors[].
+[] We have them all! Now we need to find the []CPU_Console[]. Take care. It will be guarded!.
+Use the elevator on the right side and go to the lowest level. Then straight ahead until you reach a []red door[]. []From there, follow the painted red corridors up to the Core..
+[] Use the elevator on the right side and go to the lowest level. Then straight ahead until you reach a []red door[]. From there, follow the painted red corridors up to the Core..
+[] Access the console and follow its orders..
+[] To find the CORE, we first need to find the []Quartermasters []office..
+Required: Destroy the CORE in order to complete the task.[]Not required/optional: You can also replace the CORE and capture the station that way. The turrets in the station will then combat remaining enemies - which might wreck some havoc..
+Access the Station Console in the CORE room..
+[] Well done, Commander. Replace the Core to claim the station, if you want. But then we should get out of here and report GLaD what we found!.
+[] Destroy the Core..
+[] The container doors of the []red containers []just opened! Quick - we need to close them!.
+Is it normal that this does not set off an alarm?.
+[] Door lock removed! Attention, Commander. Mercer is not alone!.
+Have a seat in your cockpit.
+[] Self Destruction Countdown started!

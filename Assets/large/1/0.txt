@@ -1,0 +1,144 @@
+﻿Story Chapter 6: []Uncertain Outcomes[].
+The private rooms are on the upper deck of the station..
+Find the meeting room and talk to the GLaD spokesperson named Sectioner32.
+[]Really abort the mission? Please confirm![]You can restart the mission via your PDA (F1) at any time..
+[]I have hacked into the station computers, not only for your landing permission, but to announce you as an inspector. You can go wherever you want. Use this to your advantage, but don't attract suspicion. []Walk around for a while, talk to the []Station Manager[]Then find our contact at the []Transport Manager[] desk..
+Play your role as a station inspector.
+Go to the signal.
+Go to the signal.
+Play your role as a station inspector.
+Speak to the Station Manager.
+Meet the GLaD contact person at the Transport Manager desk.
+Speak to the Transport Manager.
+Speak to the Transport Manager.
+Go to the station mining area and investigate.
+Go to the cellar.
+Follow the marker down to the mining area.
+This has been a strange conversation... without any coherence. Maybe a hidden code?.
+Go to the mine shaft.
+Descend into the mine.
+Descend into the mine.
+Ok, this seems to be the container. Let's look inside..
+Check the container's content.
+There is a pile of cloth and there is... really only a stick! []This is the []Staff of Guidance[]?.
+Escape from the mining facility.
+Make your way to your vessel.
+[] YOU over there! What are you doing here? Freeze![].
+Powers of the Past.
+Find answers in the guts of the planet remnant asteroid.
+Find the Planetary Remnant.
+Find the Planet Remnant.
+The same station we just escaped from... just a little bit more menacing. []Let's see if the Staff of Guidance will lead us through this.[]We'll []land on the lower pad[] this time,[]next to the perimeter beacon..
+Powers of the Past.
+Check the Control Room.
+Check the Perimeter Beacon.
+Land on the lower landing pad.
+I suggest we start up in the control room. []Hopefully there are some data notes we can access, IDA?.
+Check the Control Room.
+Proceed up to the control room.
+[] An access terminal should be somewhere on the upper levels..
+Powers of the Past.
+Find the data nodes.
+Find the terminal on the upper level.
+Powers of the Past.
+Find a way down to the mine shaft.
+So .. the Zirax and the Talon share some history?[]And the proof is hidden down below in this asteroid?[]Ok... []downstairs []again..
+Go to the mine shaft.
+Go to the mine shaft entrance.
+Powers of the Past.
+Descend into the mine.
+Oh, how convenient. Someone has put some []lights to mark the way[]. []Follow the red string, down into the abyss..
+Powers Of The Past.
+Follow the red string.
+Follow the red lights.
+Follow the red string.
+These materials. The inscriptions. []Very familiar..
+Powers Of The Past.
+Powers Of The Past.
+Powers Of The Past.
+Follow the red lights.
+Follow the red string.
+Follow the red lights.
+Follow the red string.
+A subterranean facility? []What are these Zirax and creatures doing down here?.
+Follow the red lights.
+Follow the red lights.
+Definitely not a military compound. []Some sort of a ... temple? An ancient worshiping place?.
+Powers of the Past.
+Follow the red lights.
+Follow the red lights.
+[]I am reading extremely high energy fluctuations ... and ... someone is trying to access my databases![] The info I managed to decode has some ... interesting implications..
+Powers of the Past.
+Enter the AI Core.
+Investigate what lies ahead.
+[] The information we got indicates this is part of an ancient station ... of the so-called  []Talon-Zirax Assembly[]  []What lies in front of you seems to be one of the sections with the AI core and some databases..
+Powers of the Past.
+Talk to the AI.
+Activate the AI and gather all available data.
+Powers of the Past.
+[] I am receiving a data stream with blueprints of the weapon described on the panel!.
+[]I am receiving a secondary data stream. []Again, all construction details of the weapon described on the panel!.
+IDA? I have a strong feeling that this information might change everyone's understanding of what happens here in Andromeda..
+Powers Of The Past.
+[] Indeed. I'm already analyzing the text on the displays.[]We should []head back to Sectioner32[] and deliver these weapon schematics..
+Go to mine shaft.
+Go to Polaris Asteroid Mining Station.
+Go to Polaris Asteroid Mining Station. The station can be found in the []asteroid belt[] in this system!.
+Go to trading station again.
+IDA .. I have a feeling that we are not in this galaxy by any accident..
+Defeat an alien faction base by destroying the core! Notice: You must use projectile weapons to destroy its core - you cannot use explosives (e.g. rocket launcher, explosive device, etc).
+Preparing an Assault means preparing the Basics. And the Basics are run by ores. Prepare your team and let's go!.
+Mine 1000 Promethium Ore. Buying from a marketplace or just having it in your inventory does not complete this Mission!.
+Mine 1000 Magnesium Ore. Buying from a marketplace or just having it in your inventory does not complete this Mission!.
+Mine 1000 Cobalt Ore. Buying from a marketplace or just having it in your inventory does not complete this Mission!.
+Mine 500 Sathium Ore. Buying from a marketplace or just having it in your inventory does not complete this Mission!.
+Mine Neodymium Ore. Buying from a marketplace or just having it in your inventory does not complete this Mission!.
+Your team's battleships will need a lot of fuel for flying around and maybe a few Pentaxid warp crystals for traveling to other planets. Now it is the time to refuel and restock!.
+Craft 1000 Large Fuel Packs.
+Craft 1000 Large Fuel Packs. You'll need to mine or acquire 2500 Promethium Ore..
+Craft 100 Pentaxid. You'll need to mine or acquire 100 Pentaxid (raw material)..
+Prepare for Battle MEDICAL.
+Get prepared for Bullets and Bites! Your team should always carry a few essential medics for use in bad situations in their backpacks..
+For more Info about Status Effects, diseases and how to cure them, please read the DOCTOR'S JOURNAL in the Empyriopedia (F1).
+Prepare for Battle LIFE SUPPORT.
+Your group got all its Ammo and Medicals - but what if the battle takes longer than expected? Having some durable, less-perishable food and emergency oxygen in your backpack may decide about failure or success earlier than you might expect!.
+Cook 5x Canned Meat.
+Cook 5x Canned Meat in the Food Processor..
+Cook 5x Canned Vegetables..
+Cook 5x Canned Vegetables in the Food Processor..
+Is your Group well prepared? Then go ahead and raid some well defended Bases of the Alien factions! Can you keep up with them?.
+The TITAN wreckage is located on the SNOW planet in the starter system. []You need a WARP-capable vessel (Small Vessel + Warpdrive + Pentaxid Tank + Pentaxid fuel).[]Your vessel should have weapons and turrets..
+It seems the Titan has broken into several parts....
+Approach the COM ARRAY. Make sure to clear the area before going inside..
+[] Get us close to a []station console[] so I can have a look in their database..
+Go inside and approach the marked console..
+Find the core room..
+There is another teleporter in this station. You need to find it. Look for a GREEN room and signs that indicate authorized access only..
+The Mainframe is hovering over ground. The teleporter brings you back to the Radar Station entry room. From there you can teleport back to the COM Station..
+[]  Seems like that station has taken a beating already. []Locate the []main access switch and pull it[] to release the info..
+Find the lever and pull it to release the blocked message..
+[] I am receiving a weak UCH positioning signal. []I'll add a []marker []to your radar and hud..
+[]Really abort the mission? Please confirm![]You can start the mission via PDA (F1) at any time..
+Find and access the console on the bridge. []Check the containers for valuable loot..
+[] You should make a []fly-by on all three parts[] for a better scan result.[]150m[] should be enough..
+IDA? Any scanning results?.
+I am afraid we can't expect the Zirax to have left anything for us to find..
+[]  There are some ... secret technical details of the construction they might have not found..
+Is there possibly  more you can tell me?.
+[] Sure.. I am.. wait..Commander, I do not .. there is a .. please wait .. a signal .. has activated a ...
+[]  .. failed .. wave .. protocol .. black .. find override code .. console!.
+[]< Integrated Data Assistant .. remote access detected >[].
+[]< Integrated Data Assistant .. emergency shutdown >[].
+Find which code? Console? Where?.
+... finding a []code[] in a []maintenance console[] in a wreckage, after more than a year of the enemy tearing it apart ....
+This whole expedition is absolutely doomed ....
+Find the maintenance console (colored yellow/orange) in the center of the front part of the TITAN wreckage![]Note: You can re-read the logs by facing the maintenance console and pressing F AND in the Empyriopedia/Journeybook!.
+There are two token consoles in each wreckage. The position is marked on your hud. []Go closer to 2m to proceed with the mission.[]Note: You can re-read the logs by facing the maintenance console and pressing F AND in the Empyriopedia/Journeybook!.
+The command console is marked on our hud.[]Note: You can re-read the logs by facing the maintenance console and pressing F AND in the Empyriopedia/Journeybook!.
+So, of course these codes are distributed over the Titan. []One in each wreckage[] no doubt..
+Go up to the bridge..
+The teleporter is located up the elevator. Use it to proceed with the mission..
+[]  You need to find the []core room[]. Any info should be stored there!.
+[]  The station computer had some interesting info. The Radar Site is heavily defended, but there is a teleporter set up as a side entrance in one of the perimeter stations ... RIGHT HERE!  []Find the teleporter and use it![].
+Pull the lever on the wall in the Core room..
+[]< Access granted > []Mainframe teleport approved.[]

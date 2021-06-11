@@ -1,0 +1,419 @@
+﻿Corvus (Corvette).
+Privateer (Corvette).
+Rum Runner (Corvette).
+Pioneer (Corvette).
+Planeteer (PV).
+Quin Merac (Frigate).
+Pirate Clans (Pir).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Colonists (combat) vessels.
+Freighter C02.
+Freighter C04.
+Freighter C06.
+Freighter AiX.
+Freighter Tug-3.
+Freighter Tug-6.
+Albatross.
+Atherton Heavy Transport.
+Attenborough RS.
+Freighter CA-I.
+Hakon Sunseeker.
+LEV-A23 Horizon.
+MSA Freighter.
+Luxonberg Transport.
+Mule.
+Patron-V Transport.
+SAM-1a Lifter.
+Sparrow.
+Stalos MK4.
+TVI 01.
+TVI 02.
+Warhound Transport.
+Magpie.
+Light Transport P016.
+Medium Transport P017.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Warlords.
+New Task.
+New Action.
+=.
+Seeker Drone.
+Infector G/O (Corvette).
+Decimator (Frigate).
+Hasher.
+Vector A/B (Corvette).
+Breacher (Frigate).
+Hunter Drone.
+Beholder L (Frigate).
+Subjugator (Destroyer).
+Accipiter.
+Overseer (Battleship).
+The LEGACY (Lgc).
+TESCH Collective (Tsc).
+Kriel Empire (Kri).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Warlords.
+D.E.S.C. (DSC).
+The VOID (Voi).
+Progenitor (Pro).
+Free Colonists (Col).
+Talon (Tal).
+Faction information.
+New Task.
+New Action.
+=.
+Titan Class (Cruiser).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Troop Transport (Planet).
+New Task.
+New Action.
+=.
+Resources.
+Planets.
+Attack/Defense Values.
+Teleporter (Survival).
+New Task.
+Basic function.
+Basics.
+New Action.
+=.
+NPC Faction Reputation.
+Station Services.
+Docking (Vessels).
+Global Info.
+Basics.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+NPC vessels.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Questions & Answers.
+Volume & Mass.
+CPU.
+Detector and Scanning.
+Proximity Log (MP).
+Ground Base Attack.
+Boost Capability.
+Torque.
+Aerodynamic Lift.
+Virtual Drag.
+Definition.
+Explanation.
+Using boosters.
+Boost Directions.
+Function.
+Explanation and Usecase.
+Thruster Torque.
+Definition.
+Questions and Answers.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Setup.
+Knowledge.
+Flight Control keys.
+Global Info.
+Overview.
+Connected Toolbar.
+Overview / Setup.
+New Action.
+Knowledge.
+Info.
+Limitations.
+New Action.
+Handling Info.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Movement Blocked.
+Check surroundings.
+Rivalry.
+HUD.
+Levels.
+Actions.
+Basics.
+Player Factions.
+Player Origins.
+New Task.
+New Action.
+=.
+Solar Power (Battery).
+Function.
+Conventional Power (Fuel).
+Planet efficiency factors.
+Function.
+Devices.
+Calculation details.
+COMBAT: Attack values.
+COMBAT: Defense values.
+INFANTRY: Attack values.
+INFANTRY: Defense values.
+AAD, IAD.
+Roaming Entities.
+Space efficiency factors.
+Flight Modes (I).
+Align vessel (O).
+Hover Vessels.
+Lift Capability.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Crafting Machines.
+Survival Constructor.
+Portable Constructor.
+Small Constructor.
+Large Constructor.
+Advanced Constructor.
+Deconstructor.
+Furnace.
+Food Processor.
+Mining techniques.
+Find a resource.
+1. Surface Rocks.
+2. Underground deposits.
+3. Resource Meteoroids.
+4. Resource Asteroids.
+Handheld Drill mining.
+Vessel mining.
+Autominer.
+New Task.
+New Action.
+Map layers.
+1. Planet.
+2. Orbital Sectors.
+3. Solar System.
+4. Galaxy.
+Warp requirements.
+Sector - Sector.
+Navigation.
+Maps.
+Warp destination.
+Bookmarks.
+Starter Info.
+Game Mechanics.
+Warp Limitations.
+Orbital Patrol Vessels.
+Questions and Answers.
+Questions and Answers.
+Freighters.
+Questions and Answers.
+Credibility Seals.
+Restore Reputation.
+== NPCs ==.
+== FACTIONS ==.
+== GALAXY ==.
+=.
+Story Characters.
+Jonathan Hyde, Captain.
+Anita Porter, Commander.
+Kanydan.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+[] Eternal Glaze.
+[] Eternal Syphon.
+Shade.
+New Task.
+New Action.
+=.
+New Task.
+New Task

@@ -1,0 +1,52 @@
+﻿There are several devices that have crafting capabilities:[]1. Survival Constructor []This one serves as a fallback and is always available from your suit[]2. Portable Constructor[]Allows to craft basic devices, for example for a base.[]4. Small, Large and Advanced Constructors[]Offer to craft more advanced materials and devices.[]You can only use them on a Base or in a Capital Vessel[]5. Mobile Constructors[]Available for Small Vessels and Hover Vessels. They offer a limited range of basic and advanced templates to be crafted.[]6. Furnace[]Allows to smelt ores into ingots a lot faster than constructors. []7. Deconstructor[]Allows to break down devices into components[]8. Food Processor[]While the Portable- and Survival Constructor offer some basic food and medical items, the food processor can also create better meals and all advanced medical items.
+Move the Portable Constructor to a free slot onto your toolbar. []Find a suitable place and press the [] as soon as the devices' wireframe turns []blue[]..
+You can change most of the buttons used in the game in the Options menu. []Please note that in tutorials and missions the game might refer to the default-keys used..
+Craft Fuel Tank (T1).
+A fuel tank is required for a base using conventional power sources. []When using solar panels, you need to add a Capacitor (solar) instead.[]Fuel tanks, same as many other devices, come in different sizes, volumes and other parameters.[]Check the Techtree ([]F3[]) for the progression of materials and devices..
+Generators are conventional power sources. They need fuel to be run.[]As an alternative, solar panels can be used (But require a Capacitor(Solar) ).
+Looting wreckages, abandoned bases and stations is a good source of valuable materials! Watch out for containers, crates and cargo boxes!.
+Check the wreckage for anything of interest, like []Containers []or []Personal Containers[]Take ANYTHING you find with you!.
+Note: Other than wreckages, stations and buildings often belong to one of the factions. []If that is the case, opening a container might destroy your factions standing, reducing your reputation to an unfriendly or hostile level!  []Before opening a box or container, check your top center screen. A message will light up there in case you are about to ruin your faction standing..
+'Looting' is the game term for moving items from outside your inventory over into your inventory. ;).
+Use the []arrow[] in the top right corner to move all items to your suit inventory.[]Then close the window..
+Your suit inventory is limited in volume. Although there are possibilities to increase your transport capacity by using more advanced suits or transportation boosters, vessels allow to increase the transport capacity by far.[]With the Logistic Network ([]F4[]) you can even transfer items from one inventory to another inventory without having to manually move each and every item through your inventory. Check the Empyriopedia (F1) for details about the Logistic Network..
+We now have most of the materials to craft the devices we need to power the com station, but we are lacking a few []steel plates[]Use your Survival Tool's SALVAGE mode to []retrieve some steel plates[] by shooting at the building blocks and devices of the wreckage.[]Tip:[]When the structural integrity fails and parts of a structure collapse, you can []pick up the debris[] ([]) for a short time! This will give you back a few of the components!.
+To capture a station and in order to make other devices like generators, turrets and even doors work, you need to place a core.[]Use the Portable Constructor and []craft a Core[] from the []DEVICES []tab..
+After you looted all containers, you should consider salvaging a wreckage for its building materials. Using the SALVAGE mode of the Survival Tool or a Multitool will return components, like steel plates and even more precious items.[]Salvaging building blocks and devices from wreckages or stations without a []core []comes with a certain loss of materials in the process, what means that none of the handheld tools will guarantee a 100% return rate, but between 10% for the Survival Tool and up to 67% for a Multitool T2.  []For structures you own, what means for structures you put a core, the return rate is 100%, though..
+You found a []Motorbike []in the wreckage.[]Move the bike to a free slot in your toolbar and place it on the ground by pressing []..
+A core is required for any vessel or station to work. Without a core, all the devices will fall silent or refuse to work.[]When starting a new base or vessel, the different starter blocks come with a core built in..
+Put the core to a free slot onto your toolbar and select it.[]Place the core[] onto the base when its []outline []becomes []BLUE[]..
+For starting your own base or vessel from scratch, craft a Base Starter or Hover Vessel Starter with the Portable Constructor. []Starters for Small Vessels and Capital Vessels are available from more advanced constructors!.
+This station now belongs to you! []Point at[] any of the base blocks or devices and[] open the Control Panel[] ([]Tip: Starting a base from scratch requires a base starter to be crafted and placed..
+Open Control Panel ([]).
+You can now also access its CONTROL PANEL ([]) which will offer several performance settings and important statistic details!.
+The CONTROL PANEL offers several performance settings and important statistic details.[]For example the DEVICE tab is telling you, that your base is still missing several important devices, like a fuel tank and a generator.[]For the next step []close the Control Panel[] and []open the Techtree[] ([]F3[]) again..
+Access Techtree  []({keybind(TechTree)})[].
+In case you do not have enough Unlock Points to unlock a device, you need to earn XP, for example by running missions, killing enemies, mining or farming to increase your player level. Each player level will reward you with more Unlock points you can spend on the Techtree..
+Go to the []BASE []tab and find the []Fuel Tank (T1)[] and the []Small Generator[] and unlock them.[]Both devices require Unlock points and a Player Level 3! If you haven't reached that level yet, you can level up by mining ores and harvesting plants. []Either []double-click[] on them or use the []UNLOCK button[] on both devices to proceed..
+Unlock Fuel Tank (T1).
+The Small Generator can be found in the BASE tab..
+The Fuel Tank (T1) can be found in the BASE tab..
+Craft a []SMALL GENERATOR[] and a []FUEL TANK (T1)[] from the DEVICES tab in the []Portable Constructor.[].
+Instead of using the POWER slider, pressing[] Y[] while standing on a base block achieves the same.[]The management in the Control Panel is more useful when you want to switch different device groups on and off individually, as the Y-button only works as a general switch..
+BioFuel is the easiest fuel to be crafted. You just need some fiber collected from plants or harvested from small bushes. BioFuel canisters hold only a few fuel points per item.[]Energy Cells (small and large) and Fusion Cells can hold more fuel points per item..
+Place Fuel Tank (T1).
+With the '[]Connect to Base[]' (N) setting you can place devices onto a base without the requirement to touch the core or having to build a base-plate or a floor to place these devices onto.  []Without the 'Connect to Base' being activated (default setting) you can place devices only onto blocks that are connected to the core..
+Conventional generators require fuel tanks to be filled with either BioFuel, Small or Large Energy Cells or Fusion Cells. []Access the Portable Constructor.[].
+Move the []BioFuel []to your []inventory[]Point at any base block[] and press [] to open the []Control Panel[]..
+There are two methods to refill any tank: Either by approaching the tank and pressing F or using the tank management of the Control Panel (P)..
+[]Drag & drop[] the BioFuel onto the '[]FILL FUEL[]' intake.[]Afterwards, open the []Control Panel []again..
+Open Control Panel ([]).
+With any fuel except BioFuel you can use the REFILL button below the tank display. Same applies to refilling O2 and Pentaxid..
+Drag and drop the Detector from the []Survival Constructor Output []in a free slot onto your toolbar and select it..
+Craft a []Portable Constructor[] in the Survival Constructor[]While waiting for the crafting to complete, explore the surrounding area, harvest more plants and gather more resources!.
+The motorbike is the first vessel you can craft. It does not offer any additional transport capacity but driving it is at least a lot faster than walking..[]Note: The bike will fold into a ""power save"" state after a few minutes. You can simply pick it up and place it again to unfold it..
+Point at the motorbike and press [] to mount it.[]Use [], [], [], []D []to drive and steer the motorbike.[]Drive[] back to the Damaged Com Station[] when you are ready..
+Please use the RESOURCE MODE of the Survival Tool.[]Gather 3 Iron Ore[] by shooting at the blue-ish looking, iron-bearing rocks..
+Move the []Small Generator []in a free slot onto your toolbar. Then look at the base and open the Debug Menu ([]). Check the ""[]connect to Damaged Com Station[]"" checkbox and close the menu ([]).[]Place the device anywhere []away from the base []NOT touching any base blocks!.
+To power up the station you need to craft a Portable Constructor at first.[]Open the Techtree []({keybind(TechTree)})[]..
+You can use the Survival Tent  to sleep for 8 hours..
+The Survival Tent serves as a RESPAWN point. (All modes: Single- & Multiplayer).
+Move the Survival Tent to a free slot onto your toolbar, find a suitable place and press []LMB[] when its wireframe turns blue. Press []RMB[] ahead of placing to choose from some[] variants[] of the tent.[]You can use the Survival Tent to sleep 8h..
+Updating mission parameters.. please wait..
+[] There is a settlement. []Approach with caution. We do not know if they are friendly.
