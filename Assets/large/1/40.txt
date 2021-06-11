@@ -1,70 +1,43 @@
-﻿Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-[]Mission aborted![]Open the PDA ([]F1[]) to manually start the []STORY missions[] in the []SOLO MISSIONS[] tab..
-[]Story missions []can be found in the PDA ([]F1[]) []SOLO MISSION[] tab![]Check the Empyriopedia ([]F1[]) on info about game mechanics and related questions!.
-Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-Wait for the message to decode..
-Updating mission parameters.. please wait..
-Wait for the message to be decoded..
-Access the []Portable Constructor []and craft a []Pistol []and the []Pistol Rounds[]You need 5x []iron[], 5x []copper []and []fiber[]..
-Eating can be achieved from every inventory ( []SHIFT + RMB []) or by putting the item to the toolbar and using []LMB[].
-Open the status overview panel []({keybind(Inventory)}) []and eat the Energy Bar by clicking at it with []SHIFT + Right-Mouse-Button (RMB)[]..
-[] Commander, the signal seems to originate from a []damaged com station[] close to our crashsite! I have added a []yellow marker[] onto your screen and radar to follow. You should[] go there[] as you might find more information there.[]Hold []SHIFT []to run. This will deplete your stamina, though..
-Go to the trader you picked up the flamethrower from..
-Follow the marker. The bridge is located in the front part of the wreckage.[]Tip: Jumping in from the side of the bridge area might be an alternative way to find a way inside!.
-Skipping Base Building Tutorial.
-[].. updating mission parameters ..[].
-Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-The switch is on the entry of the bridge on a wall between the two stairs leading up in the bridge area..
-Up to Crew Deck.
-There is a []corridor on the left []with a []staircase []that should lead to the []topmost level[] of the vessel..
-[] We are on the main deck (level 3). []The bridge is on top of the crew deck (level 7)..
-Go upstairs to the crew deck (level 7)..
-[] The ship is in a full lockdown, but we need to go to the bridge and access the captains logs.[]Behind the blast doors there is a []corridor on the left []with a []staircase []that should lead to the topmost level of the vessel with the []bridge[]..
-Follow the corridor on the left to the bridge.
-Now I only need to find the []Bridge Logs[]I better check my weapons. This is much too silent for so many lost souls....
-The logs are saved on a console in the front part of the bridge..
-[] Access the console and review the logs. []This should give us a hint about what has happened here..
-Access the console and retrieve any available log information..
-[] All the logs should be stored in the main core control. To open the doors, we need to []deactivate the containment []system.[]There is a []lockdown override switch[] near the entry of the bridge..
-[] Commander, I am tracking increasing activities in the ship.[]Be careful..
+﻿[ All the logs should be stored in the main core control. To open the doors, we need to [deactivate the containment [system.[There is a [lockdown override switch[ near the entry of the bridge..
+[ Commander, I am tracking increasing activities in the ship.[Be careful..
 Main Control Deck (L5).
 Go to level 5.
 The Main Control Deck can be accessed through the staircase on level 5.
-[] Attention. Hostile creatures detected moving to our position!.
+[ Attention. Hostile creatures detected moving to our position!.
 The System Status Console can be found at the other side of the Main Control Deck, close to the windows that allow you to look down into the cargo bay..
-[] The doors are locked due to an ventilation problem.[]Find the []ventilation control []and resolve the issues..
+[ The doors are locked due to an ventilation problem.[Find the [ventilation control [and resolve the issues..
 The ventilation control is behind the door on the left side of the front cargo bay window..
 Pull the lever in the ventilation maintenance room to open the doors on level 4.
-[] That did not unlock the direct access to the []Cargo Bay 2[], I am afraid. []You need to go back to the []staircase []and enter the []maintenance deck[] on []level 4[]..
+[ That did not unlock the direct access to the [Cargo Bay 2[, I am afraid. [You need to go back to the [staircase [and enter the [maintenance deck[ on [level 4[..
 Go back to the staircase. Go down to the maintenance deck (level 4).
-[] Follow the corridors. They are a bit of a labyrinth. Expect bad surprises.[]I have set a []maker on your screen[] to assist you with the pathfinding..
+[ Follow the corridors. They are a bit of a labyrinth. Expect bad surprises.[I have set a [maker on your screen[ to assist you with the pathfinding..
 The maintenance deck corridors are a labyrinth. IDA has marked the exit on your screen..
-[]We need to go further down to the freight deck. To get there, we need to activate the []Freight Elevator[]. The switch is in the []Cargo Bay 2[], but the way is blocked.[]We need to find the []System Status Console[] on the Main Control Deck..
+[We need to go further down to the freight deck. To get there, we need to activate the [Freight Elevator[. The switch is in the [Cargo Bay 2[, but the way is blocked.[We need to find the [System Status Console[ on the Main Control Deck..
 Cargo Bay 2 (L3).
 The access doors are on the left side when breaking through the passage the explosion created..
 Find the Freight Elevator and go down one level again..
 Using the lever might lead to unforeseen activities..
-The Warp Control Room is in the engine section. You need to make your way through the freight deck.[]Reload often..
-[] There is a []warp core access []door in the control room..
+The Warp Control Room is in the engine section. You need to make your way through the freight deck.[Reload often..
+[ There is a [warp core access [door in the control room..
 Use Warp Core Access.
 The Warp Core Access.
 Find Turbine Room Lever.
 Follow the corridor to the control area for the Turbine Room doors..
-[] We need to go through the warp core and the turbine room, down to the lower freight deck.[]Find the []Turbine Room Lever[] to unlock the doors..
-[] The lever is damaged. But there is another lever on the other side of the warp core.[]Use the door on the other side of the lever, head to the other side of the warp drive and use the []Alternative Access.[].
+[ We need to go through the warp core and the turbine room, down to the lower freight deck.[Find the [Turbine Room Lever[ to unlock the doors..
+[ The lever is damaged. But there is another lever on the other side of the warp core.[Use the door on the other side of the lever, head to the other side of the warp drive and use the [Alternative Access.[.
 The Alternative Access is on the other side of the warp core. Use your jetpack..
 Use Turbine Room Lever.
 Use the lever to open the turbine room blast door down below..
-[] The blast door on the turbine room has opened. []Head down and enter the turbine control room..
+[ The blast door on the turbine room has opened. [Head down and enter the turbine control room..
 Main Cargo Area (L1).
 Turbine Control Room is situated in front of the Warp Core on level 1.
 The Freight Hangar Access door is located on the other side of the Turbine Room entry..
-[]Use the small door on the other side of the room to proceed to the []Main Cargo Area[]..
+[Use the small door on the other side of the room to proceed to the [Main Cargo Area[..
 Go to Main Cargo Area.
 The main cargo area is dangerous..
-[] That's inconvenient. The main access of the Core is blocked. We need to purge that container...but the console is in the maintenance area on level 3.[]Find the []Maintenance Access[] door..
+[ That's inconvenient. The main access of the Core is blocked. We need to purge that container...but the console is in the maintenance area on level 3.[Find the [Maintenance Access[ door..
 Find Maintenance Access (L3).
-You need to go back to level 3. Check for shortcuts![]The Maintenance Access door is located where you entered the vessel the first time.
+You need to go back to level 3. Check for shortcuts![The Maintenance Access door is located where you entered the vessel the first time.
 Use the lever in the control room to purge the container in the main cargo area..
 Find Purge Console (L3).
 The console can be found in the maintenance area. Follow the lines on the ground..
@@ -73,40 +46,45 @@ Go back to the main cargo area..
 Find Cargo Hatch Access.
 The Cargo Hatch Access lever is on the right side after the main gate..
 The Cargo Hatch is a small door on the left wall..
-[] The Cargo Hatch is now open.  Enter the storage rooms behind it..
-[] Find the []Entry Point[] to the core area..
+[ The Cargo Hatch is now open.  Enter the storage rooms behind it..
+[ Find the [Entry Point[ to the core area..
 The Entry Point can be found easily. Just follow the lights..
-[] My sensors are tracking a constant flow of particles. They seem to come through a damaged vent .. we could also use to get to the core faster.[]Search for a []Damaged Vent[] on the upper area of this cargo hold..
+[ My sensors are tracking a constant flow of particles. They seem to come through a damaged vent .. we could also use to get to the core faster.[Search for a [Damaged Vent[ on the upper area of this cargo hold..
 The damaged vent is located at the upper part behind a few crates..
-[] There it is. Let's try if we can use this passage. Search for a []Possible Exit[]..
+[ There it is. Let's try if we can use this passage. Search for a [Possible Exit[..
 Search for Possible Exit.
 Just follow the pipe.
-[]The particle density is dropping. Be careful!.
+[The particle density is dropping. Be careful!.
 Kill the Alien Assassin (Infected).
-[]The next room should hold the []Core Console[].  Access it to find answers..
-The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[]Move ahead and []meet Sectioner32[] on the []civil WayStation[] in one of the []gas giant moons orbit[]..
-[] Commander. The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[]We shall move ahead and []meet Sectioner32[] on the []civil WayStation[] in one of the []gas giant moons orbit[]..
-[]    [].. cannot .. how can a .. lower being ..[].
-[]    [].. you will .. be consumed .. and obliterated ..[].
-[]    [].. this .. not the end .. will prevail .. you .. [].
-[]    [].. you will pay for harming my children ..[].
-[]The []lever[] for activating the Freight Elevator is in the cargo bay on the []wall below the windows[]..
-[]    [].. resign from your crusade and your essence will prevail ..[].
-[]    [].. the powers of this vessel will rebirth me ..[].
-[]    [].. it is impossible you ever could succeed with what you do ..[].
-[]    [].. you seem .. to have .. the will to ..[].
-[]    [].. this is not .. possible .. you must be defeated  ..[].
-[] Commander, I am afraid it is nearly impossible to navigate here. The ship has been rebuilt and the construction plans are worthless.[]The only thing I can try is to []give you waypoints[] to guide you in the direction of the core..
-[]    [].. rebelling against the inevitable will achieve nothing ..[].
-[] Use the freight elevator and go down to the freight deck (level 2).[]Expect a lot of those creatures down there. The amount of movement is massive![]Make your way through the freight deck and find the []Warp Core Control[] rooms in the engine section..
-[] Use the []Freight Hangar Access[] on the other side of the Turbine room..
-[]    [].. challenged by a miniscule being .. [].
-[] The area ahead of us seems to be .. rebuilt?[]Hopefully the Cargo Hatch Access is still there. Go find and use it..
-[] I suggest to []investigate[] the []Control Station. []The pilot of the vessel has had contact with the station, as the report indicates..
+[The next room should hold the [Core Console[.  Access it to find answers..
+The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[Move ahead and [meet Sectioner32[ on the [civil WayStation[ in one of the [gas giant moons orbit[..
+[ Commander. The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[We shall move ahead and [meet Sectioner32[ on the [civil WayStation[ in one of the [gas giant moons orbit[..
+[    [.. cannot .. how can a .. lower being ..[.
+[    [.. you will .. be consumed .. and obliterated ..[.
+[    [.. this .. not the end .. will prevail .. you .. [.
+[    [.. you will pay for harming my children ..[.
+[The [lever[ for activating the Freight Elevator is in the cargo bay on the [wall below the windows[..
+[    [.. resign from your crusade and your essence will prevail ..[.
+[    [.. the powers of this vessel will rebirth me ..[.
+[    [.. it is impossible you ever could succeed with what you do ..[.
+[    [.. you seem .. to have .. the will to ..[.
+[    [.. this is not .. possible .. you must be defeated  ..[.
+[ Commander, I am afraid it is nearly impossible to navigate here. The ship has been rebuilt and the construction plans are worthless.[The only thing I can try is to [give you waypoints[ to guide you in the direction of the core..
+[    [.. rebelling against the inevitable will achieve nothing ..[.
+[ Use the freight elevator and go down to the freight deck (level 2).[Expect a lot of those creatures down there. The amount of movement is massive![Make your way through the freight deck and find the [Warp Core Control[ rooms in the engine section..
+[ Use the [Freight Hangar Access[ on the other side of the Turbine room..
+[    [.. challenged by a miniscule being .. [.
+[ The area ahead of us seems to be .. rebuilt?[Hopefully the Cargo Hatch Access is still there. Go find and use it..
+[ I suggest to [investigate[ the [Control Station. [The pilot of the vessel has had contact with the station, as the report indicates..
 Plan the next steps..
-[] Check any []console[] for logs about the reported incident and the Ilmarinen..
-[] Commander, there is a locked []teleporter[]! The log warned us, but I think we have no other choice as to []use that teleporter[] so we at least have a chance to find out what was happening.[]Check the switches in the room to override the lock..
-Open Control Panel ([]).
-Open the Control Panel ([]).
-Find the FUEL TANK display on the []MAIN []tab and hit []MANAGE []to open the FUEL interface..
-The Prisoner is held captive in a container at the back of the wreckage
+[ Check any [console[ for logs about the reported incident and the Ilmarinen..
+[ Commander, there is a locked [teleporter[! The log warned us, but I think we have no other choice as to [use that teleporter[ so we at least have a chance to find out what was happening.[Check the switches in the room to override the lock..
+Open Control Panel ([).
+Open the Control Panel ([).
+Find the FUEL TANK display on the [MAIN [tab and hit [MANAGE [to open the FUEL interface..
+The Prisoner is held captive in a container at the back of the wreckage.
+In the overview, use the [POWER [button to activate the base.[Alternatively you can stand on any of the base blocks and hit [Y. [.
+After having crashed on this unknown planet, IDA is tracking a faint signal coming from a [Damaged Com Station.[Find it and start your journey![Location: Starter Planet; Ellyon System (Starter System)[.
+Follow the yellow marker on the HUD..
+[ There seems to be a [console [inside the shelter.[Find and access it ([)..
+[ Commander, I am tracking a faint communication signal in a wreckage nearby.[There seems to be a [Damaged Com Station[ nearby. I have added a [marker [onto your screen.

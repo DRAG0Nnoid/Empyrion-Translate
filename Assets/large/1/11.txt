@@ -1,100 +1,110 @@
-﻿[]Q: Do I need to use EAC (Easy Anti Cheat) for Single Player?[]No. You can switch off EAC via the main menu. Go to MISC and set EAC to NO. But please note: With EAC deactivated, you cannot access any server that is EAC protected!.
-1. Play the TUTORIAL (Main Menu > Tutorial!)[]2. The []SURVIVAL TOOL[] has a DEFENCE mode! []3. Use RIGHT-MOUSE button to set your weapons and tools to the correct WORKING MODE before using! []4a. Plan AHEAD what you need to pick up and mind the VOLUME and MASS limit of your suit! []4b. Try to build a Portable Constructor early on to store the surplus! []5a. Deco Rocks will not hold any ore, but different amounts of Crushed Stones, which can again be made into some Ores! []5b. Avoid getting trapped in a mine shaft by using your PERSONAL DRONE (F5) for mining. []6. Cold and Heat can be countered either by the []Portable Heater/Cooler[] (Survival Constructor) or Hot- and Cold Beverages/Juices! []7. Do grab anything you run into, but mind that most of the edible items will SPOIL/Perish. []7a. Craft higher tier items from your collected items asap! Those have an increased perish time and do not spoil that fast![]7b. Plants will regrow - if you find a rare plant, mark it on your minimap with a waypoint! []Check Empyriopedia > Game Mechanics Q&A > Global Game Mechanics Part II[] for more info on how to do that! []8. Remember, that other players cannot see your markers, even when they are in your faction!. You need to SHARE your markers on the MAP (M) and other players need to pick them FROM the MAP screen! []9. The PORTABLE CONSTRUCTOR can build a LIGHT ARMOR in the PORTABLE CONSTRUCTOR, but you need a ARMOR LOCKER (in a vessel or your base) to equip it! The Locker is also craftable in the Portable Constructor []10. Read the JOURNALS and GUIDES in the list on the left for MORE INFO about gameplay and environment![].
-[]When getting stranded in a remote place, it is always useful to know what diseases you could probably be faced with ...and how to cure them. []Forel Mayne, MD UCH Medical Corps 2470 AD []--- []To show all topics of this guide, click the DROPDOWN ARROW of this chapters HEADLINE in the list on the left! Click the SUB-task to reveal the info contained. Make sure the PDA INFO button on the TOP RIGHT of the screen is selected![].
-[]Click on the header of this chapter (10 Tips for GETTING STARTED) in the list on the LEFT to reveal the content of this chapter[]IF nothing is shown, make sure the button PDA INFO is highlighted in the TOP RIGHT![].
-1. Cure a disease in its early stage, as any following stage will make it worse. []2. All diseases can be cured with one of this medication classes: []*Antibiotics []*Antitoxin []*Antiparasitic []*Anti Radiation []*Bones []3. Exception: Effects that are related to outside temperature are cured f.ex. by going to a warmer or cooler place []4. The diseases progress in stages. Each stage has a defined class of medical items to use: []*Stage 1: Ointments (f.ex Antibiotic Ointment) []*Stage 2: Pills (f.ex. Antibiotic Pills) []*Stage 3: Injections (f.ex. Antibiotic Injections; Will also cure Stage 2) []5. While medical items are effective only against a few diseases at the same time, []Medikits and Medical Stations[] offer a much broader range of available cures! []6. Food, Beverages or using furniture for sleeping, taking a shower and more are helping to get rid of some of the diseases or at least stop their progress! []Open the DROPDOWN of the DOCTORS JOURNAL on the left to learn more about the diseases and their remedies![].
-[](In-Suit Temperature) Too Hot (>35°) >> Heat Stroke (>45°) >> Heat Collapse (>55°) Too Cold (<15°) >> Hypothermia (<10°) >> Freezing (<5°)[].
-[]Open Wound >> Infected Wound >> Sepsis Dermal Burn >> Infected Wound >> Sepsis Frostbite >> Necrosis >> (Intoxication)[].
-[]Poison Bite >> Intoxication >> Organ Failure Indigestion >> Food Poisoning >> Fever Attack >> Organ Failure[].
-[]Broken Leg >>> Mutilation Closed Fracture >> Open Fracture >> Mutilation[].
-[]Dermal Parasite >> Endoparasite >> Alien Parasite[].
-[]Radiation Burn (>1 Rad) >> Radiation Poisoning >> Radiation Sickness (>4 Rad)[].
-[]Hangover >> Bad Trip[]Open the DROPDOWN of the DOCTORS JOURNAL on the left to learn more about the diseases and their remedies![].
-[]- Antiparasitic Injection []- Decontamination Kit[].
-[]- Medical Station Type 4[].
-..when received: []Fever Attack[]..when cured: - []..when not cured: []Death[].
-- Sleeping []- Use Toilet.
-- Milk []- Hot Beverage.
-..when received: - []..when cured: - []..when not cured: []Hangover[].
+﻿1. Play the TUTORIAL (Main Menu > Tutorial!)[2. The [SURVIVAL TOOL[ has a DEFENCE mode! [3. Use RIGHT-MOUSE button to set your weapons and tools to the correct WORKING MODE before using! [4a. Plan AHEAD what you need to pick up and mind the VOLUME and MASS limit of your suit! [4b. Try to build a Portable Constructor early on to store the surplus! [5a. Deco Rocks will not hold any ore, but different amounts of Crushed Stones, which can again be made into some Ores! [5b. Avoid getting trapped in a mine shaft by using your PERSONAL DRONE (F5) for mining. [6. Cold and Heat can be countered either by the [Portable Heater/Cooler[ (Survival Constructor) or Hot- and Cold Beverages/Juices! [7. Do grab anything you run into, but mind that most of the edible items will SPOIL/Perish. [7a. Craft higher tier items from your collected items asap! Those have an increased perish time and do not spoil that fast![7b. Plants will regrow - if you find a rare plant, mark it on your minimap with a waypoint! [Check Empyriopedia > Game Mechanics Q&A > Global Game Mechanics Part II[ for more info on how to do that! [8. Remember, that other players cannot see your markers, even when they are in your faction!. You need to SHARE your markers on the MAP (M) and other players need to pick them FROM the MAP screen! [9. The PORTABLE CONSTRUCTOR can build a LIGHT ARMOR in the PORTABLE CONSTRUCTOR, but you need a ARMOR LOCKER (in a vessel or your base) to equip it! The Locker is also craftable in the Portable Constructor [10. Read the JOURNALS and GUIDES in the list on the left for MORE INFO about gameplay and environment![.
+[When getting stranded in a remote place, it is always useful to know what diseases you could probably be faced with ...and how to cure them. [Forel Mayne, MD UCH Medical Corps 2470 AD [--- [To show all topics of this guide, click the DROPDOWN ARROW of this chapters HEADLINE in the list on the left! Click the SUB-task to reveal the info contained. Make sure the PDA INFO button on the TOP RIGHT of the screen is selected![.
+[Click on the header of this chapter (10 Tips for GETTING STARTED) in the list on the LEFT to reveal the content of this chapter[IF nothing is shown, make sure the button PDA INFO is highlighted in the TOP RIGHT![.
+1. Cure a disease in its early stage, as any following stage will make it worse. [2. All diseases can be cured with one of this medication classes: [*Antibiotics [*Antitoxin [*Antiparasitic [*Anti Radiation [*Bones [3. Exception: Effects that are related to outside temperature are cured f.ex. by going to a warmer or cooler place [4. The diseases progress in stages. Each stage has a defined class of medical items to use: [*Stage 1: Ointments (f.ex Antibiotic Ointment) [*Stage 2: Pills (f.ex. Antibiotic Pills) [*Stage 3: Injections (f.ex. Antibiotic Injections; Will also cure Stage 2) [5. While medical items are effective only against a few diseases at the same time, [Medikits and Medical Stations[ offer a much broader range of available cures! [6. Food, Beverages or using furniture for sleeping, taking a shower and more are helping to get rid of some of the diseases or at least stop their progress! [Open the DROPDOWN of the DOCTORS JOURNAL on the left to learn more about the diseases and their remedies![.
+[(In-Suit Temperature) Too Hot (>35°) >> Heat Stroke (>45°) >> Heat Collapse (>55°) Too Cold (<15°) >> Hypothermia (<10°) >> Freezing (<5°)[.
+[Open Wound >> Infected Wound >> Sepsis Dermal Burn >> Infected Wound >> Sepsis Frostbite >> Necrosis >> (Intoxication)[.
+[Poison Bite >> Intoxication >> Organ Failure Indigestion >> Food Poisoning >> Fever Attack >> Organ Failure[.
+[Broken Leg >>> Mutilation Closed Fracture >> Open Fracture >> Mutilation[.
+[Dermal Parasite >> Endoparasite >> Alien Parasite[.
+[Radiation Burn (>1 Rad) >> Radiation Poisoning >> Radiation Sickness (>4 Rad)[.
+[Hangover >> Bad Trip[Open the DROPDOWN of the DOCTORS JOURNAL on the left to learn more about the diseases and their remedies![.
+[- Antiparasitic Injection [- Decontamination Kit[.
+[- Medical Station Type 4[.
+..when received: [Fever Attack[..when cured: - [..when not cured: [Death[.
+- Sleeping [- Use Toilet.
+- Milk [- Hot Beverage.
+..when received: - [..when cured: - [..when not cured: [Hangover[.
 Over-consumption of Energy Pills and Natural Stimulant.
-[]- Bandages []- Trauma Kit[].
-[]- Medical Station Type 3[].
-..when received: - []..when cured: - []..when not cured: []Mutilation[].
-[]- Bandages []- Trauma Kit[].
-[]- Medical Station Type 3[].
-..when received: - []..when cured: - []..when not cured: []Mutilation[].
-[]- Antibiotic Ointment []- Antibiotic Pills []- Antibiotic Injection []- Trauma Kit[].
-[]- Medic Station []- Medical Station Type 2[].
-- Natural Sweetener []- Herbal Leaves.
-..when received: - []..when cured: - []..when not cured: []Infected Wound[].
-[]- Antitoxic Ointment []- Antiparasitic Pills []- Antiparasitic Injection []- Decontamination Kit[].
-[]- Medical Station Type 1 []- Medical Station Type 4[].
-..when received: - []..when cured: []Open Wound[]..when not cured: []Endoparasite[].
-[]- Antiparasitic Pills []- Antiparasitic Injection []- Decontamination Kit[].
-[]- Medical Station Type 4[].
-..when received: []Infected Wound[]..when cured: - []..when not cured: []Alien Parasite[].
-[]- Anti Toxic Injection []- Detox Kit[].
-[]- Medical Station Type 1 []- Medical Station Type 4[].
-..when received: - []..when cured: - []..when not cured: []Organ Failure[].
-[]- Antitoxic Pills []- Antitoxic Injection []- Detox Kit[].
-[]- Medic Station []- Medical Station Type 1[].
-..when received: - []..when cured: - []..when not cured: []Fever Attack[].
-..[]Increase In-Suit Temperature above 5°C by:[]..sleeping []..taking a Shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+[- Bandages [- Trauma Kit[.
+[- Medical Station Type 3[.
+..when received: - [..when cured: - [..when not cured: [Mutilation[.
+[- Bandages [- Trauma Kit[.
+[- Medical Station Type 3[.
+..when received: - [..when cured: - [..when not cured: [Mutilation[.
+[- Antibiotic Ointment [- Antibiotic Pills [- Antibiotic Injection [- Trauma Kit[.
+[- Medic Station [- Medical Station Type 2[.
+- Natural Sweetener [- Herbal Leaves.
+..when received: - [..when cured: - [..when not cured: [Infected Wound[.
+[- Antitoxic Ointment [- Antiparasitic Pills [- Antiparasitic Injection [- Decontamination Kit[.
+[- Medical Station Type 1 [- Medical Station Type 4[.
+..when received: - [..when cured: [Open Wound[..when not cured: [Endoparasite[.
+[- Antiparasitic Pills [- Antiparasitic Injection [- Decontamination Kit[.
+[- Medical Station Type 4[.
+..when received: [Infected Wound[..when cured: - [..when not cured: [Alien Parasite[.
+[- Anti Toxic Injection [- Detox Kit[.
+[- Medical Station Type 1 [- Medical Station Type 4[.
+..when received: - [..when cured: - [..when not cured: [Organ Failure[.
+[- Antitoxic Pills [- Antitoxic Injection [- Detox Kit[.
+[- Medic Station [- Medical Station Type 1[.
+..when received: - [..when cured: - [..when not cured: [Fever Attack[.
+..[Increase In-Suit Temperature above 5°C by:[..sleeping [..taking a Shower [..going inside a powered base or vessel [..using the Mobile AirCon.
 - Hot Beverages and most meals will increase your temperature as well.
-..when received: - []..when cured: - []..when not cured: []Death[].
+..when received: - [..when cured: - [..when not cured: [Death[.
 In-Suit Temperature lower than 5°C.
-[]- Antibiotic Ointment []- Antibiotic Pills []- Antibiotic Injection []- Trauma Kit[].
-[]- Medic Station []- Medical Station Type 2[].
-..when received: - []..when cured: - []..when not cured: []Necrosis[].
-- Sleeping []- Use Toilet.
-- Purified Water []- Hot Beverage []- Fruit Juice.
-..when received: - []..when cured: - []..when not cured: []Bad Trip[].
+[- Antibiotic Ointment [- Antibiotic Pills [- Antibiotic Injection [- Trauma Kit[.
+[- Medic Station [- Medical Station Type 2[.
+..when received: - [..when cured: - [..when not cured: [Necrosis[.
+- Sleeping [- Use Toilet.
+- Purified Water [- Hot Beverage [- Fruit Juice.
+..when received: - [..when cured: - [..when not cured: [Bad Trip[.
 Over-consumption of alcoholic beverages and energy drinks.
-[]Decrease In-Suit Temperature below 55°C by:[]..sleeping []..taking a Shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+[Decrease In-Suit Temperature below 55°C by:[..sleeping [..taking a Shower [..going inside a powered base or vessel [..using the Mobile AirCon.
 Purified Water, Juices, Milk, Fruits and a few meals will decrease your temperature.
-..when received: - []..when cured: - []..when not cured: []Death[].
+..when received: - [..when cured: - [..when not cured: [Death[.
 In-Suit Temperature higher than 55°C.
-[]Decrease In-Suit Temperature below 45°C by:[]..sleeping []..taking a shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+[Decrease In-Suit Temperature below 45°C by:[..sleeping [..taking a shower [..going inside a powered base or vessel [..using the Mobile AirCon.
 Purified Water, Juices, Milk, Fruits and a few meals will decrease your temperature.
-..when received: - []..when cured: - []..when not cured: []Death[].
+..when received: - [..when cured: - [..when not cured: [Death[.
 In-Suit Temperature higher than 45°C.
-[]Increase In-Suit Temperature above 10°C by:[]..sleeping []..taking a shower []..going inside a powered base or vessel []..using the Mobile AirCon.
+[Increase In-Suit Temperature above 10°C by:[..sleeping [..taking a shower [..going inside a powered base or vessel [..using the Mobile AirCon.
 Hot Beverages and most meals will increase your temperature as well.
-..when received: - []..when cured: - []..when not cured: []Death[].
+..when received: - [..when cured: - [..when not cured: [Death[.
 In-Suit Temperature lower than 10°C.
-[]- Stomach Pills []- Antitoxic Pills []- Antitoxic Injection []- Detox Kit[].
-[]- Medical Station Type 1[].
-- Natural Sweetener []- Herbal Leaves []- Spice (small chance to cause Indigestion again!).
-..when received: - []..when cured: - []..when not cured: []Food Poisoning[].
+[- Stomach Pills [- Antitoxic Pills [- Antitoxic Injection [- Detox Kit[.
+[- Medical Station Type 1[.
+- Natural Sweetener [- Herbal Leaves [- Spice (small chance to cause Indigestion again!).
+..when received: - [..when cured: - [..when not cured: [Food Poisoning[.
 - Eating raw ingredients, plants or crops - Overusing Pills and Injections.
-[]- Antibiotic Pills []- Antibiotic Injection []- Trauma Kit[].
-[]- Medical Station Type 2[].
-..when received: - []..when cured: - []..when not cured: []Sepsis[].
-[]- Antitoxic Pills []- Antitoxic Injection []- Detox Kit[].
-[]- Medical Station Type 1[].
-..when received: - []..when cured: - []..when not cured: []Organ Failure[].
-[]- Medical Station Type 3[].
-..when received: - []..when cured: - []..when not cured: []Very slow movement / No stamina[].
-[]- Antibiotic Ointment []- Antibiotic Pills []- Antibiotic Injection []- Trauma Kit[].
-[]- Medical Station Type 2[].
-..when received: - []..when cured: - []..when not cured: []Intoxication[].
-[]- Bandages []- Trauma Kit[].
-[]- Medical Station Type 3[].
-..when received: - []..when cured: - []..when not cured: []Mutilation[].
-[]- Bandages []- Antibiotic Ointment []- Antibiotic Pills []- Antibiotic Injection []- Health Pack []- Trauma Kit[].
-[]- Medical Station Type 2[].
-..when received: - []..when cured: - []..when not cured: []Infected Wound[].
-[]- Antitoxic Injection []- Detox Kit[].
-[]- Medical Station Type 1[].
-..when received: - []..when cured: - []..when not cured: []Death[].
-[]- Antitoxic Ointment []- Antitoxic Pills []- Antitoxic Injection []- Detox Kit[].
-[]- Medical Station Type 1[].
-- Natural Sweetener []- Herbal Leaves []- Mushrooms []- Varon Root.
-..when received: - []..when cured: - []..when not cured: []Intoxication[].
-[]- Anti Radiation Ointment []- Radiation Pills []- Anti Radiation Injection []- Decontamination Kit[].
-[]- Medical Station Type 4[].
-You also []NEED TO LOWER Body Radiation below 1[] by:[]..taking a shower []..consuming Anti-Radiation medication.
-..when received: []Open Wound[]..when cured: - []..when not cured: []Radiation Poisoning[].
+[- Antibiotic Pills [- Antibiotic Injection [- Trauma Kit[.
+[- Medical Station Type 2[.
+..when received: - [..when cured: - [..when not cured: [Sepsis[.
+[- Antitoxic Pills [- Antitoxic Injection [- Detox Kit[.
+[- Medical Station Type 1[.
+..when received: - [..when cured: - [..when not cured: [Organ Failure[.
+[- Medical Station Type 3[.
+..when received: - [..when cured: - [..when not cured: [Very slow movement / No stamina[.
+[- Antibiotic Ointment [- Antibiotic Pills [- Antibiotic Injection [- Trauma Kit[.
+[- Medical Station Type 2[.
+..when received: - [..when cured: - [..when not cured: [Intoxication[.
+[- Bandages [- Trauma Kit[.
+[- Medical Station Type 3[.
+..when received: - [..when cured: - [..when not cured: [Mutilation[.
+[- Bandages [- Antibiotic Ointment [- Antibiotic Pills [- Antibiotic Injection [- Health Pack [- Trauma Kit[.
+[- Medical Station Type 2[.
+..when received: - [..when cured: - [..when not cured: [Infected Wound[.
+[- Antitoxic Injection [- Detox Kit[.
+[- Medical Station Type 1[.
+..when received: - [..when cured: - [..when not cured: [Death[.
+[- Antitoxic Ointment [- Antitoxic Pills [- Antitoxic Injection [- Detox Kit[.
+[- Medical Station Type 1[.
+- Natural Sweetener [- Herbal Leaves [- Mushrooms [- Varon Root.
+..when received: - [..when cured: - [..when not cured: [Intoxication[.
+[- Anti Radiation Ointment [- Radiation Pills [- Anti Radiation Injection [- Decontamination Kit[.
+[- Medical Station Type 4[.
+You also [NEED TO LOWER Body Radiation below 1[ by:[..taking a shower [..consuming Anti-Radiation medication.
+..when received: [Open Wound[..when cured: - [..when not cured: [Radiation Poisoning[.
 Body Radiation > 1.
-[]- Radiation Pills []- Anti Radiation Injection []- Decontamination Kit[].
-[]- Medical Station Type 4[]
+[- Radiation Pills [- Anti Radiation Injection [- Decontamination Kit[.
+[- Medical Station Type 4[.
+..when received: [Intoxication[..when cured: - [..when not cured: [Radiation Sickness[.
+[- Anti Radiation Injection [- Decontamination Kit[.
+[- Medical Station Type 4[.
+You also [NEED TO LOWER Body Radiation below 1[ by:[..taking a shower [..consuming Anti-Radiation medication.
+..when received: [Intoxication[..when cured: - [..when not cured: [Death[.
+Body Radiation > 4.
+[- Antibiotic Injection [- Trauma Kit[.
+[- Medical Station Type 2[.
+..when received: [Fever Attack[..when cured: - [..when not cured: [Death[.
+- Energy Pills [- Adrenaline Injection.
+- [Wait until effect is removed (5 seconds)[

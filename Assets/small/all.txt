@@ -79,7 +79,7 @@ The Titan.
 Me.
 Me.
 ===.
-[] Not yet..
+[ Not yet..
 ===.
 Wreckage.
 Wreckage.
@@ -529,7 +529,7 @@ Prison Break.
 Find override access.
 Debriefing.
 ===.
-[]...to be continued![].
+[...to be continued![.
 Destroy Targets.
 Polaris - Production.
 Destroy Targets.
@@ -738,54 +738,54 @@ n/a.
 n/a.
 n/a.
 n/a.
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*Antiparasitic medication[].
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*n/a[].
-[]*Antitoxic medication []*Medikits[].
-[]*Akua Berries bush[].
-[]*Akua Berries bush[].
-[]*n/a[].
-[]*Blue Alien Flower[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*Ingredient for meals[].
-[]*Fiber Plant[].
-[]*Fiber Plant[].
-[]*Wood Logs[].
-[]*Fire Moss[].
-[]*n/a[].
-[]*n/a[].
-[]*Wild Grain[].
-[]*n/a[].
-[]*Meals[].
-[]*Aloe Vera[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*Ingredient for meals[].
-[]*Brown Mushroom[].
-[]*n/a[].
-[]*Kavae Plant[].
-[]*n/a[].
-[]*Alien Worm plant[].
-[]*Alien Worm plant[].
-[]*n/a[].
-[]*Ahax plant[].
-[]*Vegetables[].
-[]*Cobra Leaves[].
-[]*Cobra Leaves[].
-[]*n/a[].
-[]*n/a[].
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*Antiparasitic medication[.
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*n/a[.
+[*Antitoxic medication [*Medikits[.
+[*Akua Berries bush[.
+[*Akua Berries bush[.
+[*n/a[.
+[*Blue Alien Flower[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*Ingredient for meals[.
+[*Fiber Plant[.
+[*Fiber Plant[.
+[*Wood Logs[.
+[*Fire Moss[.
+[*n/a[.
+[*n/a[.
+[*Wild Grain[.
+[*n/a[.
+[*Meals[.
+[*Aloe Vera[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*Ingredient for meals[.
+[*Brown Mushroom[.
+[*n/a[.
+[*Kavae Plant[.
+[*n/a[.
+[*Alien Worm plant[.
+[*Alien Worm plant[.
+[*n/a[.
+[*Ahax plant[.
+[*Vegetables[.
+[*Cobra Leaves[.
+[*Cobra Leaves[.
+[*n/a[.
+[*n/a[.
 KRIEL.
 TRADERS GUILD.
 Tag: Any.
@@ -1670,8 +1670,8 @@ New Action.
 New Task.
 New Action.
 =.
-[] Eternal Glaze.
-[] Eternal Syphon.
+[ Eternal Glaze.
+[ Eternal Syphon.
 Shade.
 New Task.
 New Action.
@@ -1686,11 +1686,11 @@ Sy'reem Destroyer.
 New Task.
 New Action.
 =.
-[] Leviathan.
-[] Esco.
-[] Cerberus.
-[] Raider.
-[] Nemesis.
+[ Leviathan.
+[ Esco.
+[ Cerberus.
+[ Raider.
+[ Nemesis.
 New Task.
 New Action.
 =.
@@ -1858,10 +1858,10 @@ Reveal Signal position.
 Use Detector.
 Crash Site.
 Personal Data Assistant.
-Open PDA []({keybind(PDA)})[].
+Open PDA [({keybind(PDA)})[.
 Exit PDA.
 Status Panel.
-Open []({keybind(Inventory)})[].
+Open [({keybind(Inventory)})[.
 Survival Tool.
 Harvest Plant Protein.
 Extract Fiber.
@@ -1882,7 +1882,7 @@ Com Station.
 Access Console.
 Techtree.
 Large Wreckage.
-Access Techtree []({keybind(TechTree)})[].
+Access Techtree [({keybind(TechTree)})[.
 Unlock Port. Constructor.
 Gather Iron Ore.
 Craft Port.Constructor.
@@ -1921,7 +1921,7 @@ Assessing situation.
 Updating mission.
 Follow the indices.
 Unlock Weapons.
-Access Techtree []({keybind(TechTree)})[].
+Access Techtree [({keybind(TechTree)})[.
 Close Techtree.
 Craft Pistol.
 Craft Pistol Round.
@@ -2059,8 +2059,8 @@ Assessing Situation.
 Updating mission.
 Message incoming!.
 decoding...
-[]..message incoming..[].
-[]..message incoming..[].
+[..message incoming..[.
+[..message incoming..[.
 Crafting Preparations.
 Eat Energy Bar.
 Go to Trader.

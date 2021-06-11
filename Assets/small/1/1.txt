@@ -134,7 +134,7 @@ Prison Break.
 Find override access.
 Debriefing.
 ===.
-[]...to be continued![].
+[...to be continued![.
 Destroy Targets.
 Polaris - Production.
 Destroy Targets.
@@ -343,54 +343,54 @@ n/a.
 n/a.
 n/a.
 n/a.
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*Antiparasitic medication[].
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*Medikits[].
-[]*n/a[].
-[]*n/a[].
-[]*Antitoxic medication []*Medikits[].
-[]*Akua Berries bush[].
-[]*Akua Berries bush[].
-[]*n/a[].
-[]*Blue Alien Flower[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*Ingredient for meals[].
-[]*Fiber Plant[].
-[]*Fiber Plant[].
-[]*Wood Logs[].
-[]*Fire Moss[].
-[]*n/a[].
-[]*n/a[].
-[]*Wild Grain[].
-[]*n/a[].
-[]*Meals[].
-[]*Aloe Vera[].
-[]*n/a[].
-[]*n/a[].
-[]*n/a[].
-[]*Ingredient for meals[].
-[]*Brown Mushroom[].
-[]*n/a[].
-[]*Kavae Plant[].
-[]*n/a[].
-[]*Alien Worm plant[].
-[]*Alien Worm plant[].
-[]*n/a[].
-[]*Ahax plant[].
-[]*Vegetables[].
-[]*Cobra Leaves[].
-[]*Cobra Leaves[].
-[]*n/a[].
-[]*n/a[].
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*Antiparasitic medication[.
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*Medikits[.
+[*n/a[.
+[*n/a[.
+[*Antitoxic medication [*Medikits[.
+[*Akua Berries bush[.
+[*Akua Berries bush[.
+[*n/a[.
+[*Blue Alien Flower[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*Ingredient for meals[.
+[*Fiber Plant[.
+[*Fiber Plant[.
+[*Wood Logs[.
+[*Fire Moss[.
+[*n/a[.
+[*n/a[.
+[*Wild Grain[.
+[*n/a[.
+[*Meals[.
+[*Aloe Vera[.
+[*n/a[.
+[*n/a[.
+[*n/a[.
+[*Ingredient for meals[.
+[*Brown Mushroom[.
+[*n/a[.
+[*Kavae Plant[.
+[*n/a[.
+[*Alien Worm plant[.
+[*Alien Worm plant[.
+[*n/a[.
+[*Ahax plant[.
+[*Vegetables[.
+[*Cobra Leaves[.
+[*Cobra Leaves[.
+[*n/a[.
+[*n/a[.
 KRIEL.
 TRADERS GUILD.
 Tag: Any.
@@ -401,4 +401,11 @@ Temperate.
 Temperate (Swamp).
 Arid.
 Snow.
-Alien
+Alien.
+Planet discovered!.
+..creating report...
+Planet discovered!.
+Ocean.
+Barren.
+Barren (Metal).
+Desert

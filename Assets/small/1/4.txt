@@ -1,16 +1,5 @@
-﻿New Action.
-New Action.
-=.
-=.
-Sy'reem Destroyer.
-New Task.
-New Action.
-=.
-[] Leviathan.
-[] Esco.
-[] Cerberus.
-[] Raider.
-[] Nemesis.
+﻿[ Raider.
+[ Nemesis.
 New Task.
 New Action.
 =.
@@ -178,10 +167,10 @@ Reveal Signal position.
 Use Detector.
 Crash Site.
 Personal Data Assistant.
-Open PDA []({keybind(PDA)})[].
+Open PDA [({keybind(PDA)})[.
 Exit PDA.
 Status Panel.
-Open []({keybind(Inventory)})[].
+Open [({keybind(Inventory)})[.
 Survival Tool.
 Harvest Plant Protein.
 Extract Fiber.
@@ -202,7 +191,7 @@ Com Station.
 Access Console.
 Techtree.
 Large Wreckage.
-Access Techtree []({keybind(TechTree)})[].
+Access Techtree [({keybind(TechTree)})[.
 Unlock Port. Constructor.
 Gather Iron Ore.
 Craft Port.Constructor.
@@ -241,7 +230,7 @@ Assessing situation.
 Updating mission.
 Follow the indices.
 Unlock Weapons.
-Access Techtree []({keybind(TechTree)})[].
+Access Techtree [({keybind(TechTree)})[.
 Close Techtree.
 Craft Pistol.
 Craft Pistol Round.
@@ -339,4 +328,13 @@ Find Technical Artifacts.
 Debriefing.
 Speak to Kezzel.
 Return to Sanctuary.
-Assessing situation
+Assessing situation.
+Updating mission.
+Hover Vessel.
+Hover Vessel.
+Have a seat.
+Small Vessel.
+Find vessel.
+Refill.
+Damages.
+Open Control Panel

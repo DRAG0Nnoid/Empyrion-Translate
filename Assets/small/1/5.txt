@@ -1,13 +1,4 @@
-﻿Updating mission.
-Hover Vessel.
-Hover Vessel.
-Have a seat.
-Small Vessel.
-Find vessel.
-Refill.
-Damages.
-Open Control Panel.
-Repairs.
+﻿Repairs.
 Place Fuel Tank.
 Place Generator.
 Power up.
@@ -37,8 +28,8 @@ Assessing Situation.
 Updating mission.
 Message incoming!.
 decoding...
-[]..message incoming..[].
-[]..message incoming..[].
+[..message incoming..[.
+[..message incoming..[.
 Crafting Preparations.
 Eat Energy Bar.
 Go to Trader.

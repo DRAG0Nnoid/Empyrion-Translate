@@ -1,11 +1,4 @@
-﻿Planet discovered!.
-..creating report...
-Planet discovered!.
-Ocean.
-Barren.
-Barren (Metal).
-Desert.
-Desert (Burnt).
+﻿Desert (Burnt).
 Lava.
 Lava (Nascent).
 Temperate (Plateau).
@@ -459,4 +452,9 @@ Destroyer.
 Skylord (HC Cannon).
 Thrasher (Mortar).
 Stripper.
-Rocket Ferry
+Rocket Ferry.
+Corvus (Corvette).
+Privateer (Corvette).
+Rum Runner (Corvette).
+Pioneer (Corvette).
+Planeteer (PV)

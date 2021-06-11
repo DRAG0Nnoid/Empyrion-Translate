@@ -1,9 +1,4 @@
-﻿Corvus (Corvette).
-Privateer (Corvette).
-Rum Runner (Corvette).
-Pioneer (Corvette).
-Planeteer (PV).
-Quin Merac (Frigate).
+﻿Quin Merac (Frigate).
 Pirate Clans (Pir).
 New Task.
 New Action.
@@ -409,11 +404,22 @@ New Action.
 New Task.
 New Action.
 =.
-[] Eternal Glaze.
-[] Eternal Syphon.
+[ Eternal Glaze.
+[ Eternal Syphon.
 Shade.
 New Task.
 New Action.
 =.
 New Task.
-New Task
+New Task.
+New Action.
+New Action.
+=.
+=.
+Sy'reem Destroyer.
+New Task.
+New Action.
+=.
+[ Leviathan.
+[ Esco.
+[ Cerberus
