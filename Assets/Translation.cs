@@ -97,7 +97,9 @@ public class Translation : MonoBehaviour
 
 	public	bool	checkFiles;
 
-	public TextAsset	pda_original;
+	public	bool	pack;
+
+	//public TextAsset	pda_original;
 
 	public	int			smallNum		=	2;
 
@@ -221,23 +223,36 @@ public class Translation : MonoBehaviour
 
 			Debug.Log("translate: " + file_original.Length + " / " + file_all.Count + " / " + file_merged.Count);
 		}
+
+		if (pack) {
+			pack	=	false;
+
+			var	file_original		=	ReadFile("Assets/large/forms.txt").Split('\n');
+
+		}
     }
 
 	void CheckFiles ()
 	{
+		Debug.Log("провер€ю файл: Assets/small/ -----------------------------");
+		CheckFiles("Assets/small/");
+
+		Debug.Log("провер€ю файл: Assets/large/ -----------------------------");
+		CheckFiles("Assets/large/");
+	}
+
+	void CheckFiles (string _path)
+	{
 		for (var i=0; i<1000; i++)
 		{
-			var	folder		=	"Assets/small/";
-			var	path_en		=	folder + "1/" + i + ".txt";
-			var	path_ru		=	folder + "9/" + i + ".txt";
-
-			Debug.Log("провер€ю файл: " + i);
+			var	path_en		=	_path + "1/" + i + ".txt";
+			var	path_ru		=	_path + "9/" + i + ".txt";
 
 			if (File.Exists(path_en))
 			{
 				if (!File.Exists(path_ru))
 				{
-					Debug.LogError("отсутствует файл перевода : " + path_ru);
+					Debug.LogError("отсутствует файл перевода, id: " + i);
 					break;
 				}
 				else
@@ -247,18 +262,18 @@ public class Translation : MonoBehaviour
 
 					if (file_en.Length != file_ru.Length)
 					{ 
-						Debug.LogError("не совпадает число строк! id:" + i + ", en:" + file_en.Length + ", ru:" + file_ru.Length);
+						Debug.LogError("не совпадает число строк, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
 						//break;
 					}
 					else
 					{
-						Debug.Log("всЄ нормально! id:" + i + ", en:" + file_en.Length + ", ru:" + file_ru.Length);
+						Debug.Log("файл прошЄл проверку, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
 					}
 				}
 			}
 			else
 			{
-				Debug.Log("файлы кончились id:" + i);
+				//Debug.Log("файлы кончились id:" + i);
 
 				break;
 			}
