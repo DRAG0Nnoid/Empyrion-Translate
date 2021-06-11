@@ -1,0 +1,15 @@
+Library
+Temp
+Builds
+obj
+Build
+Store
+Logs
+.vs
+*.csproj
+<<<<<<< HEAD
+=======
+*.log
+>>>>>>> 66960c727d392604d0247e1c1a5401423e0c3666
+*.sln
+/Build
