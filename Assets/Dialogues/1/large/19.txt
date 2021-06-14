@@ -1,0 +1,102 @@
+﻿Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Buy!  [-](No refunds!)[-].
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Roll the dice again..
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+Back to store page.
+[-] [-]Biker[-]Description:[-] For those that want more action on their bare naked walls. Mind the gap.[-]Sentiment[-]:[-] Active sandy red.
+[-] [-]Don't hide![-]Description:[-] The least places are really safe when trying to hide from a giant predator.[-]Sentiment[-]:[-] Frightening blue and orange.
+[-] [-]Foreign World[-]Description:[-] For those that love wreckages on the horizon and dust in your hairs in the evenings.[-]Sentiment[-]:[-] Relaxing orange and dark brown.
+[-] [-]Jump![-]Description:[-] We often read about people that dreamt of being able to fly. At least jumping is possible for anyone![-]Sentiment[-]:[-] Action green and dark green.
+[-] [-]A New World[-]Description:[-] The joys of the first breath on a new world.[-]Sentiment[-]:[-] Relaxing mixed colors.
+[-] [-]Sole Desert[-]Description:[-] Wandering in the desolation of a lost world.[-]Sentiment[-]:[-] Relaxing brown, orange and blue.
+[-] [-]Stranger[-]Description:[-] When exploring the galaxy you will find strange and crazy creatures.[-]Sentiment[-]:[-] Expressive orange, brown and blue.
+[-] [-]Survivor[-]Description:[-] Those having survived in this galaxy have achieved far more than just having lived through a crash.[-]Sentiment[-]:[-] Menacing mix of blue, black and purple.
+[-] [-]Taking A Break[-]Description:[-] Dump your sorrows at the wayside and start refreshed into new adventures.[-]Sentiment[-]:[-] Relaxing orange and dark green.
+[-] [-]Talon[-]Description:[-] An early work. A rare oil painting of the unapproachable natives residing mostly in the Ellyon system.[-]Sentiment[-]:[-] Refreshing green and blue.
+[-] [-]Trader[-]Description:[-] It is said that this artwork destroys itself when your bank account reaches zero.[-]Sentiment[-]:[-] Strong blue and purple.
+[-] [-]Alien World[-]Description:[-] A lot of worlds in this galaxy are dangerous even for the feared Zirax Troopers and their dogs.[-]Sentiment[-]:[-] Menacing green tones and blue.
+Congratulations![-]You are now an owner of one of Rumpelstilskins' exclusive masterpieces. Enjoy!.
+Roll the dice again.
+Back to store page.
+Back to main menu.
+[-]Access denied.[-]Authorization required!.
+[-]Access granted![-]Reports have been generated..
+Check for more reports.
+Check for more reports.
+Check for more reports.
+Check for more reports.
+Check for more reports.
+No further reports are available.
+[-]HACKING ATTEMPT DETECTED![-]Security has been alerted..
+[-]Access granted![-]Irregular device found on low security access port. [-]Device destroyed for security reasons.[-]Reports have been generated..
+[-]HACKING ATTEMPT DETECTED![-]Hacking device destroyed.[-]Security has been alerted!.
+Ask IDA for help.
+[-] There are three ways to access a (military, security, explorer, science or communication) report console:[-]1. With the appropriate clearance key (one-time-use)[-]2. By manual hacking (% success chance)[-]3. With a FIRE stick (% success chance / % losing stick on success / % losing stick on failure)[-]Failed hacking attempts but also too many approaches on report exports will lead to the console getting LOCKED.[-]You need to have clearance keys and FIRE sticks in your inventory for the access/hacking option being shown![-] [-] [-]FIRE STICKS[-] ( '[-]F[-]orced [-]I[-]nformation [-]R[-]elease [-]E[-]xecutable' remote hacking device) of different quality (green, blue, red) can be bought in various places. The red grades will not be available in locations with a lot of military troops or security. [-] Search for black markets or pirate nests. [-]Note: Even when successfully hacking a device, each type of FIRE stick has an individual chance of being destroyed in the process. The chance to destroy the stick is doubled for failed hacking attempts.[-] [-] [-]CLEARANCE KEYS[-]Consoles that got locked can ONLY be accessed and unlocked with the [-]appropriate clearance key[-]![-]You can also use clearance keys for exporting reports. But these keys will ALWAYS be consumed in the process.[-]Clearance keys are not traded officially. [-]You might find agents or persons that want to offer you those keys for helping or for going on a mission for them..
+Ask IDA for  help.
+Reset Local Hacking Count [-](unlocks ALL report console in POI)[-].
+Reset Local Report download count [-](unlocks ALL report console in POI)[-].
+[-] [-]LOCAL POI Consoles (Common Consoles)[-]Hacking attempts failed:[-] [-]Reports downloaded:[-] [-] [-]---[-]IDA help requested:[-] [-] (global)[-] [-] [-]Global hacking stats (Common Consoles)[-]Hacking attempts failed:[-] [-]Manual hacking (tries):[-] [-] [-]Fire Stick RED (tries)[-]: [-] [-]|| Devices lost:[-] [-]Fire Stick BLUE (tries):[-] [-]  [-]|| Devices lost:[-] [-]Fire Stick GREEN (tries):[-] [-] [-]|| Devices lost:[-] [-] [-] [-]Global Report types downloaded (Common Consoles)[-]Maintenance Data[-]: [-]Work Shift Data:[-] [-]Transportation Data:[-] [-]Communication Data:[-] [-]Economic Data:[-]  [-].
+Report has been exported: Military Raw Data.
+Report has been exported: Scouting Report.
+Report has been exported: Surveillance Data.
+Report has been exported: Troop Movement Report.
+Report has been exported: Classified Report.
+[-]Console locked.[-]Clearance Key (Military) [-]required to unlock.
+[-] [-]LOCAL POI Consoles (Military Consoles)[-]Hacking attempts failed:[-] [-]Reports downloaded:[-] [-] [-]---[-]IDA help requested:[-] [-] (global)[-] [-] [-]Global hacking stats (Military Consoles)[-]Hacking attempts failed:[-] [-]Manual hacking (tries):[-] [-] [-]Fire Stick RED (tries)[-]: [-] [-]|| Devices lost:[-] [-]Fire Stick BLUE (tries):[-] [-]  [-]|| Devices lost:[-] [-]Fire Stick GREEN (tries):[-] [-] [-]|| Devices lost:[-] [-] [-] [-]Global Report types downloaded (Military Consoles)[-]Military Raw Data[-]: [-]Scouting Report:[-] [-]Surveillance Data:[-] [-]Troop Movement Report[-] [-]Classified Report:[-]  [-].
+[-]Communication Clearance Key[-] (one time use).
+[-]Manual hacking[-] (80% success chance).
+[-]FIRE-Stick RED[-] (Hacking; 100/10/20).
+[-]FIRE-Stick BLUE[-] (Hacking; 100/20/40).
+[-]FIRE-Stick GREEN[-] (Hacking; 90/40/80).
+[-]Military Clearance Key[-] (one time use).
+[-]Manual hacking[-] (10% success chance).
+[-]FIRE-Stick RED[-] (Hacking; 50/10/20).
+[-]FIRE-Stick BLUE[-] (Hacking; 30/20/40).
+[-]FIRE-Stick GREEN[-] (Hacking; 20/40/80).
+Report has been exported: Maintenance Data.
+Report has been exported: Work Shift Data.
+Report has been exported: Transportation Data.
+Report has been exported: Communication Data.
+Report has been exported: Economic Data.
+[-]Console locked.[-]Clearance Key (Common) [-]required to unlock.
+Commander, [-] our new Talon friends have just sent us the position of a large crashed vessel. [-]They suspect it is one of ours, as some of the survivors came from its direction, they say. [-] There is one caveat, though. [-] We need to take into account what the Talon Chief said.[-] The survivors came to this settlement a year ago. [-] This might indicate that the console we found that message was not broken .. [-] but we have lost one year while being dragged to Andromeda ....
+Yeah. We will need to find out more about that...
+Either way, we will have to find more info. [-] [-]I suggest to head for the [-]Small Settlement[-] of the Talon. [-] [-]The message indicates those people might know more about what happened to the survivor that left this message here..
+Sounds like a plan..
+Absolutely. [-]But before we go any further, I recommend using the [-]Damaged Com Station[-] to our advantage. [-] It is situated in a relatively safe area without the risk of running into Zirax patrols. [-] You should upgrade it into a real base and gear up a little. [-] [-]What do you think?.
+Good idea! [-](Tutorial - Base Building)[-].
+Not now.  [-](Story - Find wreckage)[-].
+Well done, Commander![-]You have now laid the foundation, but there are still a few things to know.[-]For all the advanced topics and more details about how to do farming, how to oxygenate your base, how to handle large devices without using your inventory (Logistics Network) and other important knowledge, [-]please check the Empyriopedia[-] ([-]F1[-]).[-] You should now be ready to go to the [-]wreckage [-]position the Talon sent us. [-]If you do not feel ready yet, you should spend some more time preparing your equipment. [-] [-]We will for sure be running into angry Zirax troopers..
+No time to explain that in detail at the moment, my friend. [-] Everything you need to know for now: [-] the Legacy invaded this sea of stars in the distant past. [-] It was just about defeated after a war that had most of the inhabited worlds falling into the besaid silence. [-] The Legacy is not about conquering territory like the Zirax or Kriel. [-] It is pure .. [-] destruction .. [-] of some strange kind .. [-] Ok, more about that at a later time. [-] I just got a message from my organization for YOU. [-] Now forwarding...[-] We'll speak later again. [-] May the voices of the past protect you, my friend..
+Integrated Data Assistant (IDA).
+Commander. [-] Agent Kezzel forwarded a message from an unknown source. [-]The message is decoded already..
+Show me the message, please..

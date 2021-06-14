@@ -1,5 +1,0 @@
-﻿In the overview, use the []POWER []button to activate the base.[]Alternatively you can stand on any of the base blocks and hit []Y. [].
-After having crashed on this unknown planet, IDA is tracking a faint signal coming from a []Damaged Com Station.[]Find it and start your journey![]Location: Starter Planet; Ellyon System (Starter System)[].
-Follow the yellow marker on the HUD..
-[] There seems to be a []console []inside the shelter.[]Find and access it ([])..
-[] Commander, I am tracking a faint communication signal in a wreckage nearby.[]There seems to be a []Damaged Com Station[] nearby. I have added a []marker []onto your screen.

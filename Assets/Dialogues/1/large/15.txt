@@ -1,0 +1,54 @@
+﻿Back to Main Menu.
+Please donate ONE credibility seal of the [-]Polaris Megacorp[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Talon Guardians[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Traders Guild[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Pirate Clans[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Kriel Empire[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Free Colonists[-] to restore NEUTRAL reputation..
+Please donate ONE credibility seal of the [-]Tesch Collective[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Polaris Megacorp[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Talon Guardians[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Traders Guild[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Pirate Clans[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Kriel Empire[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Free Colonists[-] to restore NEUTRAL reputation..
+Please donate TWO credibility seals of the [-]Tesch Collective[-] to restore NEUTRAL reputation..
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+Back to Main Menu.
+[-]Emergency situation detected! [-] Protocol UCH001A has been initialized!.
+Emergency Life Support Assistant.
+Ship status: [-] . . [-] Destroyed due to malfunction in the engine systems. [-] [-]Current situation: [-] . . [-] Crashed on an unknown planet. [-]Pilot status: [-] . . [-] Successfully abandoned ship in an escape pod. [-] [-]Pilot health: [-] . . [-] Low, but stable.[-]Integrated Data Assistant (IDA): [-] . . [-] Currently rebooting.[-]Emergency Life Support Assistant: [-] . . [-] [-] activated.[-].
+Emergency Life Support Assistant.
+Injury detected: [-] Broken Leg [-] .. [-] Reduced walking speed. [-] Permanent stamina drain. [-]Required medical treatment: [-] Bandages [-] [-]Activate the SURVIVAL CONSTRUCTOR on the top right for showing the available recipes.[-] [-]Hovering over the recipes in the survival constructor reveals their ingredients. [-] Resources required in inventory: [-] Fiber [-] .. [-] not available. [-]Device required for collecting Fiber: [-] Survival Tool [-] .. [-] not available. [-] .. [-]Searching .. [-]Survival Tool detected nearby! [-]Search the area around the Escape Pod, find and pick up the Survival Tool![-].
+The SURVIVAL TOOL has three basic modes.: [-] [-]Defence [-], [-]Resource [-], [-]Salvage[-] Modes can be switched by pressing [-]R[-]ight [-]M[-]ouse [-]B[-]utton ([-]RMB[-]). [-] Use the tool by pressing [-]L[-]eft [-]M[-]ouse [-]B[-]utton ([-]LMB[-]). [-] [-].. [-] Do you want to know more?[-].
+Emergency Life Support Assistant.
+Integrated Data Assistant (IDA).
+Integrated Data Assistant (IDA): [-] . . [-] [-]restarted[-]. [-] Welcome back, Commander! [-] Glad to see you alive! [-] [-]We've had incredible luck! [-] Being dragged into the TITAN's warp vortex and coming out alive in one piece! [-] [-]I am currently trying to reestablish communication with the Operation Phoenix fleet. [-]This will take a few minutes. [-] In the meantime: [-] I've been storing our sensor and event logs since our escape from Apollon station in the [-]Empyriopedia Journey Book[-] ([-]F1[-]). [-]Please open the PDA  ([-]F1[-]) to start synchronizing the data tables.  [-].
+Commander, the night is coming and you also need something to eat. [-]I have analyzed the nearby plants. Most of them should be edible. [-]First, collect some [-]Plant Protein[-] and craft an [-]Energy Bar[-]. [-] [-]The recipe is available in your Survival Constructor in the status overview panel ([-]Tab[-]).
+Integrated Data Assistant (IDA).
+[-].. closing file ..[-].
+[-]Defence[-] [-]Use this mode for defending against small animals. It is suggested that you walk around with Defense mode activated, as small spiders and insects may attack you.[-]Resource [-]Use this mode for harvesting fiber from plants, wood logs from trees, extracting ore from the rocks lying around or drilling down to underground deposits. [-]Note: make use of your personal drone ([-]F5[-]) for mining underground deposits to avoid getting trapped in a deep mining hole. [-]Salvage[-] [-]Use this mode for recovering usable materials from wrecks. With the Survival Tool you cannot regain the full amount of materials or components, but only a fraction. [-]If a [-]red box[-] lights up on the lower right, you will not get back any materials..
+. . . . [-]Failure to boot console. [-]Error 101 . [-]. [-] Powersave mode active. [-]. . . . [-]Error 108 . [-]. [-] Internal storage files damaged. [-]. . . . [-].
+[-]Error .. [-]Error ..[-]Error .. [-]Error .. [-]Error ..[-]Error ..[-].
+Running system diagnostics. [-]. [-] . [-] . [-] [-]completed[-]. [-]The internal storage is still available and I found a few indices that date back nearly a year. [-]I am not able to download their content as long as the console is in power save mode.[-]You [-]need to rebuild some devices[-] and add them to the station so we can power it up again.[-]Before we start working on the station, you should set up a camp: Collect some [-]fiber [-]and craft a [-]Survival Tent[-]..
+You now have a basic constructor, which will allow you to craft all the devices necessary for rebuilding and powering the com station, as well as a basic weapon to defend yourself [-] [-]For activating the station, you need to craft the following:[-]- a [-]small generator[-] to power the station [-]- a [-]fuel tank (t1)[-] to fuel the generator [-]- a [-]core[-] to make everything work together. [-]These devices need more materials than we can probably find around here. We need to look further. [-] [-]I have placed a [-]marker[-] on a [-]large wreckage[-] on your Radar and HUD. There we will find more materials![-]Make sure to [-]harvest plants[-] and craft something to eat [-]while you are on your way[-] to the wreckage..
+Powering console. [-] [-]Loading operating system.  Please do not shut down while in progress.. [-] . . . . . . [-] [-]Session restored. [-]Loading last message . [-] . . . . . . [-]Success. [-] The message is fragmented. [-] [-]Display content anyways?.
+August, 2, 2473. [-] UCH PID 19893-M [-]The .. is lost. We .. survived and made contact with the Talon in the nearby village. [-] The Zirax are on our heels. We  need to avoid running into their drones and .. until they lose interest. [-] A temporary camp near .. I am afraid some of our .. vessels were shot down .. crashed .. not far away. We plan to .. If this plan fails, I advise every other survivor to go find one of the Talon villages. These guys helped us to survive, and might help you as well.[-] - End of Message..
+Any additional logs available?.
+I am afraid this is all of it.  All the other logs are either destroyed or heavily fragmented. [-]Commander .. there might be something wrong about even this log. [-]The timestamp of the message is of .. [-] tomorrow [-] .. and at the same time, the log file indicates that it was created one year ago! [-]That does not add up at all..
+The log is clearly made by someone from the UCH with the personal ID 19893-M. [-]I have validated the ID, but without access to the UCH fleet database, I cannot find out who is behind that ID. [-]Nevertheless, we can be quite sure that a vessel from the Operation Phoenix fleet crashed here for yet unknown reasons. [-] We can assume that those Zirax might have something to do with it. [-] If it was a fight or technical trouble cannot be said for sure. [-] I assume it might have happened in combat, as this could also be a reason why no one else is here. Neither the TITAN, nor anyone else of the fleet. [-] They have probably moved on or escaped..
+This is indeed strange, but can possibly be explained. [-]The scientific reason why we did not arrive on the same day as the fleet: [-] we were not fully enclosed by the TITAN's warp vortex [-] and some gravitational instabilities have affected us similar to the time dilation effects near a black hole. [-]Another, more obvious reason could be that, due to the damage of this station and the console, the timestamp and the log entries are simply damaged and faulty..
+Either way,  we will have to find more info. [-] We need to [-]find the Small Settlement[-] of the Talon. [-] The message indicates those people might know more about what happened to the survivor that left this message here. [-] I will set a [-]marker onto your hud[-]. [-]Before we leave, I strongly suggest to unlock an [-]Assault Rifle[-] or the [-]Shotgun[-] from the Techtree ([-]F3[-]) and craft them in the Portable Constructor..
+Sounds like a plan..

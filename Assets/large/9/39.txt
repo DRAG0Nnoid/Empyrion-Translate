@@ -1,69 +1,83 @@
-﻿Use []PAGE UP/DOWN[], []HOME/END[] and []INS/DEL[] buttons and []Mouseview []to rotate and adjust the position of devices when placing.[]Place on any base block OR  use the Build Helper ""Connect to base"" ([]) to place anywhere on the ground..
-Use []PAGE UP/DOWN[], []HOME/END[] and []INS/DEL[] buttons and []Mouseview []to rotate and adjust the position of devices when placing..
-Use []PAGE UP/DOWN[], []HOME/END[] and []INS/DEL[] buttons and []Mouseview []to rotate and adjust the position of devices when placing.[]Place on any base block OR  use the Build Helper ""Connect to base"" ([]) to place anywhere on the ground..
-Armor lockers are required to equip armor suits and for adding or removing Boosters..
-Access the []Armor Locker.[].
-Equip any suit by simply dragging it to the []ARMOR slot[].   []Check the 'Game Mechanics Q&A' in the Empyriopedia ([]F1[]) for more info on suits, boosters and their management!.
-In case you already found an ARMOR SUIT, equip it by simply dragging it to the []ARMOR slot[].  []Otherwise you should craft and equip a LIGHT ARMOR right away, as it not only adds additional hitpoints for upcoming combat, but also adds the functions of a suit light ([]), jetpack ([]) and helmet ([])![]NEXT: craft and place a []CLONE CHAMBER[]Tip:[]Check the 'Game Mechanics Q&A' in the Empyriopedia ([]F1[]) for more info on suits, boosters and their management!.
-A food processor allows you to craft advanced meals, medicals and farming equipment..
-A food processor allows you to craft advanced meals, medicals and materials required for []farming.[]To proceed, use the capabilities of your []Small Constructor[] and []Food Processor[] and craft a []GROWING PLOT[] (of any material) and a []PLANT GROW LIGHT[]Tip[]: []You can link the Input/Output of any construction machine to each other just by assigning their cargo units and containers accordingly, []so they can be shared[]. This way you do not need to manually move the crafting materials!.
-Equip Plant Grow Light.
-A growing plot is used to grow any plants..
-A plant grow light can be used indoors but also outside, though on temperate planets you can grow your crops without a grow light if the conditions are good.  Check the Empyriopedia ([]F1[]) for more info about farming!.
-Place the growing plot to a suitable place on your base.[]In case you have a SPROUT you can place it onto the growing plot right away..
-Place the Plant Grow Light at a []CEILING ABOVE[] the Growing Plot []BUT []leave the blockspace ATOP the Growing Plot free for placing sprouts![]The Plant Grow Light has a range of 3x3 large blocks..
-Place Plant Grow Light.
-You can plant any SPROUT into any growing plot..
-In a temperate environment you might not need to use a Plant Grow Light. Check the 'Gameplay Q&A' section of the Empyriopedia ([]F1[]) for more details!.
-Updating mission parameters.. please wait..
-When having set your bases as HOME (Control Panel > HOME checkbox) a Clone Chamber will allow you to respawn in case of death.[]The same approach works on Capital Vessels..
-Open the Control Panel ([]) and check the []HOME SPAWN[] checkbox. []As long as your base at least has a []Clone Chamber, [] you can respawn here.[]NEXT: craft and place a []FOOD PROCESSOR[]..
-[] Commander, I am afraid the failing containment system of the facility has lead to infecting you with a []Dermal Parasite[]I suggest to []head back to the Talon village[]. They might have a cure for it!.
-Go back to the settlement and speak to the chief.
-Tales of the Past.
-[] Detecting movement around the wreckage![]Approach the site and []open fire[] when being attacked!.
-Approach cautiously. Clear the area from enemies if necessary..
-Kill all Zirax troopers and their Ripper dogs.[]Check the area and loot all containers, crates and devices..
-[]Commander, it seems the soldiers have taken a prisoner which is not a Talon.  []Speak to him.[].
-Speak to the prisoner in the cage..
-[]Commander, I think you should look for the []bridge main console[] before we leave. []We might not find any remains of the crew, but maybe more info..
-Follow the marker on the HUD and find the Sanctuary..
-[] There it is. Make sure you have Doctor Mandors' []Space Anomalies report[] with you - although we should not directly ask for Kezzel.[]Speak to one of the guards[] in the center building and try to get an appointment with the commander of this station..
-Speak to the guard at the elevator to get an appointment with the commander..
-Go one level up and then to the right to find Commander Carver.
-Speak to Commander Carver.
-Find Kezzel and speak to him. He is upstairs in one of the storage rooms..
-Follow the yellow hud marker to the burial chamber..
-Find the Technical Artifacts in a container or crate..
-There it is. I sense the spiders already....
-Hm. These crates. Someone brought them down here. Obviously they are not historical artifacts...[]Let's head back and get some answers from Kezzel..
-Head back to the Sanctuary and speak to Kezzel.
-Head back to the Sanctuary.
-[] Commander, I suggest to remain wary about that agent. Confronting him with your thoughts could be risky. I suggest playing his game for now...
-Updating mission parameters.. please wait..
-[]There are now two possible directions you can try:[]1. Use the secret teleporter behind the cargo containers in the room where agent Kezzel works, find the Small Vessel and escape with it.[]2. Head back to your base or camp, install the teleporter and improve your gear at first, as we might run into more and better equipped Zirax troops around their garrison..
-[] There is a damaged Hover Vessel![]In case you want me to help you on that topic, have a []have a seat[] in the cockpit..
-Simple Hover Vessels are usually equipped with GROUND REPULSOR engines, which means they can NOT go over water. For traveling over liquids, you need to upgrade them to HOVER ENGINES T1 or T2.
-Open the Control Panel ([])..
-The Control Panel works the same as for Bases. It will show missing devices in yellow in the DEVICEs tab..
-Go to the []DEVICES tab[] and check the []YELLOW []entries.[]These devices need to be added in order to allow the vessel to function..
-A fuel tank is required for any vessel..
-Same as for bases, the generator provides the energy for all devices..
-Add some Fuel to the tanks and fire up the vessel, pressing ([]) or using the POWER slider in the Control Panel..
-Hover Vessels use thrusters and hover engines. They can be switched on and off individually either in the main Control Panel page or in the Device tab..
-The Hover Vessel is now ready to drive! []1. Use []SPACE []and []C []to increase and lower the hover height of your vessel![]2. In case you flipped your vessel upside down, use either [] or []SHIFT[] to upright it again![]3. If your vessel handles too twitchy, open the Control Panel ([]) and adjust the rotation sensitivity in the []STATISTICS[] tab.[]4. If your vessel has spotlights, use [] to switch them on and off.[]Note that this vessel has an []open cockpit[], which does not protect you from enemies or environmental dangers!  []You might want to add a []detector []device to the vessel, as this has much higher range than your handheld variant!.
-[] The vessel should be around here somewhere. Use the detector to find it.[]You might need to at least add fuel..
-[] There it is!  Make sure no troops are around, fill the tank and fly us out of here back to our base..
-Check []Control Panel[] ([]) > []STATISTICS []for its performance parameters!.
-Attention! This device requires a lot of energy when being activated! []Make sure you do not overload your generators, otherwise they will explode![]Check the Control Panel (P) if your output is high enough! []If not, build more generators or deactivate the teleporter in the meantime..
-In case the required power is higher than the output of your generators, the generators will get damaged and explode after a while!.
-Credibility Mission - Talon.
-The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them.[]As a reward you will get two []faction credibility seals.[]Find an []ambassador []of the faction or connect to a []global information network[] (GIN) console on any trading station. One seal is used for each step from []hostile[] to []unfriendly []and []unfriendly []to []neutral[]. You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[]***[]Notes:[]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[]- The Zirax Empire credibility seal will increase your reputation with the Empire and all houses of the Empire![].
-Destroy the []CORE []of  POIs or vessels that belong to the LEGACY. (1).
-Flying a small vessel works the same as driving a hover vessel - except with one additional dimension to go.[]Speed up/down: [], []Align to horizon: []Cruise speed increase/lower: []CTRL []+ []W []/ []3rd Person: []V []ALT []to undock cam; []mouseview []to move cam)[]Afterburner: []SHIFT []+ ([]direction[])  (Only works with certain thrusters).
-Speed up/down: [], []Align to horizon: []Cruise speed increase/lower: []CTRL []+ []W []/ []3rd Person: []V []ALT []to undock cam; []mouseview []to move cam)[]Afterburner: []SHIFT []+ ([]direction[])  (Only works with certain thrusters).
-[] You should probably look into the construction of this vessel and add, repair or adjust its components for more speed, agility and defense.  []Check the constructor and Techtree ([]F3[]) for available devices.[]Check []Control Panel[] ([]) > []STATISTICS []for its performance parameters!.
-So.. let's sit down and wait...
-I think we know who this mysterious friend is. []Let's see where this will go...
-[] Commander, I found some indices of nearby tribal villages.[]I added a []marker []for the approximate direction to your HUD and Radar..
-Start up information Temperate
+﻿Поместите свет для выращивания растений на [ПОТОЛОК НАД[ Участком выращивания], НО [оставьте пространство на ВЕРШИНЕ участка выращивания свободным для размещения ростков![Растительный свет имеет диапазон 3x3 больших блоков..
+Место, Где Растение Растет На Свету.
+Вы можете посадить любой РОСТОК на любом участке..
+В умеренной среде вам, возможно, не понадобится использовать свет для выращивания растений. Проверьте раздел "Вопросы и ответы по игровому процессу" в Эмпириопедии ([F1[) для получения более подробной информации!.
+Обновление параметров миссии.. пожалуйста подождите..
+Если вы установили свои базы в качестве ДОМА (Панель управления > флажок "ГЛАВНАЯ"), камера клонирования позволит вам возродиться в случае смерти.[Тот же подход работает на капитальных судах..
+Откройте Панель управления ([) и установите флажок [HOME SPAWN [. [Пока на вашей базе, по крайней мере, есть [Камера клонов, [вы можете возродиться здесь.[ДАЛЕЕ: создайте и поместите [КУХОННЫЙ КОМБАЙН[..
+[ Командир, я боюсь, что неисправная система сдерживания объекта привела к заражению вас [Кожным паразитом[Я предлагаю [вернуться в деревню Тэлон[. У них может быть лекарство от этого!.
+Возвращайся в поселение и поговори с вождем.
+Рассказы о прошлом.
+[ Обнаружение движения вокруг обломков![Приблизиться к месту и [открыть огонь[ при нападении!.
+Подходите осторожно. При необходимости очистите территорию от врагов..
+Убейте всех солдат Зиракса и их собак-потрошителей.[Проверьте местность и разграбьте все контейнеры, ящики и устройства..
+[Командир, похоже, солдаты захватили пленника, который не является Когтем.  [Поговори с ним.[.
+Поговорите с заключенным в клетке..
+[Командир, я думаю, вам следует поискать [главную консоль мостика], прежде чем мы уйдем. [Возможно, мы не найдем никаких останков экипажа, но, возможно, больше информации..
+Следуйте по маркеру на HUD и найдите Святилище..
+[ Вот оно. Убедитесь, что у вас с собой [Отчет о космических аномалиях] доктора Мандорса, хотя мы не должны напрямую просить Кеззела.[Поговорите с одним из охранников[ в центральном здании и попытайтесь договориться о встрече с командиром этой станции..
+Поговорите с охранником у лифта, чтобы договориться о встрече с командиром..
+Поднимитесь на один уровень вверх, а затем направо, чтобы найти коммандера Карвера.
+Поговорите с коммандером Карвером.
+Найди Кеззеля и поговори с ним. Он наверху, в одной из кладовых..
+Следуйте за желтым маркером hud к погребальной камере..
+Найдите технические артефакты в контейнере или ящике..
+Вот оно. Я уже чувствую пауков....
+Эти ящики. Кто-то привел их сюда. Очевидно, что это не исторические артефакты...[Давайте вернемся и получим некоторые ответы от Кеззела..
+Возвращайся в Святилище и поговори с Кеззелем.
+Возвращайся в Святилище.
+[ Коммандер, я предлагаю сохранять осторожность в отношении этого агента. Сталкиваться с ним своими мыслями может быть рискованно. Я предлагаю пока поиграть в его игру...
+Обновление параметров миссии.. пожалуйста подождите..
+[Теперь вы можете попробовать два возможных направления:[1. Используйте секретный телепорт за грузовыми контейнерами в комнате, где работает агент Кеззель, найдите Небольшое судно и сбежите с ним.[2. Возвращайтесь на свою базу или в лагерь, установите телепорт и сначала улучшите свое снаряжение, так как мы можем столкнуться с большим количеством и лучше оснащенных войск зираксов вокруг их гарнизона..
+[ Есть поврежденное судно на воздушной подушке![В случае, если вы хотите, чтобы я помог вам в этой теме, присядьте [присядьте[ в кабине..
+Простые парящие суда обычно оснащены НАЗЕМНЫМИ РЕПУЛЬСОРНЫМИ двигателями, что означает, что они не могут идти над водой. Для перемещения по жидкостям вам необходимо обновить их до ДВИГАТЕЛЕЙ НАВЕДЕНИЯ T1 или T2.
+Откройте Панель управления ([)..
+Панель управления работает так же, как и для баз. Он покажет отсутствующие устройства желтым цветом на вкладке Устройства..
+Перейдите на вкладку [УСТРОЙСТВА[ и проверьте [ЖЕЛТЫЕ [записи.[Эти устройства необходимо добавить для того, чтобы судно могло функционировать..
+Топливный бак необходим для любого судна..
+Так же, как и для баз, генератор обеспечивает энергией все устройства..
+Добавьте немного топлива в баки и запустите сосуд, нажав ([) или используя ползунок ПИТАНИЯ на панели управления..
+Суда на воздушной подушке используют подруливающие устройства и двигатели на воздушной подушке. Их можно включать и выключать по отдельности либо на главной странице панели управления, либо на вкладке Устройство..
+Парящее судно теперь готово к полету! [1. Используйте [ПРОБЕЛ [и [C [для увеличения и уменьшения высоты зависания вашего судна![2. В случае, если вы перевернули свой сосуд вверх дном, используйте [ или [SHIFT [, чтобы снова поднять его![3. Если ваше судно слишком дергается, откройте панель управления ([) и отрегулируйте чувствительность вращения на вкладке [СТАТИСТИКА [.[4. Если на вашем судне есть прожекторы, используйте [ для их включения и выключения.[Обратите внимание, что на этом судне есть [открытая кабина], которая не защищает вас от врагов или экологических опасностей!  [Возможно, вы захотите добавить к сосуду [детектор], так как он имеет гораздо более высокий диапазон, чем ваш ручной вариант!.
+[ Судно должно быть где-то здесь. Используйте детектор, чтобы найти его.[Возможно, вам придется, по крайней мере, добавить топлива..
+[ Вот оно!  Убедись, что вокруг нет войск, наполни бак и улетай отсюда обратно на нашу базу..
+Проверьте [Панель управления[ ([) > [СТАТИСТИКА [для его параметров производительности!.
+Внимание! Это устройство требует много энергии при активации! [Убедитесь, что вы не перегружаете свои генераторы, иначе они взорвутся![Проверьте панель управления (P), если ваш выход достаточно высок! [Если нет, постройте больше генераторов или тем временем отключите телепорт..
+В случае, если требуемая мощность превышает мощность ваших генераторов, генераторы будут повреждены и через некоторое время взорвутся!.
+Миссия доверия - Коготь.
+Миссии доверия попросят вас сделать что-то в пользу фракции, что действительно докажет им вашу ценность.[В награду вы получите две печати [фракции].[Найдите [посла [фракции или подключитесь к консоли [глобальной информационной сети[ (GIN) на любой торговой станции. Одна печать используется для каждого шага от [враждебного[ до [недружественного [и [недружественного [до [нейтрального[. Однако вы не можете улучшить свою репутацию с фракцией за пределами нейтральной с печатями доверия фракции.[***[Примечания:[- Вы также можете заработать печати доверия с помощью некоторых сюжетных миссий и квестов, если они доступны для этой фракции.[- Печать доверия к Империи Зиракс повысит вашу репутацию в Империи и во всех домах Империи![.
+Уничтожьте [ЯДРО [POI или сосудов, принадлежащих НАСЛЕДИЮ. (1).
+Полет на небольшом судне работает так же, как и управление парящим судном, за исключением одного дополнительного измерения.[Ускорение вверх/вниз: [, [Выравнивание по горизонту: [Увеличение/снижение крейсерской скорости: [CTRL [+ [W [/ [3-е лицо: [V [ALT [для отстыковки камеры; [mouseview [для перемещения камеры)] [Форсаж: [СДВИГ [+ ([направление[) (работает только с определенными двигателями).
+Скорость вверх/вниз: [, [Выравнивание по горизонту: [Увеличение/снижение крейсерской скорости: [CTRL [+ [W [/ [3-е лицо: [V [ALT [для отстыковки камеры; [mouseview [для перемещения камеры)] [Форсаж: [СДВИГ [+ ([направление[) (работает только с определенными двигателями).
+[ Вам, вероятно, следует изучить конструкцию этого судна и добавить, отремонтировать или настроить его компоненты для большей скорости, маневренности и защиты.  [Проверьте конструктор и Techtree ([F3[) на наличие доступных устройств.[Проверьте [Панель управления[ ([) > [СТАТИСТИКА [для ее параметров производительности!.
+Так что ... давай сядем и подождем...
+Я думаю, мы знаем, кто этот таинственный друг. [Давайте посмотрим, к чему это приведет...
+[ Командир, я нашел несколько указателей близлежащих племенных деревень.[Я добавил [маркер [для приблизительного направления на ваш HUD и радар..
+Запуск информационной системы.
+Проверьте Эмпириопедию ([F1[) для получения информации об игровой механике и связанных с ней вопросах!.
+[Миссия прервана![Откройте КПК ([F1 [), чтобы вручную запустить [СЮЖЕТНЫЕ миссии[ на вкладке [ОДИНОЧНЫЕ МИССИИ [..
+[Сюжетные миссии [можно найти в КПК ([F1[) [СОЛО-МИССИЯ[ вкладка![Проверьте Эмпириопедию ([F1[) на информацию об игровой механике и связанных с ней вопросах!.
+Проверьте Эмпириопедию ([F1[) для получения информации об игровой механике и связанных с ней вопросах!.
+Дождитесь расшифровки сообщения..
+Обновление параметров миссии.. пожалуйста подождите..
+Подождите, пока сообщение будет расшифровано..
+Получите доступ к [Портативному конструктору [и создайте [Пистолет [и [Пистолетные патроны[Вам нужно 5x [железо[, 5x [медь [и [волокно[..
+Питание может быть достигнуто из каждого инвентаря ( [SHIFT + RMB [) или путем размещения элемента на панели инструментов и использования [LMB[.
+Откройте панель обзора состояния [({keybind(Inventory)}) [и съешьте Энергетический батончик, щелкнув по нему [SHIFT + Правая кнопка мыши (RMB)[..
+[ Командир, сигнал, похоже, исходит от [поврежденной станции связи[ недалеко от места крушения! Я добавил [желтый маркер[ на ваш экран и радар, чтобы следовать. Вы должны[ пойти туда [, так как там вы можете найти больше информации.[Удерживайте [SHIFT [для запуска. Однако это истощит вашу выносливость..
+Иди к торговцу, у которого ты взял огнемет..
+Следуйте за маркером. Мост расположен в передней части обломков.[Совет: Прыжок со стороны моста может быть альтернативным способом найти путь внутрь!.
+Пропуск Урока По строительству Базы.
+[.. обновление параметров миссии ..[.
+Проверьте Эмпириопедию ([F1[) для получения информации об игровой механике и связанных с ней вопросах!.
+Выключатель находится на входе в мост на стене между двумя лестницами, ведущими вверх в районе моста..
+На палубу экипажа.
+Слева есть [коридор [с [лестницей [, которая должна вести на [самый верхний уровень[ судна..
+[ Мы находимся на главной палубе (уровень 3). [Мостик находится на верхней палубе экипажа (уровень 7)..
+Поднимитесь наверх на палубу экипажа (уровень 7)..
+[ Корабль полностью заблокирован, но нам нужно подняться на мостик и получить доступ к журналам капитанов.[За взрывозащищенными дверями есть [коридор слева [с [лестницей [, которая должна вести на самый верхний уровень судна с [мостиком[..
+Следуйте по коридору налево к мостику.
+Теперь мне нужно только найти [Журналы мостика[Я лучше проверю свое оружие. Это слишком тихо для стольких потерянных душ....
+Журналы сохраняются на консоли в передней части моста..
+[ Доступ к консоли и просмотр журналов. [Это должно дать нам намек на то, что здесь произошло..
+Откройте консоль и извлеките любую доступную информацию журнала.

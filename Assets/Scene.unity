@@ -237,11 +237,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parce: 0
   translate: 0
-  debugTranslate: 0
   checkFiles: 0
-  pda_original: {fileID: 4900000, guid: 7142374a7b9073245b63b73ed08faf5f, type: 3}
+  pack: 0
   smallNum: 3
   rus: 9
+  parceCSV: 0
 --- !u!4 &1211218208
 Transform:
   m_ObjectHideFlags: 0

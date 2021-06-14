@@ -1,12 +1,26 @@
-using System.Collections;
+п»їusing System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+
+using Localization;
+
+using System.Text.RegularExpressions;
+
 
 [ExecuteInEditMode]
 
 public class Translation : MonoBehaviour
 {
+	[System.Serializable]
+	public class Segment2
+	{
+		public string key;
+		public string original;
+		public string parced;
+		public List<string> forms	=	new List<string>();
+	}
+
 	[System.Serializable]
 	public class Segment
 	{
@@ -42,7 +56,7 @@ public class Translation : MonoBehaviour
 
 				if (textEngN[i] == ']')
 				{
-					//	конец
+					//	РєРѕРЅРµС†
 					if (i == textEngN.Length-1)
 					{
 						//text			+=	']';
@@ -53,7 +67,7 @@ public class Translation : MonoBehaviour
 						return;
 					}
 
-					//	закрывается и сразу открывается
+					//	Р·Р°РєСЂС‹РІР°РµС‚СЃСЏ Рё СЃСЂР°Р·Сѓ РѕС‚РєСЂС‹РІР°РµС‚СЃСЏ
 					if (textEngN[i+1] == '[')
 					{
 						skobkaInside	+=	"][";
@@ -61,7 +75,7 @@ public class Translation : MonoBehaviour
 						continue;
 					}
 
-					//	закрывается и сразу открывается c символом или пробелом
+					//	Р·Р°РєСЂС‹РІР°РµС‚СЃСЏ Рё СЃСЂР°Р·Сѓ РѕС‚РєСЂС‹РІР°РµС‚СЃСЏ c СЃРёРјРІРѕР»РѕРј РёР»Рё РїСЂРѕР±РµР»РѕРј
 					if (i <= textEngN.Length-3 && textEngN[i+2] == '[')
 					{
 						skobkaInside	+=	"]" + textEngN[i+1] + "[";
@@ -93,21 +107,30 @@ public class Translation : MonoBehaviour
 	}
 
 	public	bool	parce;
-	public	bool	translate;
-
-	//public	bool	c;
-
-	public	bool	checkFiles;
-
 	public	bool	pack;
 
-	//public TextAsset	pda_original;
+	public	bool	show;
 
-	public	int			smallNum		=	2;
+	public	string	folder			=	"Assets/Dialogues/";
+	public	string	fileName		=	"Dialogues.csv";
+	public	int		smallNum		=	3;
+	public	int		rus				=	9;
 
-	public	int			rus				=	9;
+	int		max_		=	18;
 
-	int		max_	=	18;
+	//string	sPattern_	=	@"(<[^>]*>)+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
+
+
+	//var	sBrackets1	=	@"\{.*?\}";
+			//var sPattern	=	@"<[^>]+>\s+(?=<)|<[^>]+>";	//	РґРµР»РёС‚ РЅР° РєР°Р¶РґС‹Р№ <>
+			//var sPattern	=	@"<[^>]*>";
+
+			//var sPattern	=	@"<[^>]*>|\{.*?\}|\\n";
+
+	//string	sPattern_	=	@"<[^>]*>+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
+	string	sPattern_	=	@"(<[^>]*>+|\{.*?\}+|\[.*?\]+|\\n|\@[a-zA-Z]+[0-9]+)+";
+
+	
 
     //
 	void Update()
@@ -115,198 +138,419 @@ public class Translation : MonoBehaviour
 		if (parce) {
 			parce	=	false;
 			Parce();
-		}
 
-		/*
-        if (debugTranslate) {
-			debugTranslate	=	false;
-
-			var	forms				=	ReadFile("Assets/large/forms.txt").Split('\n');
-				
-			var	fileStrings			=	ReadFile("Assets/large/1/0.txt");
-
-			//Debug.Log("debugTranslate: " + strings);
-
-			//var	chars			=	new char[]{'.', '\n'};
-
-			//var	file0Array		=	file0String.Split(chars, System.StringSplitOptions.RemoveEmptyEntries);
-
-			var	fileArray			=	fileStrings.Split('\n');
-
-			Debug.Log("debugTranslate: " + forms.Length + " / " + fileArray.Length);
-
-			for (var i=0; i<fileArray.Length; i++)
-			{
-				//var	removepoint	=	file0Array[i].
-
-				var	text		=	GetCorrectText(fileArray[i]);
-				var	str			=	GetText(text, forms[i], i);
-			}
-		}
-		*/
-
-		if (checkFiles) {
-			checkFiles	=	false;
-			CheckFiles();
-		}
-
-		if (translate) {
-			translate	=	false;
-
-			var	file_large_merged		=	GetMergedFiles("Assets/large/1/").Split('\n');
-			var	file_large_merged_ru	=	GetMergedFiles("Assets/large/9/").Split('\n');
-			var	file_large_all			=	ReadFile("Assets/large/all.txt").Split('\n');
-
-			Debug.Log("translate large: " + file_large_merged.Length + " / " + file_large_all.Length);
-
-			var	file_small_merged		=	GetMergedFiles("Assets/small/1/").Split('\n');
-			var	file_small_merged_ru	=	GetMergedFiles("Assets/small/9/").Split('\n');
-			var	file_small_all			=	ReadFile("Assets/small/all.txt").Split('\n');
-
-			Debug.Log("translate small: " + file_small_merged.Length + " / " + file_small_all.Length);
-
-
-			var	file_all				=	new List<string>();
-				file_all.AddRange(file_large_all);
-				file_all.AddRange(file_small_all);
-
-			var	file_merged				=	new List<string>();
-				file_merged.AddRange(file_large_merged);
-				file_merged.AddRange(file_small_merged);
-
-			var	file_merged_ru			=	new List<string>();
-				file_merged_ru.AddRange(file_large_merged_ru);
-				file_merged_ru.AddRange(file_small_merged_ru);
-
-			var	file_original		=	ReadFile("Assets/PDA.csv").Split('\n');
-
-			Debug.Log("translate: " + file_original.Length + " / " + file_all.Count + " / " + file_merged.Count + " / " + file_merged_ru.Count);
-
-			var merged_large		=	string.Join("\n", file_merged);
-
-			WriteToFile("Assets/large/merged.txt", merged_large);
-
-
-			Debug.Log("length: orig: " + 
-				string.Join("", file_original).Length + " / all: " + 
-				string.Join("", file_all).Length + " / m: " + 
-				string.Join("", file_merged).Length + " / ru: " + 
-				string.Join("", file_merged_ru).Length );
-
+			Debug.Log("РіРѕС‚РѕРІРѕ parce");
 		}
 
 		if (pack) {
 			pack	=	false;
+			Pack();
 
-			var	strings_en	=	GetLanguageStrings(1);
+			Debug.Log("РіРѕС‚РѕРІРѕ pack");
+		}
 
-			//Debug.Log("strings_en: " + strings_en.Count) ;
+		if (show) {
+			show	=	false;
+			
 
-			for (var i=0; i<strings_en.Count; i++)
-				Debug.Log("en: " + strings_en[i]);
 
 
-			//var	strings_ru	=	GetLanguageStrings(9);
-
-			//Debug.Log("strings_en: " + strings_en.Count + ", strings_ru: " + strings_ru.Count) ;
 		}
     }
 
-
-	string[] GetKeys ()
+	//	РїРѕР»СѓС‡РёС‚СЊ РґРІРµ СЃС‚СЂРѕРєРё, РІСЃС‚Р°РІРєРё Рё С‚РµРєСЃС‚
+	string[] GetFormsAndText (string _text)
 	{
-		return ReadFile("Assets/large/keys.txt").Split('\n');
+		//	РїРѕР»СѓС‡РёС‚СЊ РјР°СЃСЃРёРІ РІСЃС‚Р°РІРѕРє
+		var	arrayForms		=	GetTextForms(_text);
+
+		var forms			=	"";
+		var text			=	_text.Replace("\n", "");
+
+		//	РµСЃР»Рё С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРёСЏ РЅРµС‚ С‚Рѕ РЅРµР·Р°С‡РµРј Рё СЃС‚СЂР°РґР°С‚СЊ
+		if (arrayForms.Length >= 0)
+		{
+			//	РѕР±СЉРµРґРёРЅСЏСЋ С„РѕСЂРјС‹ С‡РµСЂРµР· Р·Р°РїСЏС‚СѓСЋ
+			forms			=	string.Join(",", arrayForms);
+			//	Р·Р°РјРµРЅСЏСЋ РІСЃС‚Р°РІРєРё РЅР° СЂР°Р·РґРµР»РёС‚РµР»Рё
+			text			=	string.Join("[-]", GetTextItems(text));
+		}
+
+		return new string[]{ forms, text + '.'};
 	}
 
-	List<string> GetLanguageStrings (int _lang=9)
+	
+	void Pack ()
 	{
-		var	path_assets		=	"Assets/";
-		var	path_large		=	path_assets + "large/";
-		var	path_small		=	path_assets + "small/";
+		var	keys				=	ReadFile(folder + "keys.txt").Split('\n');
+		var	forms				=	ReadFile(folder + "forms.txt").Split('\n');
+		
+		var	texts_en_small		=	GetMergedFiles(folder + "1/small/");
+		var	texts_en_large		=	GetMergedFiles(folder + "1/large/");
 
-		var	merged_large	=	GetMergedFiles(path_large + _lang + "/");
-		var	merged_small	=	GetMergedFiles(path_small + _lang + "/");
-		var	merged			=	(merged_large + "\n" + merged_small).Split('\n');
+		var	texts_en_str		=	texts_en_small + "\n" + texts_en_large;
+			texts_en_str		=	texts_en_str.Replace("[ -]", "[-]");
+			texts_en_str		=	texts_en_str.Replace("[- ]", "[-]");
+			texts_en_str		=	texts_en_str.Replace("[ - ]", "[-]");
 
-		var	keys_large		=	ReadFile(path_large + "/keys.txt");
-		var	keys_small		=	ReadFile(path_small + "/keys.txt");
-		var	keys			=	(keys_large + "\n" + keys_small).Split('\n');
+		var	texts_en			=	texts_en_str.Split('\n');
 
-		var	forms_large		=	ReadFile(path_large + "/forms.txt");
-		var	forms_small		=	ReadFile(path_small + "/forms.txt");
-		var	forms			=	(forms_large + "\n" + forms_small).Split('\n');
+		var	texts_ru_small		=	GetMergedFiles(folder + "9/small/");
+		var	texts_ru_large		=	GetMergedFiles(folder + "9/large/");
 
-		var result			=	new List<string>();
+		var	texts_ru_str		=	texts_ru_small + "\n" + texts_ru_large;
+			texts_ru_str		=	texts_ru_str.Replace("[ -]", "[-]");
+			texts_ru_str		=	texts_ru_str.Replace("[- ]", "[-]");
+			texts_ru_str		=	texts_ru_str.Replace("[ - ]", "[-]");
 
-		for (var i=0; i<merged.Length; i++)
-			result.Add(GetText(merged[i], forms[i]));
+		var	texts_ru			=	texts_ru_str.Split('\n');
+
+		Debug.Log("Pack: " + keys.Length + " / " + forms.Length + " / " + texts_en.Length + " / " + texts_ru.Length);
+
+		var file_original		=	ReadFile(folder + fileName).Split('\n');
+		var first_line			=	file_original[0];
+
+		var resultGrid			=	CSVReader.SplitCsvGrid(folder + fileName);
+
+		var keys_original		=	new string[resultGrid.GetLength(1)];
+		var sorted				=	new string[keys_original.Length];
+
+		
+		for (var i=0; i<keys_original.Length; i++)
+		{
+			keys_original[i]	=	resultGrid[0, i];
+
+			for (var j=0; j<keys.Length; j++)
+			{
+				if (keys[j].Equals(keys_original[i]))
+				{
+					//sorted[i]	=	keys[i] + "," + GetText(forms[i], texts_en[i], i) + "" + GetText(forms[i], texts_ru[i], i) + ","
+				}
+			}
+		}
+			
+
+
+		//
+
+		using (CSVWriter writer = new CSVWriter(folder + "translate/" + fileName))
+		{
+			writer.Write(file_original[0]);
+
+			for (var i=1; i<keys.Length; i++)
+			{
+				var line	=	new CSVRow();
+
+				for (var j=0; j<max_; j++)
+				{
+					if (j==0)
+						line.Add(keys[i]);
+					else 
+					if (j==1)
+						line.Add(GetText(forms[i], texts_en[i], i));
+					else
+					if (j==9)
+						line.Add(GetText(forms[i], texts_ru[i], i));
+					else
+						line.Add("");
+				}
+
+				writer.WriteRow(line);
+			}
+		}
+	}
+
+
+
+
+	//	РїРѕР»СѓС‡РёС‚СЊ РёС‚РѕРіРѕРІС‹Р№ С‚РµРєСЃС‚ СЃРѕ СЃРєРѕР±РєР°РјРё Рё Р·Р°РїСЏС‚С‹РјРё
+	string GetText (string _forms, string _text, int _i=-1)
+	{
+		if (_text == "")
+			return "";
+
+		var result			=	_text;
+
+		//	СѓР±СЂР°С‚СЊ РїРѕСЃР»РµРґРЅСЋСЋ С‚РѕС‡РєСѓ
+		if (result[result.Length-1] == '.')
+			result			=	result.Substring(0, result.Length - 1);
+
+		//	РµСЃР»Рё РІРѕСЂРјР°С‚РёСЂРѕРІР°РЅРёРµ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚
+		if (_forms == "")
+			return result;
+
+		var	arrayForms		=	_forms.Split(',');
+		var arrayText		=	Regex.Split(result, @"\[\-\]");
+
+		result				=	"";
+
+		if (arrayText.Length > arrayForms.Length)
+		{
+			//	С‚Рµ СЃР°РјС‹Рµ РјР°РіРёС‡РµСЃРєРёРµ С‚СЂРё СЃС‚СЂРѕС‡РєРё С‡С‚Рѕ РїРµСЂРІРѕРґСЏС‚ С„РѕСЂРјС‹ Рё С‚РµРєСЃС‚ РІ С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРЅС‹Р№ С‚РµРєСЃС‚
+			for (var i=0; i<arrayForms.Length; i++)
+				result		+=	arrayText[i] + arrayForms[i];
+
+			result			+=	arrayText[arrayForms.Length];
+		}
+		else
+		{
+			Debug.LogWarning(_i + ") strings_ru : " + " / " + arrayForms.Length + " / " + arrayText.Length + " / " + _forms + " / " + _text) ;
+
+			for (var i=0; i<arrayText.Length; i++)
+				result			+=	arrayText[i] + arrayForms[i];
+
+			for (var i=arrayText.Length; i<arrayForms.Length; i++)
+				result			+=	arrayForms[i];
+		}
 
 		return result;
 	}
 
-	void Parce ()
+
+	void SaveFiles (string _folder, List<string> _strings, int _charsMax=4900)
 	{
-		var	segmentsStrings		=	ReadFile("Assets/PDA.csv").Split('\n');
+		ClearFiles(_folder);
 
-		Debug.Log("число строк [ " + segmentsStrings.Length + " ]");
+		var textFile		=	"";
+		var fileIndex		=	0;
+		var textList		=	new List<string>();
 
-		ClearFiles("");
-			
-		var	smallSegments		=	new List<Segment>();		//	список 
-		var	smallKeys			=	new List<string>();			//	список 
-		var	smallStrings		=	new List<string>();			//	список 
-		var	smallForms			=	new List<string>();			//	список 
+		var	path			=	_folder + "0.txt";
 
-		var	largeSegments		=	new List<Segment>();		//	список 
-		var	largeKeys			=	new List<string>();			//	список 
-		var	largeStrings		=	new List<string>();			//	список 
-		var	largeForms			=	new List<string>();			//	список 
-
-		for (var i=0; i<segmentsStrings.Length; i++)
+		for (var i=0; i<_strings.Count; i++)
 		{
-			var	strings			=	GetStrings(segmentsStrings[i], i);
-
-			//	где то ошибка - выхожу
-			if (strings == null || strings.Length == 0)
-			{
-				Debug.LogError("ОШИБКА в строчке [ " + (i+1) + " ]");
-				return;
-			}
-
-			var	segment			=	new Segment(strings[1], strings[0]);
-
-			var	words			=	segment.text.Split(' ');
-
-			if (words.Length <= smallNum)
-			{
-				smallSegments.Add(segment);
-				smallKeys.Add(segment.key);
-				smallStrings.Add(segment.text);
-				smallForms.Add(string.Join("\"", segment.forms));
+			if (textFile.Length + _strings[i].Length < (_charsMax-1) ) {
+				textList.Add(_strings[i]);
 			}
 			else
 			{
-				largeSegments.Add(segment);
-				largeKeys.Add(segment.key);
-				largeStrings.Add(segment.text);
-				largeForms.Add(string.Join("\"", segment.forms));
-			}	
+				WriteToFile(path, textFile);
+
+				fileIndex++;
+
+				path			=	_folder + fileIndex + ".txt";
+
+				textList.Clear();
+				textList.Add(_strings[i]);
+			}
+
+			textFile			=	string.Join("\n", textList);
 		}
 
-		WriteToFiles("small/", 5000-10, smallStrings, smallKeys, smallForms);
-		WriteToFiles("large/", 10000-10, largeStrings, largeKeys, largeForms);
-
-		Debug.Log("ОХУЕТЬ!! ГОТОВО!");
+		//	РїРёС€Сѓ РїРѕСЃР»РµРґРЅРµРµ
+		if (textList.Count > 0)
+			WriteToFile(path , textFile);
+		
 	}
 
-	void CheckFiles ()
+	void Parce ()
 	{
-		Debug.Log("проверяю файл: Assets/small/ -----------------------------");
-		CheckFiles("Assets/small/");
+		var file			=	ReadFile(folder + fileName);
 
-		Debug.Log("проверяю файл: Assets/large/ -----------------------------");
-		CheckFiles("Assets/large/");
+		var formsAll		=	new List<string>();
+		var formsSmall		=	new List<string>();
+		var formsLarge		=	new List<string>();
+			
+		var textAll			=	new List<string>();
+		var textSmall		=	new List<string>();
+		var textLarge		=	new List<string>();
+
+		var keysAll			=	new List<string>();
+		var keysLarge		=	new List<string>();
+		var keysSmall		=	new List<string>();
+
+		var resultGrid		=	CSVReader.SplitCsvGrid(file);
+
+		for (var i=0; i<resultGrid.GetLength(1); i++)
+		{
+			if (resultGrid[0, i] == null || resultGrid[0, i].Equals(""))
+				continue;
+
+			var formsAndText	=	GetFormsAndText(resultGrid[1, i]);
+
+			var	key				=	resultGrid[0, i];
+			var forms			=	formsAndText[0];
+			var text			=	formsAndText[1];
+
+			//	С‡РёСЃС‚С‚РєР° РѕС‚ Р»РёС€РЅРёС… РїСЂРѕР±РµР»РѕРІ Рё СЂР°Р·РґРµР»РµРЅРёРµ РЅР° РґР»РёРЅРЅС‹Р№ РєРѕСЂРѕС‚РєРёР№
+			if (text.Split(' ').Length > 1)
+			{
+				var re				=	@"([ ]+|\[-\]+)+";
+
+				var options			=	RegexOptions.None;
+				var regex			=	new Regex(re, options);     
+
+				var textClean		=	regex.Replace(text, " ");
+					textClean		=	Regex.Replace(textClean, @"^\s+|\s+$", "");
+
+				var	textWords		=	textClean.Split(' ');
+
+				if (textWords.Length <= 3)
+				{
+					keysSmall.Add(key);
+					formsSmall.Add(forms);
+					textSmall.Add(text);
+				}
+				else
+				{
+					keysLarge.Add(key);
+					formsLarge.Add(forms);
+					textLarge.Add(text);
+				}
+			}
+			else
+			{
+				keysSmall.Add(key);
+				formsSmall.Add(forms);
+				textSmall.Add(text);
+			}
+		}
+
+		for (var i=0; i<keysSmall.Count; i++)
+		{
+			keysAll.Add(keysSmall[i]);
+			formsAll.Add(formsSmall[i]);
+			textAll.Add(textSmall[i]);
+		}
+
+		for (var i=0; i<keysLarge.Count; i++)
+		{
+			keysAll.Add(keysLarge[i]);
+			formsAll.Add(formsLarge[i]);
+			textAll.Add(textLarge[i]);
+		}
+
+		WriteToFile(folder + "keys.txt" ,  string.Join("\n", keysAll));
+		WriteToFile(folder + "forms.txt" , string.Join("\n", formsAll));
+
+		SaveFiles(folder + "1/small/" , textSmall, 4990);
+		SaveFiles(folder + "1/large/" , textLarge, 9990);
 	}
+
+	void ParceDebug ()
+	{
+		var file			=	ReadFile(folder + fileName);
+		var fileList		=	file.Split('\n');
+
+		var resultGrid		=	CSVReader.SplitCsvGrid(file);
+		var	keys			=	new List<string>();
+		var	forms			=	new List<string>();
+		var	texts			=	new List<string>();
+		var	origins			=	new List<string>();
+
+		for (var i=0; i<resultGrid.GetLength(1); i++)
+		{
+			if (resultGrid[0, i] == null || resultGrid[0, i].Equals(""))
+				continue;
+
+			var	key				=	resultGrid[0, i];
+			var formsAndText	=	GetFormsAndText(resultGrid[1, i]);
+
+			keys.Add(key);
+			forms.Add(formsAndText[0]);
+			texts.Add(formsAndText[1]);
+			origins.Add(fileList[i]);
+		}
+
+		var firstLine		=	fileList[0].Replace("\n", "");
+
+		WriteTranslate(folder + "translate/" + fileName, firstLine, keys, forms, texts, origins);
+	}
+
+
+	void Parce3 ()
+	{
+		var text			=	"Welcome {PlayerName} to a round of cards!";
+
+		var formsAndText	=	GetFormsAndText(text);
+
+		Debug.Log("forms: " + formsAndText[0]);
+		Debug.Log("text: "  + formsAndText[1]);
+
+		var	line			=	GetText(formsAndText[0], formsAndText[1]);
+
+		Debug.Log("line: |"  + line + "|");
+	}
+
+
+	void Pack_test2 ()
+	{
+		var debug_string	=	"We will play for [-]Gold Coins[-].[-]How many [-]Gold Coins[-] do you want to bet?";
+		var debug_array		=	Regex.Split(debug_string, @"\[\-\]");
+
+		//Debug.Log("Pack_test2: " + debug_array.Length + " / " + debug_string);
+
+		for (var i=0; i<debug_array.Length; i++)
+			Debug.Log(i + ") " + debug_array[i]);
+
+
+	}
+
+	void WriteTranslate (string _path, string _firstLine, List<string> _keys, List<string> _forms, List<string> _texts_en, List<string> _texts_original)
+	{
+		using (CSVWriter writer = new CSVWriter(_path))
+		{
+			writer.Write(_firstLine);
+			writer.WriteLine(_texts_original[0]);
+
+			for (var i=1; i<_keys.Count; i++)
+			{
+				var line	=	new CSVRow();
+
+				for (var j=0; j<max_; j++)
+				{
+					if (j==0)
+						line.Add(_keys[i]);
+					else 
+					if (j==1)
+						line.Add(GetText(_forms[i], _texts_en[i]));
+					else
+					if (j==9)
+						line.Add("");
+					else
+						line.Add("");
+				}
+
+				writer.WriteRow(line);
+				writer.WriteLine(_texts_original[i]);
+			}
+		}
+	}
+
+
+
+
+	string[] GetTextForms (string _text)
+	{
+		var matches		=	Regex.Matches(_text, sPattern_);
+		var array		=	new string[matches.Count];
+
+		for (int i=0; i<matches.Count; i++)
+			array[i]	=	matches[i].ToString().Replace("\n", "");
+
+		return array;
+	}
+
+
+	//	Р±СѓРґСѓ РІС‹Р·С‹РІР°С‚СЊ С‚РѕР»СЊРѕРє РєРѕРіРґР° С‚РѕС‡РЅРѕ Р·РЅР°СЋ С‡С‚Рѕ РЅРµС‚ С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРёСЏ
+	string[] GetTextItems (string _text)
+	{
+		return GetTextItems(_text, sPattern_);
+	}
+
+	string[] GetTextItems (string _text, string _regex)
+	{
+		var	splitting	=	Regex.Split(_text, _regex);
+
+		var result		=	new string[(splitting.Length-1)/2+1];	
+		
+		for (var i=0; i<result.Length; i++)
+			result[i]	=	splitting[i*2];
+
+		return result;
+	}
+
+	
 
 	void CheckFiles (string _path)
 	{
@@ -319,7 +563,7 @@ public class Translation : MonoBehaviour
 			{
 				if (!File.Exists(path_ru))
 				{
-					Debug.LogError("отсутствует файл перевода, id: " + i);
+					Debug.LogError("РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ С„Р°Р№Р» РїРµСЂРµРІРѕРґР°, id: " + i);
 					break;
 				}
 				else
@@ -329,18 +573,18 @@ public class Translation : MonoBehaviour
 
 					if (file_en.Length != file_ru.Length)
 					{ 
-						Debug.LogError("не совпадает число строк, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
+						Debug.LogError("РЅРµ СЃРѕРІРїР°РґР°РµС‚ С‡РёСЃР»Рѕ СЃС‚СЂРѕРє, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
 						//break;
 					}
 					else
 					{
-						Debug.Log("файл прошёл проверку, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
+						Debug.Log("С„Р°Р№Р» РїСЂРѕС€С‘Р» РїСЂРѕРІРµСЂРєСѓ, id: " + i + ", en: " + file_en.Length + ", ru: " + file_ru.Length);
 					}
 				}
 			}
 			else
 			{
-				//Debug.Log("файлы кончились id:" + i);
+				//Debug.Log("С„Р°Р№Р»С‹ РєРѕРЅС‡РёР»РёСЃСЊ id:" + i);
 
 				break;
 			}
@@ -386,7 +630,7 @@ public class Translation : MonoBehaviour
 		if (_text == "")
 			return "";
 
-		//	убрать последнюю точку
+		//	СѓР±СЂР°С‚СЊ РїРѕСЃР»РµРґРЅСЋСЋ С‚РѕС‡РєСѓ
 
 		if (_text[_text.Length-1] == '.' && _text[_text.Length-2] == ' ')
 			_text	=	_text.Substring(0, _text.Length - 2);
@@ -397,62 +641,64 @@ public class Translation : MonoBehaviour
 		return	(_text.Contains("\"") || _text.Contains(",")) ? ('"' + _text + '"') : _text;
 	}
 
-	//	получить итоговый текст со скобками и запятыми
-	string GetText (string _text, string _forms)
+	//	РїРѕР»СѓС‡РёС‚СЊ РёС‚РѕРіРѕРІС‹Р№ С‚РµРєСЃС‚ СЃРѕ СЃРєРѕР±РєР°РјРё Рё Р·Р°РїСЏС‚С‹РјРё
+	string GetText_old2 (string _forms, string _text)
 	{
 		if (_text == "")
 			return "";
 
 		var result			=	_text;
 
-		//	убрать последнюю точку
+		//	СѓР±СЂР°С‚СЊ РїРѕСЃР»РµРґРЅСЋСЋ С‚РѕС‡РєСѓ
 		if (result[result.Length-1] == '.')
 			result			=	result.Substring(0, result.Length - 1);
-		
-		//	если есть кавычка или запятая то оборачиваю в кавычки
-		if (result.Contains("\"") || result.Contains(","))
-			result			=	'"' + result + '"';
 
-		//	если ворматирование отсутствует
+		//	РµСЃР»Рё РІРѕСЂРјР°С‚РёСЂРѕРІР°РЅРёРµ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚
 		if (_forms == "")
 			return result;
 
-		//	на всякий пожарный удаляю закрывающую скобочку
-		result				=	result.Replace("]", "");
+		//	РЅР° РІСЃСЏРєРёР№ РїРѕР¶Р°СЂРЅС‹Р№ СѓРґР°Р»СЏСЋ Р·Р°РєСЂС‹РІР°СЋС‰СѓСЋ СЃРєРѕР±РѕС‡РєСѓ
+		result				=	result.Replace("[-]", "[");
 
-		var	arrayForms		=	_forms.Split('"');
+		var	arrayForms		=	_forms.Split(',');
 		var arrayText		=	result.Split('[');
 
 		result				=	"";
 
-		//	те самые магические три строчки что перводят формы и текст в форматированный текст
-		for (var i=0; i<arrayForms.Length; i++)
-			result			+=	arrayText[i] + arrayForms[i];
+		if (arrayText.Length > arrayForms.Length)
+		{
+			//	С‚Рµ СЃР°РјС‹Рµ РјР°РіРёС‡РµСЃРєРёРµ С‚СЂРё СЃС‚СЂРѕС‡РєРё С‡С‚Рѕ РїРµСЂРІРѕРґСЏС‚ С„РѕСЂРјС‹ Рё С‚РµРєСЃС‚ РІ С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРЅС‹Р№ С‚РµРєСЃС‚
+			for (var i=0; i<arrayForms.Length; i++)
+				result			+=	arrayText[i] + arrayForms[i];
 
-		result				+=	arrayText[arrayForms.Length];
+			result				+=	arrayText[arrayForms.Length];
+		}
+		else
+		{
+			Debug.LogWarning("strings_ru : " + " / " + arrayForms.Length + " / " + arrayText.Length + " / " + _forms + " / " + _text) ;
 
-		//	возвращаю \n
-		result				=	result.Replace("[n]", "\\n");
-		result				=	result.Replace("[n2]", "\\n\\n");
-		result				=	result.Replace("[n3]", "\\n\\n\\n");
+			for (var i=0; i<arrayText.Length; i++)
+				result			+=	arrayText[i] + arrayForms[i];
+
+			for (var i=arrayText.Length; i<arrayForms.Length; i++)
+				result			+=	arrayForms[i];
+		}
 
 		return result;
 	}
 
 
-	//	удаляем ненужные файлы
+	//	СѓРґР°Р»СЏРµРј РЅРµРЅСѓР¶РЅС‹Рµ С„Р°Р№Р»С‹
 	void ClearFiles (string _folder)
 	{
 		for (var i=0; i<1000; i++)
 		{
-			var filePath	=	"Assets/" + _folder + i + ".txt";
-
-			Debug.Log("clear file: " + filePath);
+			var filePath	=	_folder + i + ".txt";
 
 			if (File.Exists(filePath))
-				File.Delete (filePath);
-			else
-				break;
+				File.Delete(filePath);
+			//else
+				//break;
 		}
 	}
 
@@ -464,7 +710,7 @@ public class Translation : MonoBehaviour
 		var	allKeys				=	string.Join("\n", _keys);
 		var	allForms			=	string.Join("\n", _forms);
 
-		Debug.Log("WriteToFiles " + "Assets/" + _folder + " : " + _strings.Count + ", длинна символов: " + allStrings.Length);
+		Debug.Log("WriteToFiles " + "Assets/" + _folder + " : " + _strings.Count + ", РґР»РёРЅРЅР° СЃРёРјРІРѕР»РѕРІ: " + allStrings.Length);
 
 		WriteToFile("Assets/" + _folder + "all.txt",  allStrings);
 		WriteToFile("Assets/" + _folder + "keys.txt", allKeys);
@@ -506,128 +752,16 @@ public class Translation : MonoBehaviour
 
 	void WriteToFile (string _path, string _text)
 	{
+		//Debug.Log("WriteToFile: " + _path );
+
 		if (!File.Exists(_path))
-#pragma warning disable CS0642 // Возможно, ошибочный пустой оператор
+#pragma warning disable CS0642 // Р’РѕР·РјРѕР¶РЅРѕ, РѕС€РёР±РѕС‡РЅС‹Р№ РїСѓСЃС‚РѕР№ РѕРїРµСЂР°С‚РѕСЂ
 			using (File.CreateText(_path));
-#pragma warning restore CS0642 // Возможно, ошибочный пустой оператор
+#pragma warning restore CS0642 // Р’РѕР·РјРѕР¶РЅРѕ, РѕС€РёР±РѕС‡РЅС‹Р№ РїСѓСЃС‚РѕР№ РѕРїРµСЂР°С‚РѕСЂ
 
 		var writer = new StreamWriter(_path, false, System.Text.Encoding.UTF8);
 			writer.Write(_text);
 			writer.Close();
-	}
-
-	string[] GetStrings (string _string, int _index)
-    {
-		//	скобочки нужны для других скобочек или запятых
-
-		var	result				=	new string[max_];
-		var	isSkobka			=	false;
-		var	index				=	0;
-
-		for (var i=0; i<_string.Length; i++)
-		{
-			//	последний символ
-			var isLast			=	i == _string.Length-1;
-
-			//	начало
-			if (result[index] == null || result[index].Length == 0)
-			{
-				result[index]	=	"";
-
-				//	начал со скобки
-				if (_string[i] == '"')
-				{
-					if (isLast || _string[i+1] == ',')
-					{
-						Debug.LogError("ошибка в строке: [ " + _index + " ] какойто пиздец со скобкой 1");
-						return null;
-					}
-
-					if (_string[i+1] == '"')
-					{
-						result[index]	+=	"\"\"";
-						continue;
-					}
-
-					//	начинаю со скобки
-					//result[index]	+=	"\"";
-					isSkobka		=	true;
-					continue;
-				}
-			}
-
-			if (isSkobka)
-			{
-				if (isLast && _string[i] != '"')
-				{
-					Debug.LogError("ошибка в строке: [ " + _index + " ] какойто пиздец со закрывающей скобкой 2");
-					return null;
-				}
-
-				if (_string[i] == '"')
-				{
-					//	игнорирую двойные скобки
-					if (!isLast && _string[i+1] == '"')
-					{
-						result[index]	+=	"\"\"";
-						i++;
-						continue;
-					}
-
-					if (!isLast && _string[i+1] != ',')
-					{
-						Debug.LogError("ошибка в строке: [ " + _index + " ] какойто пиздец со закрывающей скобкой 3");
-
-						return null;
-					}
-					
-					//	скобка является закрывающей
-
-					//result[index]	+=	"\"";
-
-					isSkobka	=	false;
-
-					//	переход на сл элемент
-					if (!isLast && _string[i+1] == ',')
-					{
-						index++;
-						i++;
-						continue;
-					}
-
-				}
-
-				result[index]		+=	_string[i];
-			}
-			else
-			{
-				if (_string[i] == ',')
-				{
-					index++;
-					continue;
-				}
-				else
-					result[index]	+=	_string[i];
-			}
-		}
-
-		//Debug.Log("GetStrings: [ " + _index + " ] " + result[1]);
-
-		return result;
-	}
-
-
-	void Pack ()
-	{
-		var	original		=	ReadFile("Assets/large/forms.txt").Split('\n');
-
-		var	new_file		=	new List<string>();
-			new_file.Add(original[0]);
-
-		for (var i=1; i<original.Length; i++)
-		{
-
-		}
 	}
 
 }

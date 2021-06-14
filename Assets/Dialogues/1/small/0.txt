@@ -1,0 +1,326 @@
+﻿English.
+Card Dealer.
+Yes.
+No.
+[-]You lost![-].
+Yes.
+No.
+Station Service Console.
+UCH Heidelberg.
+..dentify cn...us..!.
+Proceed.
+Abort.
+Play.
+Not now.
+Ok IDA.
+Thanks IDA..
+Close.
+Close.
+Close.
+Close.
+Close.
+Close.
+Alien code fragments..?.
+Close.
+AI Routine 34.
+We'll see...
+ Good luck, Survivor!.
+Deactivate Console.
+Deactivate Console.
+Retry.
+Deactivate Console.
+Deactivate Console.
+Show logs.
+Deactivate Console.
+Play file.
+Discard.
+Information classified..
+Enter credentials again.
+End Communication.
+Start procedure..
+Confirm..
+Play.
+Discard.
+Start procedure.
+Confirm.
+Play.
+Discard.
+Start procedure.
+Confirm.
+Play.
+Discard.
+Play File.
+Discard.
+Proceed.
+Proceed.
+[-]So...really?[-].
+Fail...inset. AI Rout..32..missed!.
+[-]Obviously not[-].
+[-]Self-destruct sequence?![-].
+Accept.
+[-]Sure thing.[-].
+..error..[-]..error..[-]..error..[-]..error..[-]..error...
+Retry.
+Deactivate Minefield.
+Restart.
+Show message.
+Deactivate Console.
+[-]Start[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Skip Reports[-].
+[-]Play next[-].
+[-]Close communication[-].
+Commander! [-] Incoming transmission!.
+That was quick..
+War of Silence?.
+What the..?.
+Sounds doable!.
+Easiest job ever!.
+[-]Aye..YARR![-].
+You. [-]  Are. [-]  Late!.
+[-]Excu...?[-].
+Brewmaster Urfk.
+[-]This is..[-].
+[-]...[-].
+Bye..
+[-]Nevermind[-].
+[-]Smuggler[-].
+[-]TOP raid[-].
+[-]Secret Recipes[-].
+[-]Zirax weaponry[-].
+[-]Artifacts[-].
+[-]Secret Recipes[-].
+[-]Artifacts[-].
+[-]Secret Recipes[-].
+[-]Zirax weaponry[-].
+[-]TOP raid[-].
+[-]Praise[-].
+[-]Threaten[-].
+[-]Threaten[-].
+[-]Agree[-].
+[-]Threaten[-].
+[-]Leave[-].
+Paymaster Moebus.
+[-]Leave[-].
+[-]Leave[-].
+[-]Get where?[-].
+[-]Threaten[-].
+[-]Leave[-].
+[-]Thanks?[-].
+[-]Party Time![-].
+[-]My crew..?[-].
+[-]My crew?[-].
+[-]Details please![-].
+[-]Alex?[-].
+[-]Cheers![-].
+[-]Of course![-].
+[-]???[-].
+[-]I'm listening[-].
+[-]End communication[-].
+[-]Details please![-].
+[-]Thank you[-].
+[-]Please report.[-].
+[-]Keeper?[-].
+[-]How long..?[-].
+[-]Infection?[-].
+[-]End communication[-].
+[-]End communication[-].
+[-]No denying.[-].
+Very nice!.
+Bye..
+OK.
+Captain Hyde.
+Understood.
+Polaris Agent.
+[-]What?[-].
+[-]Details please![-].
+[-]Easy.[-].
+[-]Saying hello![-].
+[-]No worries.[-].
+Kanydan.
+[-]Leave[-].
+[-]Will do.[-].
+Polaris Agent.
+[-]Affirmative![-].
+Polaris Agent.
+Polaris Agent.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Kanydan.
+Station AI.
+Station AI.
+Close Communication..
+Captain Hyde.
+Affirmative, Sir!.
+Commander Porter.
+Thanks, Ma'am..
+Commander Porter.
+Affirmative, Ma'am.
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+Hello.... Terran....
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+We are unstoppable..
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](back)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+We want nothing..
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+T...terrans..?.
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+Hsssst'hut.
+Yugt Arachshe Nu!.
+Jsssi Hssssst'hut.
+Benkult Ja'Ran'Dal.
+Fin fet!.
+Hackan li boi.
+Zakdal Qe Genfet.
+Nu nu nu!.

@@ -1,0 +1,373 @@
+﻿Ksssst'ra'jan.
+Ga bol.
+Hssss't Hssss't.
+T.... terrsss't.
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+[-](leave)[-].
+Clobber.
+Clobber.
+Clobber.
+Clobber.
+Clobber.
+Clobber.
+Calico.
+Calico.
+Calico.
+Yeah, sure!.....
+Calico.
+Calico.
+Calico.
+Calico.
+Calico.
+Pet.
+Pet.
+Pet.
+Pet.
+Pet.
+Pet.
+Pet.
+Pet.
+Thanks!....
+Bennak.
+Corsair.
+Yeah?!... [-].
+Privateer.
+Buccaneer.
+Rover.
+Mercenary.
+Forger.
+Rascal.
+Raider.
+Marauder.
+Raider.
+Don't test me!....
+Xen'uan.
+Karusz.
+[-].
+Zaall.
+[-].
+Xsvoid.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Bennak.
+Corsair.
+Corsair.
+What?!....[-].
+Bennak.
+Bennak.
+Corsair.
+Corsair.
+Corsair.
+Corsair.
+Corsair.
+Corsair.
+Corsair.
+Corsair.
+What?!... No!.
+What?!.....
+Xen'uan.
+You're a Doc?!....
+Xen'uan.
+Xen'uan.
+Xen'uan.
+Xen'uan.
+Corsair.
+Marauder.
+Hey there!....
+Karusz.
+Karusz.
+What  you mean?!....
+Karusz.
+Karusz.
+Karusz.
+Karusz.
+Karusz.
+Hey you're Zaall?.
+Zaall.
+Zaall.
+Zaall.
+Thanks!....
+Zaall.
+Xsvoid.
+Xsvoid.
+Xsvoid.
+Yeah?... [-].
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Who are you?.
+Station Surveyor AI.
+Station Surveyor AI.
+....
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Sure!.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Station Surveyor AI.
+Well, thanks again!.
+Station Surveyor AI.
+Emergency Console.
+Emergency Console.
+[-]Log out[-].
+Bridge Console.
+[-]Shut Down[-].
+Security Terminal.
+[-]Close[-].
+Thanks!.
+Commander Mercer Junior.
+[-]Doubts?[-].
+Alex is here?.
+[-]Great..[-].
+Family secrets?.
+Vice Admiral Perez?.
+Operation?.
+Emmerson.
+New assignment?.
+Ah .. ?.
+Anything else?.
+Mercer Junior.
+Emmerson indicated something....
+Sounds dramatic.
+Yarod.
+Wait. What?.
+Let's roll!.
+Yarod.
+Yarod?.
+Details please, Yarod!.
+Although .. what?.
+Yarod .. please!.
+Yarod.
+Commander Mercer jr..
+Yarod.
+.. (laughs).
+Commander Mercer.
+Ambassador Hyzani.
+Ambassador Hyzani.
+War of Silence?.
+Sounds doable..
+Hurry up..
+Ambassador Hyzani.
+Damn..
+IDA.
+Command Center.
+Let's go!.
+Mercer.
+Okay. Sure..
+Ensign Henrid.
+Eh..everything alright?.
+IDA.
+Sergeant Palant.
+Mercer.
+Ambassador Hyzani.
+Alex.
+Mercer!.
+Tharkan.
+Sure, my friend..
+Ambassador Hyzani.
+Contact an Ambassador.
+Log out.
+Latest News.
+Next.
+Next.
+Log out.
+Log out.
+Log Out.
+Donate.
+Change faction selection.
+[-]Polaris Megacorp[-].
+[-]Talon Guardians[-].
+[-]Traders Guild[-].
+[-]Pirate Clans[-].
+[-]Kriel Empire[-].
+[-]Free Colonists[-].
+[-]Tesch Collective[-].
+Log out.
+Log out.
+Log out.
+Log out.
+Donate.
+Change faction selection.
+Log out.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Donate.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Change faction selection.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Log out.
+Proceed.
+Abort.
+Proceed.
+Proceed.
+Yes..
+Affirmative..
+Understood.
+No..
+Understood..
+Continue..
+Damaged Console.
+Damaged Console.
+Deactivate..
+[-].
+IDA.
+Understood..
+IDA.
+On my way..
+IDA.
+[-].
+IDA.
+IDA.
+Possible reasons?.
+IDA.
+About the timestamp?.
+IDA.
+Any advice?.
+IDA.
+Talon Chief.
+Zirax? Polaris?.
+Talon Chief.
+Trader.
+Thanks a lot..
+Talon Chief.
+Talon Chief.
+Shaman.
+Blacksmith.
+Understood..
+[-]Fingers crossed.[-].
+IDA.
+Dr. Mandor.
+Depends....
+... ?.
+What is it?.
+Same to you!.
+UCH Heidelberg.
+[-]Next Logfile[-].
+Show logfiles..
+Polaris Guard.
+Thanks!.
+Polaris Guard.
+Cmd. Carver.
+Kezzel.
+Deal..
+Sounds doable..
+Agent Kezzel.
+Abyssal family?.
+[-]Contacts?[-].
+The Legacy maybe?.
+Same to you!.
+Sanctuary Security System.
+Activate teleporter connection?.
+Confirm..
+Dismiss.
+TOP Manager Yilk.
+Agent Kezzel.
+Yet another test?.
+[-]Deactivate.[-].
+Agent Kezzel.
+Agent Kezzel.
+Agent Kezzel.
+Security Guard.
+[-].
+Nevermind..
+Cmd. Carver.
+Nevermind..
+Commander Carver.
+Agent Kezzel.
+Damaged Console.
+Deactivate Console..
+System Console.
+System Console.
+System Console.
+Deactivate Console.
+Deactivate Console.
+Deactivate Console.
+System Console.
+Deactivate Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+System Console.
+GIN Store.
+Roll the dice!.
+Arts Gallery (Posters).

@@ -1,0 +1,49 @@
+﻿Oh [-]. I see you have the holy statue of our people. Do you want to give it to me?.
+You need a friendly reputation or better to the Talon then I will talk to you..
+Tell me the story about your people.
+Greetings [-]. What do you want from me?.
+Welcome [-] to a round of cards!.
+We will play for [-]Gold Coins[-].[-]How many [-]Gold Coins[-] do you want to bet?.
+1 [-]Gold Coin[-].
+10 [-]Gold Coins[-].
+100 [-]Gold Coins[-].
+It seems you don't have enough [-]Gold Coins[-]...get some and come back. Bye.
+You bet [-] [-]Gold Coins[-] and I will also bet [-] [-]Gold Coins[-]. [-]Your first card is [-]..
+Do you want another card?.
+Your next card is [-]. [-]Now you have [-] in total!.
+My first card is a [-].
+My next card is [-].   Now I have [-]![-].
+[-]You won! [-]Here take your [-] Gold Coins[-]!.
+You have [-]. [-]You lost![-].
+You have [-]won [-] and [-]lost [-] [-]games in this session so far.[-]Do you want to play again?.
+Come back soon! Bye..
+First I draw cards for you, then for myself. Whoever comes closest to Number 21 wins. The card I draw has the number from 1 to 11. After each card you have the choice to stop.[-]If you win, you get my part on top of your bet..
+Ok thanks, I got it [-](Back)[-].
+Wait, how does it work?.
+You lost 20 times on my table by now. Come back later and think about getting a real job maybe..
+It's you again! Our Management ordered me to refuse playing with you. Come back later..
+Can you tell me my Statistics first?.
+On my table you played [-] times.[-]You [-]won [-] times.[-]You [-]lost [-] times.[-]You [-]won [-] [-]Gold Coins[-].[-]You [-]lost [-] [-]Gold Coins[-]..
+Alright then... [-](Back)[-].
+U..cde..ksss..damaged. You nee..legitimate ID!.
+Integrated Data Assistant (IDA).
+[-]Emergency situation detected! [-] Protocol UCH001A has been initialized!.
+Integrated Data Assistant (IDA).
+Ship status: [-] . .  [-] Destroyed due to malfunction in the engine systems. [-] [-]Current situation: [-] . .  [-] Crashed on an unknown planet. [-] [-]Pilot status: [-] . .  [-] Successfully abandoned ship in an escape pod. [-] [-]Pilot health: [-] . .  [-] Low, but stable.[-]Integrated Data Assistant (IDA):  [-] . .  [-] Rebooted. [-]Welcome back, Commander! [-] Glad to see you alive![-] [-]We've had incredible luck![-] Being dragged into the TITAN's warp vortex and coming out alive in one piece![-] [-]I am currently trying to reestablish communication with the Operation Phoenix fleet. [-]This will take a few minutes.[-] In the meantime:[-] I've been storing our sensor and event logs since our escape from Apollon station in the [-]Empyriopedia Journey Book[-] ([-]F1[-]). [-]Open the entry 'Starting The Journey' to read the log.[-] [-]Also: Make sure to pick any item, including the [-]Detector[-], from your [-]Escape Pod[-] ([-]F[-]) before going elsewhere!.
+Thanks for the reminder, IDA!.
+Integrated Data Assistant (IDA).
+Commander, just for your reference: I've been storing our sensor and event logs since Apollon station in the database. [-] Do you want to review them now?.
+Integrated Data Assistant (IDA).
+Affirmative. I'll continue saving data until you're ready..
+I'll analyze it for later review, Commander..
+Data Analyzation and Visualization Entity (D.A.V.E.).
+T minus 22 h 30 min [-] [-]Jupiter Outpost 31 (Apollon Station) [-] [-]Science Lab [-]Dr. Greyson, [-] Dr. Dawson [-] [-] Doctor Greyson! [-] Doctor Greyson! [-] We just got confirmation! [-] [-] The Waverider protocol has been activated! [-] [-] Great! [-] The wait is over! [-] Now let's prepare DAVE and the equipment for the final stage of the project. [-] Did you save the latest data from the listening posts? [-] [-] Of course, Ma'am. [-] DAVE is already processing the parameters and adjustments. [-] [-] Good. [-] This will be a giant leap for mankind. [-] DAVE? [-] [-] I am already starting the routines, Doctor. [-] [-] Time left? [-] [-] The event will take place in 22h and 25 minutes at about 16:00 local time. [-] [-].
+Interesting... this must be something DAVE added to my log..
+ T minus 7h 25min [-] [-]Jupiter Outpost 31 (Apollon Station) [-]Crew Quarters [-]Commander [-], PRIVATE LOG [-] [-] [-] Ouch... my head! [-] Damn, I'm late! [-] Didn't I set this f .. alarm for earlier? [-] .. ah .. damn .. snooze timer .. [-] [-] [-] .. ah [-] .. who put that .. here [-] .. and [-] what the .. Alex .. ? [-] [-] [-] [-] [-] [-] You've got a new message. [-] Shall I play it? [-] [-] [-] ..f course..! [-] [-] Hey honey! [-] Awake yet? :D [-] I tried to not wake you up, but they've already sent me over to the TITAN for the final checks. [-] Big day today, right? [-] We'll do the anniversary party over here. [-] Comm Chief de Vries will come over from the GRAND and attend as well! [-] Captain Benner told me you'll have to do something for the Lab-A guys and your shuttle is scheduled for 16:00. [-] So while you're there, remind Greyson and Dawson they will have to bring the single malt. [-] We won that last round, yesterday! :D [-] Don't be late and don't forget the cake! [-] CU later [-] - love. A. [-] [-] [-] ..eh? [-] ..hf to fo somethfhing fo fthe lab..? [-] [-] [-] [-] [-] [-] You have a new assignment. [-] Opening file. [-] [-] Commander [-], hope you did not forget Captain Benner kindly allowed me to requisition you for a final assignment, before you leave for the TITAN. [-] Please check with the quarter master for your upgraded suit and equipment. [-] Then please come down to Lab A. [-] Oh, and Happy Anniversary to you and Alex! [-] - Greyson [-] [-] Servo! [-] Can you please check the message folder? [-] I am quite sure there were no new assignments when I was checking the inbox before we went to bed! [-] [-] I am afraid, I can not give an answer. [-] No logs are available for the specified time. [-] [-] Hmm... [-] interesting. [-] Seems that everyone is getting crazy, the closer we get to the departure date. [-] Even the station AIs. [-] [-] Servo, please lock down the cabin after I've left and make sure my stuff is loaded to the transport shuttle. [-] [-] Of course, Commander. [-] Goodbye and good luck riding the wave! [-] [-] What ... ??.
+Logging private stuff!? Hmpf ....
+ T minus 7h 15min [-] [-]Jupiter Outpost 31 (Apollon Station) [-] [-]Lab A [-] [-]Commander [-], Dr. Greyson, Dr. Dawson [-] [-] [-] [-] There you are! What took you so long? [-] [-] Hey Doc! [-] Seems like the internal com has some issues .. [-] again. [-] I just got your assignment note only a few minutes ago. [-] Someone will have to look into this mess tomorrow whe... [-] [-] Sure, sure. [-] Now - let's get started one something important. [-] Timing is key. [-] [-] The tech team has installed the new transceiver that will allow us to track a cosmological event, which happens only every dozen years. [-] We want to pick up that signal and investigate the results, so the fleet can probably make use of the data. [-] Let me quickly check the status. [-] DAVE? [-] [-] Processing requests, doctor. [-] [-] [-] [-] [-] [-] Doc! [-] The wave array is read .. [-] oh, hi [-]! [-] Coming over to help us? [-] [-] Seems so. [-] Something you guys broke .. [-] let me guess .. [-] maybe .. [-] cake in the sequencer again? [-] [-] [-] [-] Ok. [-] Meet you later over at the TITAN! [-] [-] [-] [-] [-] [-] Dr. Greyson? [-] The data has been sent to your terminal. [-] [-] Thanks DAVE. [-] [-] Turns out, your access permission is required to complete the installation, [-]. [-] And, while you're at it, lend these guys a hand since you know best how to work on that system. [-] Chief Kuehn is down in the engine section. [-] [-] Ok Doc, no worries. [-] We'll get this transceiver online in no time..
+That's where all this started..
+ T minus 3h 10min [-] [-]Jupiter Outpost 31 (Apollon Station) [-] Engine Section [-] [-]Commander [-], Tech Chief Kuehn [-] [-] [-] [-] [-] [-] [-], I told you several times that will not work that way! [-] [-] Hey, at least we had to try it! [-] It seems this whole installation is flawed. [-] This is like trying to put a B-connecor into an A-plug. [-] DAVE, whose idea was this, anyway? [-] Greyson said we have to install this ... [-] and time is running out, she said. [-] Whatever this means. [-] Probably because our shift is over in an hour! [-] [-] [-] [-] Ok, new idea - [-] you will stay here on the console and I will go down to the control core and reboot the whole thing. [-] If that doesn't work... [-] [-] It better does! [-] Ok, I will tell Dawson to check the power level..
+I clearly remember what followed..
+ T minus 2h 55min [-] [-]Jupiter Outpost 31 (Apollon Station) [-] [-]Core Compartment [-] [-]Commander [-] [-] [-] Chief, I'll restart the control core now. [-] DAVE, please grant me access to the console. [-] .. [-] Access console opened [-].. [-] Access granted Code Beta [-].. [-] Restart process initiated [-].. [-] Restart process aborted [-].. [-] Override priority [-] [-] Hey! [-] What the..? [-] .. [-] Restart process initiated [-] .. [-] Restart process aborted [-].. [-] Override priority [-] [-] Chief! [-] Some idiot is blocking my access. ! [-] I will .. [-] DAVE, please can you.. ? [-] [-] Nevermind! [-] Something's happening now! [-] .. [-] Remote access detected [-] .. [-] Access granted! [-] [-].. [-] Restart initiated[-].. [-] Power supply damaged[-].. [-] ..OVERLOAD WARNING.. [-].. [-] ..SYSTEMS OVERLOADING.. [-] [-] CHIEF! [-] get away from the console! [-] Something is overloading the... ! [-] [-] [-] [-] [-] [-] [-] [-].
+If it was only energy signatures....

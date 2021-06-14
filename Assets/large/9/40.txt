@@ -1,112 +1,90 @@
-﻿Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-[]Mission aborted![]Open the PDA ([]F1[]) to manually start the []STORY missions[] in the []SOLO MISSIONS[] tab..
-[]Story missions []can be found in the PDA ([]F1[]) []SOLO MISSION[] tab![]Check the Empyriopedia ([]F1[]) on info about game mechanics and related questions!.
-Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-Wait for the message to decode..
-Updating mission parameters.. please wait..
-Wait for the message to be decoded..
-Access the []Portable Constructor []and craft a []Pistol []and the []Pistol Rounds[]You need 5x []iron[], 5x []copper []and []fiber[]..
-Eating can be achieved from every inventory ( []SHIFT + RMB []) or by putting the item to the toolbar and using []LMB[].
-Open the status overview panel []({keybind(Inventory)}) []and eat the Energy Bar by clicking at it with []SHIFT + Right-Mouse-Button (RMB)[]..
-[] Commander, the signal seems to originate from a []damaged com station[] close to our crashsite! I have added a []yellow marker[] onto your screen and radar to follow. You should[] go there[] as you might find more information there.[]Hold []SHIFT []to run. This will deplete your stamina, though..
-Go to the trader you picked up the flamethrower from..
-Follow the marker. The bridge is located in the front part of the wreckage.[]Tip: Jumping in from the side of the bridge area might be an alternative way to find a way inside!.
-Skipping Base Building Tutorial.
-[].. updating mission parameters ..[].
-Check the Empyriopedia ([]F1[]) for info about game mechanics and related questions!.
-The switch is on the entry of the bridge on a wall between the two stairs leading up in the bridge area..
-Up to Crew Deck.
-There is a []corridor on the left []with a []staircase []that should lead to the []topmost level[] of the vessel..
-[] We are on the main deck (level 3). []The bridge is on top of the crew deck (level 7)..
-Go upstairs to the crew deck (level 7)..
-[] The ship is in a full lockdown, but we need to go to the bridge and access the captains logs.[]Behind the blast doors there is a []corridor on the left []with a []staircase []that should lead to the topmost level of the vessel with the []bridge[]..
-Follow the corridor on the left to the bridge.
-Now I only need to find the []Bridge Logs[]I better check my weapons. This is much too silent for so many lost souls....
-The logs are saved on a console in the front part of the bridge..
-[] Access the console and review the logs. []This should give us a hint about what has happened here..
-Access the console and retrieve any available log information..
-[] All the logs should be stored in the main core control. To open the doors, we need to []deactivate the containment []system.[]There is a []lockdown override switch[] near the entry of the bridge..
-[] Commander, I am tracking increasing activities in the ship.[]Be careful..
-Main Control Deck (L5).
-Go to level 5.
-The Main Control Deck can be accessed through the staircase on level 5.
-[] Attention. Hostile creatures detected moving to our position!.
-The System Status Console can be found at the other side of the Main Control Deck, close to the windows that allow you to look down into the cargo bay..
-[] The doors are locked due to an ventilation problem.[]Find the []ventilation control []and resolve the issues..
-The ventilation control is behind the door on the left side of the front cargo bay window..
-Pull the lever in the ventilation maintenance room to open the doors on level 4.
-[] That did not unlock the direct access to the []Cargo Bay 2[], I am afraid. []You need to go back to the []staircase []and enter the []maintenance deck[] on []level 4[]..
-Go back to the staircase. Go down to the maintenance deck (level 4).
-[] Follow the corridors. They are a bit of a labyrinth. Expect bad surprises.[]I have set a []maker on your screen[] to assist you with the pathfinding..
-The maintenance deck corridors are a labyrinth. IDA has marked the exit on your screen..
-[]We need to go further down to the freight deck. To get there, we need to activate the []Freight Elevator[]. The switch is in the []Cargo Bay 2[], but the way is blocked.[]We need to find the []System Status Console[] on the Main Control Deck..
-Cargo Bay 2 (L3).
-The access doors are on the left side when breaking through the passage the explosion created..
-Find the Freight Elevator and go down one level again..
-Using the lever might lead to unforeseen activities..
-The Warp Control Room is in the engine section. You need to make your way through the freight deck.[]Reload often..
-[] There is a []warp core access []door in the control room..
-Use Warp Core Access.
-The Warp Core Access.
-Find Turbine Room Lever.
-Follow the corridor to the control area for the Turbine Room doors..
-[] We need to go through the warp core and the turbine room, down to the lower freight deck.[]Find the []Turbine Room Lever[] to unlock the doors..
-[] The lever is damaged. But there is another lever on the other side of the warp core.[]Use the door on the other side of the lever, head to the other side of the warp drive and use the []Alternative Access.[].
-The Alternative Access is on the other side of the warp core. Use your jetpack..
-Use Turbine Room Lever.
-Use the lever to open the turbine room blast door down below..
-[] The blast door on the turbine room has opened. []Head down and enter the turbine control room..
-Main Cargo Area (L1).
-Turbine Control Room is situated in front of the Warp Core on level 1.
-The Freight Hangar Access door is located on the other side of the Turbine Room entry..
-[]Use the small door on the other side of the room to proceed to the []Main Cargo Area[]..
-Go to Main Cargo Area.
-The main cargo area is dangerous..
-[] That's inconvenient. The main access of the Core is blocked. We need to purge that container...but the console is in the maintenance area on level 3.[]Find the []Maintenance Access[] door..
-Find Maintenance Access (L3).
-You need to go back to level 3. Check for shortcuts![]The Maintenance Access door is located where you entered the vessel the first time.
-Use the lever in the control room to purge the container in the main cargo area..
-Find Purge Console (L3).
-The console can be found in the maintenance area. Follow the lines on the ground..
-Back to Main Cargo Area (L1).
-Go back to the main cargo area..
-Find Cargo Hatch Access.
-The Cargo Hatch Access lever is on the right side after the main gate..
-The Cargo Hatch is a small door on the left wall..
-[] The Cargo Hatch is now open.  Enter the storage rooms behind it..
-[] Find the []Entry Point[] to the core area..
-The Entry Point can be found easily. Just follow the lights..
-[] My sensors are tracking a constant flow of particles. They seem to come through a damaged vent .. we could also use to get to the core faster.[]Search for a []Damaged Vent[] on the upper area of this cargo hold..
-The damaged vent is located at the upper part behind a few crates..
-[] There it is. Let's try if we can use this passage. Search for a []Possible Exit[]..
-Search for Possible Exit.
-Just follow the pipe.
-[]The particle density is dropping. Be careful!.
-Kill the Alien Assassin (Infected).
-[]The next room should hold the []Core Console[].  Access it to find answers..
-The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[]Move ahead and []meet Sectioner32[] on the []civil WayStation[] in one of the []gas giant moons orbit[]..
-[] Commander. The Ilmarinen is cleaned and secured. Agent Kezzel just sent a message that his organization will take care of the vessel.[]We shall move ahead and []meet Sectioner32[] on the []civil WayStation[] in one of the []gas giant moons orbit[]..
-[]    [].. cannot .. how can a .. lower being ..[].
-[]    [].. you will .. be consumed .. and obliterated ..[].
-[]    [].. this .. not the end .. will prevail .. you .. [].
-[]    [].. you will pay for harming my children ..[].
-[]The []lever[] for activating the Freight Elevator is in the cargo bay on the []wall below the windows[]..
-[]    [].. resign from your crusade and your essence will prevail ..[].
-[]    [].. the powers of this vessel will rebirth me ..[].
-[]    [].. it is impossible you ever could succeed with what you do ..[].
-[]    [].. you seem .. to have .. the will to ..[].
-[]    [].. this is not .. possible .. you must be defeated  ..[].
-[] Commander, I am afraid it is nearly impossible to navigate here. The ship has been rebuilt and the construction plans are worthless.[]The only thing I can try is to []give you waypoints[] to guide you in the direction of the core..
-[]    [].. rebelling against the inevitable will achieve nothing ..[].
-[] Use the freight elevator and go down to the freight deck (level 2).[]Expect a lot of those creatures down there. The amount of movement is massive![]Make your way through the freight deck and find the []Warp Core Control[] rooms in the engine section..
-[] Use the []Freight Hangar Access[] on the other side of the Turbine room..
-[]    [].. challenged by a miniscule being .. [].
-[] The area ahead of us seems to be .. rebuilt?[]Hopefully the Cargo Hatch Access is still there. Go find and use it..
-[] I suggest to []investigate[] the []Control Station. []The pilot of the vessel has had contact with the station, as the report indicates..
-Plan the next steps..
-[] Check any []console[] for logs about the reported incident and the Ilmarinen..
-[] Commander, there is a locked []teleporter[]! The log warned us, but I think we have no other choice as to []use that teleporter[] so we at least have a chance to find out what was happening.[]Check the switches in the room to override the lock..
-Open Control Panel ([]).
-Open the Control Panel ([]).
-Find the FUEL TANK display on the []MAIN []tab and hit []MANAGE []to open the FUEL interface..
-The Prisoner is held captive in a container at the back of the wreckage
+﻿[ Все журналы должны храниться в главном элементе управления ядром. Чтобы открыть двери, нам нужно [деактивировать систему сдерживания [.[Рядом с входом в мост есть [переключатель блокировки]..
+[ Командир, я отслеживаю растущую активность на корабле.[Будь осторожен..
+Главная палуба управления (L5).
+Перейдите на 5-й уровень.
+На главную палубу управления можно попасть по лестнице на уровне 5.
+[ Внимание. Обнаружены враждебные существа, двигающиеся к нашей позиции!.
+Консоль состояния системы находится на другой стороне Главной контрольной палубы, рядом с окнами, которые позволяют вам смотреть вниз в грузовой отсек..
+[ Двери заперты из-за проблемы с вентиляцией.[Найдите [управление вентиляцией [и устраните неполадки..
+Управление вентиляцией находится за дверью с левой стороны переднего окна грузового отсека..
+Потяните за рычаг в комнате технического обслуживания вентиляции, чтобы открыть двери на уровне 4.
+[ Боюсь, что это не открыло прямой доступ к [Грузовому отсеку 2]. [Вам нужно вернуться на [лестницу [и войти на [палубу обслуживания[ на [уровне 4[..
+Возвращайся на лестницу. Спуститесь на палубу технического обслуживания (уровень 4).
+[ Следуйте по коридорам. Это что-то вроде лабиринта. Ожидайте неприятных сюрпризов.[Я установил [создателя на вашем экране [, чтобы помочь вам в поиске пути..
+Коридоры ремонтной палубы представляют собой лабиринт. ИДА отметила выход на вашем экране..
+[Нам нужно спуститься дальше на грузовую палубу. Чтобы попасть туда, нам нужно активировать [Грузовой лифт[. Переключатель находится в [Грузовом отсеке 2[, но путь заблокирован.[Нам нужно найти [Консоль состояния системы[ на Главной палубе управления..
+Грузовой отсек 2 (L3).
+Входные двери находятся с левой стороны при прорыве через проход, созданный взрывом..
+Найдите грузовой лифт и снова спуститесь на один уровень..
+Использование рычага может привести к непредвиденным действиям..
+Комната управления Варпом находится в машинном отсеке. Вам нужно пробраться через грузовую палубу.[Часто перезаряжайте..
+[ В комнате управления есть [доступ к ядру деформации]..
+Используйте Доступ к Варп-ядру.
+Доступ К Ядру Варпа.
+Найдите Рычаг Турбинного Отделения.
+Следуйте по коридору в зону управления дверями Турбинного зала..
+[ Нам нужно пройти через варп-ядро и турбинное отделение, спуститься на нижнюю грузовую палубу.[Найдите рычаг [Турбинного отделения [, чтобы открыть двери..
+[ Рычаг поврежден. Но на другой стороне варп-ядра есть еще один рычаг.[Используйте дверь с другой стороны рычага, перейдите на другую сторону привода деформации и используйте [Альтернативный доступ.[.
+Альтернативный Доступ находится на другой стороне варп-ядра. Используй свой реактивный ранец..
+Используйте Рычаг Турбинного Отделения.
+Используйте рычаг, чтобы открыть взрывную дверь турбинного отделения внизу..
+[ Взрывная дверь в турбинном отделении открылась. [Наклонитесь и войдите в комнату управления турбиной..
+Основной грузовой Отсек (L1).
+Комната управления турбиной расположена перед Варп-ядром на уровне 1.
+Входная дверь грузового ангара расположена с другой стороны входа в Турбинное отделение..
+[Используйте маленькую дверь на другой стороне комнаты, чтобы пройти в [Основной грузовой отсек[..
+Идите в Главный грузовой отсек.
+Основной грузовой отсек опасен..
+[ Это неудобно. Основной доступ к Ядру заблокирован. Нам нужно очистить этот контейнер...но консоль находится в зоне обслуживания на уровне 3.[Найдите [Доступ для обслуживания[ дверь..
+Найдите Доступ к обслуживанию (L3).
+Вам нужно вернуться на уровень 3. Проверьте наличие ярлыков![Дверь доступа для технического обслуживания находится там, где вы вошли в судно в первый раз.
+Используйте рычаг в диспетчерской, чтобы очистить контейнер в главном грузовом отсеке..
+Найдите Консоль очистки (L3).
+Консоль можно найти в зоне обслуживания. Следуйте линиям на земле..
+Вернуться в Основной грузовой отсек (L1).
+Возвращайтесь в главный грузовой отсек..
+Найдите Доступ К Грузовому Люку.
+Рычаг доступа к грузовому люку находится с правой стороны после главных ворот..
+Грузовой люк - это маленькая дверца в левой стене..
+[ Грузовой люк теперь открыт.  Войдите в кладовые позади него..
+[ Найдите [Точку входа[ в основную область..
+Точку входа можно легко найти. Просто следуй за огнями..
+[ Мои датчики отслеживают постоянный поток частиц. Похоже, они проходят через поврежденное вентиляционное отверстие .. мы также могли бы быстрее добраться до ядра.[Поиск [Поврежденного вентиляционного отверстия[ в верхней части грузового отсека..
+Поврежденное вентиляционное отверстие расположено в верхней части за несколькими ящиками..
+[ Вот оно. Давайте попробуем использовать этот отрывок. Поиск [Возможного выхода[..
+Поиск возможного выхода.
+Просто следуйте по трубе.
+[Плотность частиц падает. Будьте осторожны!.
+Убейте инопланетного убийцу (Зараженного).
+[В следующей комнате должна находиться [Основная консоль[.  Доступ к нему, чтобы найти ответы..
+"Ильмаринен" очищен и закреплен. Агент Кеззел только что отправил сообщение, что его организация позаботится о судне.[Двигайтесь вперед и [встретьтесь с Sectioner32[ на [гражданской путевой станции[ на одной из [орбит спутников газового гиганта[..
+[ Командир. "Ильмаринен" очищен и закреплен. Агент Кеззел только что отправил сообщение, что его организация позаботится о судне.[Мы двинемся вперед и [встретимся с Sectioner32[ на [гражданской путевой станции[ на одной из [орбит спутников газового гиганта[..
+[ [... не могу .. как может ... низшее существо ... [.
+[ [... ты будешь .. быть поглощенным .. и уничтоженным ..[.
+[ [... это ... не конец ... восторжествует .. ты ... [.
+[ [...ты заплатишь за причинение вреда моим детям ... [.
+[Рычаг[ для приведения в действие грузового лифта находится в грузовом отсеке на [стене под окнами[..
+[ [...откажись от своего крестового похода, и твоя сущность восторжествует ... [.
+[ [... силы этого сосуда возродят меня ... [.
+[ [...невозможно, чтобы вы когда-либо могли преуспеть в том, что вы делаете ... [.
+[ [...у тебя, кажется ... есть ... желание ...[.
+[ [... это не ... возможно .. вы должны быть побеждены ..[.
+[ Командир, боюсь, что здесь почти невозможно ориентироваться. Корабль был перестроен, и планы строительства ничего не стоят.[Единственное, что я могу попробовать, - это [дать вам путевые точки [, чтобы направить вас в направлении ядра..
+[ [... восстание против неизбежного ничего не даст ... [.
+[ Воспользуйтесь грузовым лифтом и спуститесь на грузовую палубу (уровень 2).[Ожидайте, что там будет много этих существ. Количество движения огромно![Пройдите через грузовую палубу и найдите помещения [Управления варп-ядром[ в машинном отсеке..
+[ Используйте [Доступ в грузовой ангар[ с другой стороны Турбинного зала..
+[ [...брошен вызов крошечным существом ... [.
+[ Область впереди нас, кажется, есть .. перестроен?[Надеюсь, доступ к грузовому люку все еще там. Иди найди и используй его..
+[ Я предлагаю [исследовать[ Станцию управления. [Пилот судна имел контакт со станцией, как указано в докладе..
+Планируйте следующие шаги..
+[ Проверьте любую [консоль[ на наличие журналов о сообщенном инциденте и Ilmarinen..
+[ Командир, там заблокирован [телепорт[! Журнал предупредил нас, но я думаю, что у нас нет другого выбора, как [использовать этот телепорт], так что у нас, по крайней мере, есть шанс узнать, что происходит.[Проверьте выключатели в комнате, чтобы отключить замок..
+Откройте панель управления ([).
+Откройте Панель управления ([).
+Найдите дисплей ТОПЛИВНОГО БАКА на вкладке [ГЛАВНАЯ [и нажмите [УПРАВЛЕНИЕ [, чтобы открыть интерфейс ПОДАЧИ ТОПЛИВА..
+Пленника держат в плену в контейнере в задней части обломков.
+В обзоре используйте кнопку [ПИТАНИЕ [, чтобы активировать базу.[В качестве альтернативы вы можете встать на любой из базовых блоков и нажать [Y. [.
+После крушения на этой неизвестной планете ИДА отслеживает слабый сигнал, исходящий от [Поврежденной станции связи.[Найдите его и начните свое путешествие![Местоположение: Стартовая планета; Система Эллион (Стартовая система)[.
+Следуйте желтому маркеру на HUD..
+[ Кажется, в убежище есть [консоль].[Найти и получить к нему доступ ([)..
+[ Командир, я отслеживаю слабый сигнал связи в обломках поблизости.[Кажется, поблизости есть [Поврежденная станция связи [. Я добавил [маркер [на ваш экран.
