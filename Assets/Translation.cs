@@ -12,33 +12,16 @@ using System.Text.RegularExpressions;
 
 public class Translation : MonoBehaviour
 {
-	
-
 	public	bool		parce;
 	public	bool		pack;
 
 	public	bool		show;
 
-	//public	string		folder			=	"Assets/Dialogues/";
-	//public	string		fileName		=	"Dialogues.csv";
-	
+	public	string[]	files		=	new string[] {"Assets/Dialogues/Dialogues.csv", "Assets/PDA/PDA.csv"};
 
-	public	string[]	files			=	new string[] {"Assets/Dialogues/Dialogues.csv"};
+	int			max_				=	18;
 
-	int			smallNum_		=	3;
-	int			rus_			=	9;
-	int			max_			=	18;
-
-	//string	sPattern_	=	@"(<[^>]*>)+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
-
-
-	//var sBrackets1	=	@"\{.*?\}";
-	//var sPattern		=	@"<[^>]+>\s+(?=<)|<[^>]+>";	//	делит на каждый <>
-	//var sPattern		=	@"<[^>]*>";
-	//var sPattern		=	@"<[^>]*>|\{.*?\}|\\n";
-
-	//string	sPattern_	=	@"<[^>]*>+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
-	string	sPattern_	=	@"(<[^>]*>+|\{.*?\}+|\[.*?\]+|\\n|\@[a-zA-Z]+[0-9]+|"".*?""|'.*?')+";
+	string		sPattern_			=	@"(<[^>]*>+|\{.*?\}+|\[.*?\]+|\\n|\@[a-zA-Z]+[0-9]+|"".*?""|'.*?')+";
 
     //
 	void Update()
@@ -211,9 +194,6 @@ public class Translation : MonoBehaviour
 	
 	void Pack (string _folder, string _fileName)
 	{
-		//var folder				=	"";
-		//var fileName			=	"";
-
 		var	keys				=	ReadFile(_folder + "keys.txt").Split('\n');
 		var	forms				=	ReadFile(_folder + "forms.txt").Split('\n');
 		
@@ -241,32 +221,7 @@ public class Translation : MonoBehaviour
 
 		var	texts_ru			=	texts_ru_str.Split('\n');
 
-		Debug.Log("Pack: " + keys.Length + " / " + forms.Length + " / " + texts_en.Length + " / " + texts_ru.Length);
-
 		var file_original		=	ReadFile(_folder + _fileName).Split('\n');
-		//var first_line			=	file_original[0];
-
-		/*
-		var resultGrid			=	CSVReader.SplitCsvGrid(_folder + _fileName);
-
-		var keys_original		=	new string[resultGrid.GetLength(1)];
-		var sorted				=	new string[keys_original.Length];
-
-		
-		for (var i=0; i<keys_original.Length; i++)
-		{
-			keys_original[i]	=	resultGrid[0, i];
-
-			for (var j=0; j<keys.Length; j++)
-			{
-				if (keys[j].Equals(keys_original[i]))
-				{
-					//sorted[i]	=	keys[i] + "," + GetText(forms[i], texts_en[i], i) + "" + GetText(forms[i], texts_ru[i], i) + ","
-				}
-			}
-		}
-		*/
-
 
 		//
 
@@ -296,8 +251,6 @@ public class Translation : MonoBehaviour
 			}
 		}
 	}
-
-
 
 
 	//	получить итоговый текст со скобками и запятыми
@@ -380,8 +333,139 @@ public class Translation : MonoBehaviour
 		
 	}
 
+	string[] GetTextForms (string _text)
+	{
+		var matches		=	Regex.Matches(_text, sPattern_);
+		var array		=	new string[matches.Count];
+
+		for (int i=0; i<matches.Count; i++)
+			array[i]	=	matches[i].ToString().Replace("\n", "");
+
+		return array;
+	}
+
+
+	//	буду вызывать тольок когда точно знаю что нет форматирования
+	string[] GetTextItems (string _text)
+	{
+		return GetTextItems(_text, sPattern_);
+	}
+
+	string[] GetTextItems (string _text, string _regex)
+	{
+		var	splitting	=	Regex.Split(_text, _regex);
+
+		var result		=	new string[(splitting.Length-1)/2+1];	
+		
+		for (var i=0; i<result.Length; i++)
+			result[i]	=	splitting[i*2];
+
+		return result;
+	}
+
+	string GetMergedFiles (string _path)
+	{
+		var	result		=	"";
+
+		for (var i=0; i<1000; i++)
+		{
+			var	path_file			=	_path + i + ".txt";
+
+			if (File.Exists(path_file))
+				result	+=	(i == 0 ? "" : "\n") + ReadFile(path_file);
+			else
+				break;
+		}
+
+		return result;
+	}
+
+	string ReadFile (string _path)
+	{
+		if (!File.Exists(_path))
+			return "";
+		else
+		{
+			var reader	=	new StreamReader(_path); 
+			var	result	=	reader.ReadToEnd();
+				reader.Close();
+
+			return result;
+		}
+	}
+
+	//	удаляем ненужные файлы
+	void ClearFiles (string _folder)
+	{
+		for (var i=0; i<1000; i++)
+		{
+			var filePath	=	_folder + i + ".txt";
+
+			if (File.Exists(filePath))
+				File.Delete(filePath);
+			//else
+				//break;
+		}
+	}
+
+	void WriteToFile (string _path, string _text)
+	{
+		//Debug.Log("WriteToFile: " + _path );
+
+		if (!File.Exists(_path))
+#pragma warning disable CS0642 // Возможно, ошибочный пустой оператор
+			using (File.CreateText(_path));
+#pragma warning restore CS0642 // Возможно, ошибочный пустой оператор
+
+		var writer = new StreamWriter(_path, false, System.Text.Encoding.UTF8);
+			writer.Write(_text);
+			writer.Close();
+	}
+
+	//	end
+}
+
+
+
+
+/*
 	
-	void ParceDebug ()
+
+
+
+void WriteTranslate (string _path, string _firstLine, List<string> _keys, List<string> _forms, List<string> _texts_en, List<string> _texts_original)
+	{
+		using (CSVWriter writer = new CSVWriter(_path))
+		{
+			writer.Write(_firstLine);
+			writer.WriteLine(_texts_original[0]);
+
+			for (var i=1; i<_keys.Count; i++)
+			{
+				var line	=	new CSVRow();
+
+				for (var j=0; j<max_; j++)
+				{
+					if (j==0)
+						line.Add(_keys[i]);
+					else 
+					if (j==1)
+						line.Add(GetText(_forms[i], _texts_en[i]));
+					else
+					if (j==9)
+						line.Add("");
+					else
+						line.Add("");
+				}
+
+				writer.WriteRow(line);
+				writer.WriteLine(_texts_original[i]);
+			}
+		}
+	}
+
+
+void ParceDebug ()
 	{
 		var folder			=	"";
 		var fileName		=	"";	
@@ -414,102 +498,7 @@ public class Translation : MonoBehaviour
 		WriteTranslate(folder + "translate/" + fileName, firstLine, keys, forms, texts, origins);
 	}
 
-
-	void Parce3 ()
-	{
-		var text			=	"Welcome {PlayerName} to a round of cards!";
-
-		var formsAndText	=	GetFormsAndText(text);
-
-		Debug.Log("forms: " + formsAndText[0]);
-		Debug.Log("text: "  + formsAndText[1]);
-
-		var	line			=	GetText(formsAndText[0], formsAndText[1]);
-
-		Debug.Log("line: |"  + line + "|");
-	}
-
-
-	void Pack_test2 ()
-	{
-		var debug_string	=	"We will play for [-]Gold Coins[-].[-]How many [-]Gold Coins[-] do you want to bet?";
-		var debug_array		=	Regex.Split(debug_string, @"\[\-\]");
-
-		//Debug.Log("Pack_test2: " + debug_array.Length + " / " + debug_string);
-
-		for (var i=0; i<debug_array.Length; i++)
-			Debug.Log(i + ") " + debug_array[i]);
-
-
-	}
-
-	void WriteTranslate (string _path, string _firstLine, List<string> _keys, List<string> _forms, List<string> _texts_en, List<string> _texts_original)
-	{
-		using (CSVWriter writer = new CSVWriter(_path))
-		{
-			writer.Write(_firstLine);
-			writer.WriteLine(_texts_original[0]);
-
-			for (var i=1; i<_keys.Count; i++)
-			{
-				var line	=	new CSVRow();
-
-				for (var j=0; j<max_; j++)
-				{
-					if (j==0)
-						line.Add(_keys[i]);
-					else 
-					if (j==1)
-						line.Add(GetText(_forms[i], _texts_en[i]));
-					else
-					if (j==9)
-						line.Add("");
-					else
-						line.Add("");
-				}
-
-				writer.WriteRow(line);
-				writer.WriteLine(_texts_original[i]);
-			}
-		}
-	}
-
-
-
-
-	string[] GetTextForms (string _text)
-	{
-		var matches		=	Regex.Matches(_text, sPattern_);
-		var array		=	new string[matches.Count];
-
-		for (int i=0; i<matches.Count; i++)
-			array[i]	=	matches[i].ToString().Replace("\n", "");
-
-		return array;
-	}
-
-
-	//	буду вызывать тольок когда точно знаю что нет форматирования
-	string[] GetTextItems (string _text)
-	{
-		return GetTextItems(_text, sPattern_);
-	}
-
-	string[] GetTextItems (string _text, string _regex)
-	{
-		var	splitting	=	Regex.Split(_text, _regex);
-
-		var result		=	new string[(splitting.Length-1)/2+1];	
-		
-		for (var i=0; i<result.Length; i++)
-			result[i]	=	splitting[i*2];
-
-		return result;
-	}
-
-	
-
-	void CheckFiles (string _path)
+void CheckFiles (string _path)
 	{
 		for (var i=0; i<1000; i++)
 		{
@@ -549,40 +538,7 @@ public class Translation : MonoBehaviour
 		}
 	}
 
-	string GetMergedFiles (string _path)
-	{
-		var	result		=	"";
-
-		for (var i=0; i<1000; i++)
-		{
-			var	path_file			=	_path + i + ".txt";
-
-			if (File.Exists(path_file))
-				result	+=	(i == 0 ? "" : "\n") + ReadFile(path_file);
-			else
-				break;
-		}
-
-		return result;
-	}
-
-
-	string ReadFile (string _path)
-	{
-		if (!File.Exists(_path))
-			return "";
-		else
-		{
-			var reader	=	new StreamReader(_path); 
-			var	result	=	reader.ReadToEnd();
-				reader.Close();
-
-			return result;
-		}
-	}
-
-
-	string GetCorrectText (string _text)
+string GetCorrectText (string _text)
 	{
 		if (_text == "")
 			return "";
@@ -645,21 +601,9 @@ public class Translation : MonoBehaviour
 	}
 
 
-	//	удаляем ненужные файлы
-	void ClearFiles (string _folder)
-	{
-		for (var i=0; i<1000; i++)
-		{
-			var filePath	=	_folder + i + ".txt";
 
-			if (File.Exists(filePath))
-				File.Delete(filePath);
-			//else
-				//break;
-		}
-	}
 
-	void WriteToFiles (string _folder, int _charsLimit, List<string> _strings, List<string> _keys, List<string> _forms)
+void WriteToFiles (string _folder, int _charsLimit, List<string> _strings, List<string> _keys, List<string> _forms)
 	{
 		ClearFiles(_folder + "1/");
 
@@ -707,31 +651,39 @@ public class Translation : MonoBehaviour
 
 	}
 
-	void WriteToFile (string _path, string _text)
+
+	void Parce3 ()
 	{
-		//Debug.Log("WriteToFile: " + _path );
+		var text			=	"Welcome {PlayerName} to a round of cards!";
 
-		if (!File.Exists(_path))
-#pragma warning disable CS0642 // Возможно, ошибочный пустой оператор
-			using (File.CreateText(_path));
-#pragma warning restore CS0642 // Возможно, ошибочный пустой оператор
+		var formsAndText	=	GetFormsAndText(text);
 
-		var writer = new StreamWriter(_path, false, System.Text.Encoding.UTF8);
-			writer.Write(_text);
-			writer.Close();
+		Debug.Log("forms: " + formsAndText[0]);
+		Debug.Log("text: "  + formsAndText[1]);
+
+		var	line			=	GetText(formsAndText[0], formsAndText[1]);
+
+		Debug.Log("line: |"  + line + "|");
 	}
 
-}
+
+	void Pack_test2 ()
+	{
+		var debug_string	=	"We will play for [-]Gold Coins[-].[-]How many [-]Gold Coins[-] do you want to bet?";
+		var debug_array		=	Regex.Split(debug_string, @"\[\-\]");
+
+		//Debug.Log("Pack_test2: " + debug_array.Length + " / " + debug_string);
+
+		for (var i=0; i<debug_array.Length; i++)
+			Debug.Log(i + ") " + debug_array[i]);
+
+
+	}
 
 
 
 
-
-
-
-
-/*
-	[System.Serializable]
+[System.Serializable]
 	public class Segment2
 	{
 		public string key;
