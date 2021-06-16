@@ -1,0 +1,61 @@
+﻿[-]Palant[-] The container doors of the [-]red containers [-]just opened! Quick - we need to close them!.
+Is it normal that this does not set off an alarm?.
+[-]IDA[-] Door lock removed! Attention, Commander. Mercer is not alone!.
+Have a seat in your cockpit.
+[-]IDA[-] Self Destruction Countdown started!.
+The self-destruction activator can be found in the room next to the upper landing pad..
+[-]Mercer[-] The crew is evacuated, Commander! We'll meet on rally point alpha! Mercer out..
+[-]IDA[-] Sending Ghyst priority code ... success! The hangar doors are unlocked, but we need to get rid of the turrets. [-]Destroy them[-] before entering the prison! Be prepared for surprises. The station is on alert!.
+[-]IDA[-] The Prisoners are in the [-]main cell block[-]. Expect all sorts of traps and troops on your way..
+[-]IDA[-] The captives should be somewhere inside..
+[-]IDA[-] There should be a [-]lever [-]in the control room around the corner..
+[-]IDA[-] Commander, I am afraid we have been locked out! We need to go to the [-]COMMAND CENTER[-] and use the main override. I managed to unlock the doors for our way there!.
+IDA, please call Hyzani. I have an idea..
+[-]Captain[-] Commander, the prisoners are safe, but there is a swarm of Kriel coming to attack this position. You should leave.  Ambassador Hyzani wants to meet you on her ship as soon as you find the time..
+The override access lever can be found on the wall of the main COMMAND CENTER..
+IDA, please locate the converter and overload it the same moment I activate the override access.
+[-]IDA[-] Commander, the captain of the rescue vessel is calling us..
+Back to Asteroid Field.
+[-]IDA[-] We need to return to the [-]main corridor[-] and find the way to the [-]Cell Block Control[-] room..
+GLaD to meet you.
+[-]...to be continued![-].
+Credibility Mission - Pirates.
+Zirax Empire - Military.
+Destroy the [-]CORE [-]of ORBITAL vessels or structures. (4).
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]galactic information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-].
+Traders Guild - Structures.
+Destroy the [-]CORE [-]of ORBITAL bases or structures. (3).
+Credibility Mission - Traders Guild.
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-].
+Credibility Mission - Zirax Empire.
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-]- The Zirax Empire credibility seal will increase your reputation with the Empire and all houses of the Empire![-].
+Polaris - Combat Vessels.
+Kriel - Combat Vessels.
+Pirates - Combat Vessels.
+Credibility Mission - Polaris.
+Pirates - Defense Stations / Vessels.
+Zirax Empire - Combat Vessels.
+Credibility Mission - Colonists.
+Pirate vessels & structures.
+Credibility Mission - TESCH.
+Find the socketed VOID chimes on a planet. Go inside and trigger the destruction with the lever..
+Destroy the [-]CORE[-] of ORBITAL combat vessels, bases or defense stations. (10).
+Pirates - Orbital Stations.
+Destroy the [-]CORE [-]of ORBITAL bases or structures. (5).
+Destroy the [-]CORE [-]of ORBITAL bases or structures. (3).
+Destroy the [-]CORE [-]of ORBITAL combat vessels. (5).
+Destroy the [-]CORE [-]of ORBITAL combat vessels. (2).
+Destroy the [-]CORE [-]of ORBITAL combat vessels. (3).
+Destroy the [-]CORE [-]of defense stations or vessels. (3).
+Destroy the [-]CORE [-]of two of their combat vessels.
+Pirates - Combat Vessels.
+Destroy the [-]CORE [-]of ORBITAL combat vessels. (5).
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals with some story missions and quests![-].
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-].
+Credibility Mission - Kriel.
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them. [-]As a reward you will get two [-]faction credibility seals. [-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any  trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-].  You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes: [-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-].
+Zirax Empire - Orbital Stations.
+Destroy the [-]CORE [-]of ORBITAL bases or structures. (5).
+Zirax Empire - Combat Vessels.
+Destroy the [-]CORE [-]of ORBITAL combat vessels. (5).
+There isn[-]Elder Talon[-]Talon Guardian[-]Talon-Zirax Assembly', which persisted for hundreds of years. It is not known yet why it collapsed, why they separated, or if it was a conspiracy. Files retrieved by the 2nd UCH recon unit indicated that the abominations found on the planets they occupied, seemed to have something to do with this or at least are related to a big incident in the past. These files were encrypted, classified and could not be deciphered until today. Their brutality and behavior towards the Talon or anyone not from a Zirax controlled faction, indicates that there is a lot more to uncover, than official reports tell us at the moment..

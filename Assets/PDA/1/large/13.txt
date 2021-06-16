@@ -1,0 +1,76 @@
+﻿[-]*Required ingredient for all INJECTION medications [-]*Medikits [-]*Stamina Boosters[-].
+[-]*Pearthing Plant [-]*Space Orange Tree[-].
+[-]*Pearthing Plant [-]*Space Orange Tree[-].
+[-]*[-]Reducing Body Temperature[-]*Healthy Juices [-]*Meals[-].
+[-]*Corn plant [-]*Wheat plant[-].
+[-]*Pixie Stalks & Pixie Stalks Snow Aloe Vera[-].
+[-]*[-]Removes INDIGESTION when consumed[-]*Basic ingredient for nearly all medications and Medikits[-].
+[-]*Loot of NPC and creatures[-].
+[-]*Plant Protein + Vegetables[-].
+[-]*Growing Alien Parts [-]*Ingredient for meals[-].
+[-]*Loot of NPC and creatures[-].
+[-]*Plant Protein + Purified Water[-].
+[-]*Ingredient for meals[-].
+[-]*Green Spiky Mushroom [-]*Brown Mushroom [-]*Tall Green Mushroom[-].
+[-]*[-]Removes POISON BITE when consumed[-]*Ingredient for all Radiation medications [-]*Medikits[-].
+[-]*Kavae Plant [-]*Brain Fungus & Brain Fungus Snow [-]*Pulpit Fungus[-].
+[-]*[-]Removes STUNNED when consumed[-] [-]*Ingredient for all stamina-boosting Drinks and Drugs.
+[-]*Alien Worm plant[-].
+[-]*Alien Worm plant[-].
+[-]*[-]Removes DERMAL BURN when consumed[-]*Sweetening Ingredient for meals and bakery products[-].
+[-]*Corn Dogs & Corn Dogs Snow [-]*Ahax plant [-]*Seaweed & Hydrilla [-]*Big Alien Flower[-].
+[-]*Ingredient for all Ointment medications [-]*Ingredient for Parasite medications [-]*Ingredient for Bandages [-]*Meals[-].
+[-]*[-]Increases Body Temperature when consumed[-] [-]*Can remove INDIGESTION but also has a chance to cause INDIGESTION again when consumed[-] [-]*Meals [-]*Stomach Pills [-]*Energy Pills.
+[-]*Eggplant [-]*Large Eggplant [-]*Tomato plant [-]*Pumpkin plant [-]*Blue Pepper[-].
+[-]*Pumpkin plant [-]*Blue Pepper [-]*Tomato plant [-]*Large Eggplant[-].
+[-]*Healthy Juices [-]*Basic ingredient for a lot of meals[-].
+[-]The Universe is full of dangers, and wonders, and wonderful dangers! [-]Motto of 2nd Exploration Corps UCH Founded 2460 AD [-]--- [-]To show all topics of this guide, click the DROPDOWN ARROW of this chapters HEADLINE in the list on the left! Click the SUB-task to reveal the info contained. Make sure the PDA INFO button on the TOP RIGHT of the screen is selected![-].
+1. All the faction-assignments below apply to wandering NPCs and Patrols at all times (does NOT depend on the faction territory!) [-]2. If an NPC is spawned in a POI, the origin of the NPC is defined by the faction of the POI, EXCEPT the creator of the POI has set a different origin for the to-be-spawned NPC (what is possible in the NPC Spawn setup dialogue!) [-]3. Turret targeting info, regarding NPC factions: [-]- All NPC factions members ( Zrx, Pol, Tal) apply to the [-] checkbox, either in a POI or when wandering around! [-]- Turrets will not attack Zrx, Pol and Tal if you are on NEUTRAL standing or better, even WHEN the checkbox for NPC factions is ticked! [-]- LEGACY (Global [-] Faction) creatures will be attacked only when PREDATOR checkbox is ticked, as Aln is not a real NPC faction (you cannot change your standing; always HOSTILE) [-]- Prey and Predator are no NPC factions. That's why they have their own targeting setting..
+Tag: Zrx - ArmoredGolem -DroneBomberAttackBase - DroneLargeAttackBase - DroneSmallFast01Minigun - DroneSmallFast01Rocket - DroneSmallSlow02Minigun - EnemyDroneV2Minigun - EnemyDroneV2Plasma - Mechanoid - RipperDog - SpaceDronePlasma - TraderZirax - TurretRobotV2 - Zirax Commander - ZiraxLaser - ZiraxMinigun - ZiraxRocket - ZiraxShotgun - ZiraxSniper.
+Tag: Tal - Crawler - TalonGuardian (all variations, static and moving) - TraderTalon (all variations) - TalonSentinel (all variations).
+Tag: Pol -  (any) - AssaultCyborg.
+Tag: Aln (Alien) -  AlienBug02 - GolemDesert - GolemIce - GolemSwamp -  Overseer - PlantMonster (not used anymore) - TotalHorror - WoodWalker.
+Tag:  AlienAssassinGrey - AlienAssassinRed  - Hexapod.
+- AlienBug03 - AlienBug04 - CaveWormGreen - CaveWormGrey - CaveWormWhite - Creepy - Otyugh - Raptor - RaptorNight - Spider01 - Spider02 - Spider03 - Spinosaurus - Telluropod.
+- AlienBug01 (but will attack if player is too close) - LizardMule - LizardMuleBaby - MegalonopsGrey - Oviraptor - Pangolin - Parasaur - Slime - SlimeWhite - Triceratops - WormDesert - WormDesertLarge.
+[-]MODE: Attack on sight [-]ARMAMENT: Minigun, Cannon, Rockets, Plasma [-]hit points: Low [-]MOVEMENT: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Single & Double Minigun, Single & Double Cannon, Plasma [-]hit points: Medium [-]MOVEMENT: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Minigun, Plasma [-]hit points: High [-]MOVEMENT: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Cluster Bombs [-]hit points: High [-]MOVEMENT: Fast[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Laser Pulse Cannon [-]hit points: Medium [-]MOVEMENT: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Plasma Cannon [-]hit points: Medium [-]MOVEMENT: Slow[-].
+[-]MODE: Drops Reinforcements to attacked positions [-]ARMAMENT: non [-]hit points: Very High [-]MOVEMENT: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Light to Medium [-]hit points: Medium to High [-]MOVEMENT: Slow to Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Heavy [-]hit points: High to Very High [-]MOVEMENT: Slow to Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Light to Medium [-]hit points: Medium to High [-]MOVEMENT: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Fast-tracking Double-Miniguns [-]hit points: Low [-]ATTACK SPEED: Very Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Laser Weapons [-]hit points: Medium [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Laser Weapons [-]hit points: Medium [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Shotgun [-]hit points: Low [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Miniguns [-]hit points: Low [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Laser Rifle [-]hit points: Medium [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Sniper Rifle [-]hit points: Medium [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Rocket Launcher [-]hit points: Medium [-]ATTACK SPEED: Slow[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Fists [-]hit points: High [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Fists [-]hit points: High [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Fists [-]hit points: Very High [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Fists [-]hit points: High [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Melee [-]hit points: Medium [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Medium [-]ATTACK SPEED: High[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Medium [-]ATTACK SPEED: High[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Laser Pistol[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Laser Pistol[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Medium [-]ATTACK SPEED: High[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Low [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Medium [-]ATTACK SPEED: Medium[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Melee [-]hit points: Low [-]ATTACK SPEED: Very High[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Low [-]ATTACK SPEED: Very High[-].
+[-]MODE: Attack on sight [-]ARMAMENT: Melee [-]hit points: Low [-]ATTACK SPEED: Very High[-].
+[-]MODE: Attack when provoked [-]ARMAMENT: Melee [-]hit points: Low [-]ATTACK SPEED: Very High[-].
+States *Calm - walk slowly around, grazing *Low alert - stop walking, raise up (whole group) *High alert - run away from danger together Alerting factors *Noise - shooting a weapon / using items (drill) (max 50 meters) *Damage Vision *If they can see you, and you are moving. (max 90 meters) *not moving persons are not a threat, only if the person gets too close to the animals (20m) *Death of group member >> THE CLOSER THE ALERTING FACTOR IS, THE MORE WILL THE ANIMAL REACT.
+[-]MODE: Attack when provoked[-].
+[-]MODE: Will run away[-].
+[-]*Has vision, alert, fear States *Calm, no player around - walks randomly *Calm, player around - walks around player, makes small roar animation *After small damage - goes to Rage Modifiers for [-]: *If far from player, will make big roar and charge the player *After the start of the charge, he will not make any turns, so it is possible to avoid. *If the charge is not avoided, the damage is deadly! As he is running he is giving damage periodically - so it is possible that he will damage the player multiple times *If the player is close, he will make close range attacks with probability of roars *If he is in rage and player goes to water, trice will stay out and mage angry roars[-].
+[-]MODE: Attack on sight ARMAMENT: Melee hit points: Low ATTACK SPEED: High[-].
+[-]MODE: Attack on sight ARMAMENT: Melee hit points: Medium ATTACK SPEED: Medium[-].
+[-]MODE: Attack on sight ARMAMENT: Ranged Attack hit points: Medium ATTACK SPEED: Very High[-].

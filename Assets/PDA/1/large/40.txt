@@ -1,0 +1,19 @@
+﻿[-] Commander, I am afraid it is nearly impossible to navigate here. The ship has been rebuilt and the construction plans are worthless.[-]The only thing I can try is to [-]give you waypoints[-] to guide you in the direction of the core..
+[-]    [-].. rebelling against the inevitable will achieve nothing ..[-].
+[-] Use the freight elevator and go down to the freight deck (level 2).[-]Expect a lot of those creatures down there. The amount of movement is massive![-]Make your way through the freight deck and find the [-]Warp Core Control[-] rooms in the engine section..
+[-] Use the [-]Freight Hangar Access[-] on the other side of the Turbine room..
+[-]    [-].. challenged by a miniscule being .. [-].
+[-] The area ahead of us seems to be .. rebuilt?[-]Hopefully the Cargo Hatch Access is still there. Go find and use it..
+[-] I suggest to [-]investigate[-] the [-]Control Station. [-]The pilot of the vessel has had contact with the station, as the report indicates..
+Plan the next steps..
+[-] Check any [-]console[-] for logs about the reported incident and the Ilmarinen..
+[-] Commander, there is a locked [-]teleporter[-]! The log warned us, but I think we have no other choice as to [-]use that teleporter[-] so we at least have a chance to find out what was happening.[-]Check the switches in the room to override the lock..
+Open Control Panel ([-]P[-]).
+Open the Control Panel ([-]P[-]).
+Find the FUEL TANK display on the [-]MAIN [-]tab and hit [-]MANAGE [-]to open the FUEL interface..
+The Prisoner is held captive in a container at the back of the wreckage.
+In the overview, use the [-]POWER [-]button to activate the base.[-]Alternatively you can stand on any of the base blocks and hit [-]Y. [-].
+After having crashed on this unknown planet, IDA is tracking a faint signal coming from a [-]Damaged Com Station.[-]Find it and start your journey![-]Location: Starter Planet; Ellyon System (Starter System)[-].
+Follow the yellow marker on the HUD..
+[-] There seems to be a [-]console [-]inside the shelter.[-]Find and access it ([-]F[-])..
+[-] Commander, I am tracking a faint communication signal in a wreckage nearby.[-]There seems to be a [-]Damaged Com Station[-] nearby. I have added a [-]marker [-]onto your screen..

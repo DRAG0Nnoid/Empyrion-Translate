@@ -1,0 +1,406 @@
+﻿The ambassador.
+Board ship.
+===.
+Go to bridge.
+===.
+Excavation Site.
+Land on Planet.
+Approach Site.
+Excavation Site.
+Find Artifacts.
+The Archive.
+Back to Ambassador.
+Find Orbit.
+Approach Archive.
+==.
+Board Ship.
+Find the Keeper.
+The Archive.
+Wait for Download.
+===.
+Defend the Archive.
+Kill Attackers.
+The Ambassador.
+Back to Ambassador.
+GLaD station.
+The ambassador.
+Excavation Site.
+The Archive.
+The Archive.
+GLaD Hideout.
+GLaD Hideout.
+===.
+GLaD Hideout.
+Speak to Mercer.
+===.
+GLaD Hideout.
+Speak to Bartender.
+===.
+GLaD Hideout.
+Find Ensign Henrid.
+GLaD Hideout.
+Fend off attacker.
+====.
+Follow noise.
+===.
+GLaD Hideout.
+Ensign? Henrid?.
+GLaD Hideout.
+Find Palant.
+GLaD Hideout.
+Go to console.
+===.
+GLaD Hideout.
+Speak to Palant.
+===.
+GLaD Hideout.
+Speak to Palant.
+===.
+GLaD Hideout.
+Find Mercer.
+===.
+Eliminate Commander.
+===.
+GLaD Hideout.
+GLaD Hideout.
+Speak Mercer.
+===.
+GLaD Hideout.
+Countdown...
+Cold Case.
+Wait for events...
+===.
+Prison Break.
+Find System.
+Prison Break.
+Distraction 1.
+Distraction 2.
+===.
+Prison Break.
+Break into Prison.
+Prison Break.
+Find Alex.
+===.
+Prison Break.
+Speak to Tharkan.
+===.
+Prison Break.
+===.
+Release Prisoners.
+===.
+Prison Break.
+Securing com..
+===.
+Prison Break.
+Use Lever.
+===.
+Prison Break.
+Leave system.
+===.
+Sigma Fulcrum.
+Find Code 1.
+Find Code 2.
+Find Code 3.
+Sigma Fulcrum.
+Find CPU Console.
+===.
+Sigma Fulcrum.
+Find Quartermaster.
+Sigma Fulcrum.
+Access CPU console.
+===.
+Access Station Console.
+GLaD Hideout.
+Eliminate Creatures.
+===.
+What was that?.
+GLaD Hideout.
+Hacking door...
+===.
+GLaD Hideout.
+Purge Base.
+GLaD Hideout.
+Evacuation.
+Fly to base.
+===.
+Prison Break.
+Approach Prison.
+===.
+Prison Break.
+Main Cell Block.
+===.
+Prison Break.
+Checking options...
+===.
+Prison Break.
+Securing com...
+===.
+Prison Break.
+Find override access.
+Debriefing.
+===.
+Destroy Targets.
+Polaris - Production.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+Destroy Targets.
+VOID.
+Destroy Targets.
+HOUSES.
+Mercer (Senior), Commander.
+DAVE.
+IDA.
+THEIA.
+Doctor Paul Dawson.
+Doctor Katelyn Greyson.
+Tech Chief Kuehn.
+John Emmerson, Ensign.
+Nicole Palant, Sergeant.
+Mercer (Junior), Lieutenant.
+Admiral R.T. Yaden.
+Chief SaintJohn.
+Tharkan.
+Ambassador Hyzani.
+Yarod.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+New Task.
+New Action.
+tba.
+GAME MECHANICS Q&A.
+Techtree.
+Offline Protection.
+ALT Look Mode.
+PvP vs PvE.
+Registry.
+Map Markers.
+Temperatur.
+Radiation.
+Global Info.
+Oxygenated Rooms.
+How to oxygenate.
+Gameplay Questions.
+Player Armor.
+Boosters.
+Durability and Repair.
+Portals - Instances.
+Instances.
+Structural Integrity (SI).
+My Base Collapsed.
+Deactivate SI.
+Building Materials.
+Rotating Blocks.
+Mirror Planes.
+Painting and Texturing.
+Window Opacity.
+Change Device Settings.
+Renaming Base/Vessel/Devices.
+Multi Cockpit Rules.
+Docking.
+Warp.
+Weapons and Defenses.
+Range of Weapons.
+Enhanced Weapons.
+Player Drone.
+Building Helper.
+Player Faction.
+Create or Join.
+Allies.
+Control Panel.
+Device Remote Access.
+Grouping Devices.
+Set Homebase.
+Triggers and Sensors.
+How to setup.
+Handling Tips.
+Signal Logic.
+Blueprints.
+Save a Blueprint.
+Single Player Cheat.
+Publish to Workshop.
+MISC Questions.
+Creative Mode.
+Remove Blocks.
+Materials and Harvesting.
+Create own POIs.
+Delete Base.
+Admin Setting.
+PDA Info.
+Deactivate PDA HUD.
+Close Tasks Manually.
+PDA Expansions.
+MISC Topics.
+Report an Issue.
+Save a Game.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+- Spice.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+- Use Toilet.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+n/a.
+[-]*n/a[-].
+[-]*Medikits[-].
+[-]*n/a[-].
+[-]*Antiparasitic medication[-].
+[-]*n/a[-].
+[-]*Medikits[-].
+[-]*n/a[-].
+[-]*Medikits[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*Fiber Plant[-].
+[-]*Fiber Plant[-].
+[-]*Wood Logs[-].
+[-]*Fire Moss[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*Wild Grain[-].
+[-]*n/a[-].
+[-]*Meals[-].
+[-]*Aloe Vera[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*Brown Mushroom[-].
+[-]*n/a[-].
+[-]*Kavae Plant[-].
+[-]*n/a[-].
+[-]*n/a[-].
+[-]*Ahax plant[-].
+[-]*Vegetables[-].
+[-]*Cobra Leaves[-].
+[-]*Cobra Leaves[-].
+[-]*n/a[-].
+[-]*n/a[-].
+KRIEL.
+TRADERS GUILD.
+Tag: Any.
+DOCTORS JOURNAL.
+BIOLOGIST'S GUIDE.
+EXPLORERS JOURNAL.
+Temperate.
+Temperate (Swamp).
+Arid.
+Snow.
+Alien.
+Planet discovered!.
+..creating report...
+Planet discovered!.
+Ocean.
+Barren.
+Barren (Metal).
+Desert.

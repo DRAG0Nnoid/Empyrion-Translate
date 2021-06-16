@@ -1,0 +1,348 @@
+﻿[-] Esco.
+[-] Cerberus.
+[-] Raider.
+[-] Nemesis.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Apollon Station.
+Science Lab.
+Crew Quarters.
+Lab A.
+Engine Section.
+Core Compartment.
+Core Compartment.
+Lab A.
+Hangar Control.
+Summary.
+Summary.
+Ilmarinen Exploration Crew.
+Mission day 500.
+Mission day 503.
+Mission day 514.
+Mission day 520.
+Mission day 501.
+Mission day 550.
+Inferno Club.
+Summary.
+Log 22-17-5301.
+Summary.
+Sigma Fulcrum.
+Yarod.
+Material Properties.
+The TESCH rumor.
+Summary.
+TESCH.
+VOID.
+The LEGACY.
+War of Silence.
+Zirax Empire.
+Summary.
+Summary.
+Confirming 1-year loss.
+The Legacy.
+The war.
+Name reveal.
+Child Stories.
+Serious Conclusions.
+Emmerson, Bridge Officer.
+Crashed Birds.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Starting the Journey.
+Talon Chief.
+Specialist Kar'han.
+Inscription Plate.
+First Contact.
+Cryoprison Talks.
+Early reveals.
+Command Meeting Room.
+Mission Planning Room.
+Captains Room.
+Bridge - Pre-Jump.
+A Glacial Grave.
+Ancient Revelations.
+Minefield Control Station.
+Captain's Log.
+Chief SaintJohn.
+Warning Message.
+Bridge.
+Mission Log.
+Totally Overpowered.
+New Task.
+New Action.
+New Task.
+New Action.
+Mahan Station.
+Ascending From Darkness.
+The Talon-Zirax Assembly.
+Uncertain Outcome.
+New Task.
+New Task.
+New Action.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Meet the GLaD.
+New Task.
+New Action.
+New Task.
+New Action.
+Sigma Fulcrum.
+Unexpected Ally.
+New Faction Information.
+New Background Info.
+Wins and Losses.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+===.
+A new direction.
+First Contact.
+Open the door.
+Clear area.
+Find Station.
+===.
+The Tower.
+Kill Spiders.
+Go to Trader.
+The Legacy.
+Close Escape.
+Get Equipment.
+Speak to inmate.
+RUN!.
+Reveal Signal position.
+Use Detector.
+Crash Site.
+Personal Data Assistant.
+Exit PDA.
+Status Panel.
+Survival Tool.
+Harvest Plant Protein.
+Extract Fiber.
+Healing.
+Craft Bandage.
+Use Bandage.
+Nutrition.
+Craft Energy Bar.
+Survival Tool Modes.
+..loading data...
+IDA.
+..initializing...
+Detector.
+Craft.
+Detector.
+Equip.
+Com Station.
+Access Console.
+Techtree.
+Large Wreckage.
+Unlock Port. Constructor.
+Gather Iron Ore.
+Craft Port.Constructor.
+Place Port. Constructor.
+Craft Small Generator.
+Go to wreckage.
+Search for containers.
+Loot container.
+Assess situation.
+Increased Mobility.
+Com Station.
+Arrive.
+=.
+Capture Station.
+Craft a Core.
+Salvage Steel Plates.
+Place Core.
+Conventional Power Source.
+Unlock Small Generator.
+Activating the base.
+Fuel the base.
+Craft Devices.
+Power the base.
+Craft BioFuel.
+Place Small Generator.
+Fill Tank.
+Deploy bike.
+Portable Constructor.
+Exit window.
+=.
+Place Devices.
+Survival Tent.
+Craft Tent.
+Place Tent.
+Assessing situation.
+Updating mission.
+Follow the indices.
+Unlock Weapons.
+Close Techtree.
+Craft Pistol.
+Craft Pistol Round.
+Craft armament.
+Kill Infected.
+Kill the Infected.
+The Shaman.
+Tech Upgrades.
+Find worship place.
+Access Cauldron (F).
+Craft Antitoxic Ointment.
+Gratification.
+Assessing situation.
+Updating mission.
+Craft medicine.
+Access Barrels (F).
+Apply Antitoxic Ointment.
+Use medicine.
+Access Barrels.
+Shopping.
+Speak to Trader.
+Approach settlement.
+The tribal settlement.
+Unholy creatures.
+Access Portable Constructor.
+Access Port. Constructor.
+Add Template.
+Open Door.
+The facility.
+Enemy Contact.
+Robinson Protocol I.
+Assessing situation.
+Updating mission.
+Sit down.
+Find the Room.
+Robinson Protocol II.
+Base.
+Return to...
+..Com Station.
+Descending.
+Activate Base.
+Subterrain.
+Use Lever.
+Entry room.
+Check the walls.
+Preparations.
+Approach resource deposit.
+Mine deposit.
+Iron Ore.
+Copper Ore.
+Silicon Ore.
+Portable Constructor.
+Access.
+Crafting Capabilities.
+Place Small Constructor.
+Place Cargo Box.
+Production Setup.
+Access Small Constructor.
+Defense Capabilities.
+Place Sentry Gun.
+Place Ammo Box.
+Personal Defense.
+Place Armor Locker.
+Equip Small Constructor.
+Equip Cargo Box.
+Access Armor Locker.
+Farming.
+Place Food Processor.
+Equip Growing Plot.
+Place Growing Plot.
+Assessing situation.
+Updating mission.
+Respawn.
+Place Clone Chamber.
+Find a cure.
+Back to Settlement.
+Clear the Area.
+Eliminate Troops.
+Approach Wreckage.
+The Savior.
+Speak to Prisoner.
+Access bridge console.
+The Sanctuary.
+Approach station.
+Get an appointment.
+The Appointment.
+Find the Commander.
+Speak to Commander.
+The Assistant.
+Speak Kezzel.
+The Crashed Bird.
+The Burial Chamber.
+Find the site.
+Find Technical Artifacts.
+Debriefing.
+Speak to Kezzel.
+Return to Sanctuary.
+Assessing situation.
+Updating mission.
+Hover Vessel.
+Hover Vessel.
+Have a seat.
+Small Vessel.
+Find vessel.
+Refill.
+Damages.
+Open Control Panel.
+Repairs.
+Place Fuel Tank.
+Place Generator.
+Power up.
+Start Engines.
+=.
+Back to Base.
+Return.
+Teleporter.
+Alerting.

@@ -1,0 +1,65 @@
+﻿Note that the ammo always needs to be put into the Ammo Box. [-]The turrets will reload from there automatically. [-]Adding ammo to a non-ammo container/box will not work.[-]For your personal protection, you should now [-]craft and place[-] an [-]Armor Locker[-] to equip and modify your armor suits.[-]Tip:[-]Open the Control Panel ([-]P[-]) and click the [-]FILL ALL[-] button below the AMMO list. This will put any matching ammo from your inventory to the ammo boxes of our base..
+You an use this [-]shortcut [-]for refilling ammo: Open the [-]Control Panel (P)[-] and click the[-] FILL ALL [-]button.[-]This will put any matching ammo from your inventory to the ammo boxes in our base..
+Use [-]PAGE UP/DOWN[-], [-]HOME/END[-] and [-]INS/DEL[-] buttons and [-]Mouseview [-]to rotate and adjust the position of devices when placing..
+Use [-]PAGE UP/DOWN[-], [-]HOME/END[-] and [-]INS/DEL[-] buttons and [-]Mouseview [-]to rotate and adjust the position of devices when placing.[-]Place on any base block OR  use the Build Helper [-] ([-]N[-]) to place anywhere on the ground..
+Use [-]PAGE UP/DOWN[-], [-]HOME/END[-] and [-]INS/DEL[-] buttons and [-]Mouseview [-]to rotate and adjust the position of devices when placing..
+Use [-]PAGE UP/DOWN[-], [-]HOME/END[-] and [-]INS/DEL[-] buttons and [-]Mouseview [-]to rotate and adjust the position of devices when placing.[-]Place on any base block OR  use the Build Helper [-] ([-]N[-]) to place anywhere on the ground..
+Armor lockers are required to equip armor suits and for adding or removing Boosters..
+Access the [-]Armor Locker.[-].
+Equip any suit by simply dragging it to the [-]ARMOR slot[-].   [-]Check the [-] in the Empyriopedia ([-]F1[-]) for more info on suits, boosters and their management!.
+In case you already found an ARMOR SUIT, equip it by simply dragging it to the [-]ARMOR slot[-].  [-]Otherwise you should craft and equip a LIGHT ARMOR right away, as it not only adds additional hitpoints for upcoming combat, but also adds the functions of a suit light ([-]L[-]), jetpack ([-]J[-]) and helmet ([-]U[-])![-]NEXT: craft and place a [-]CLONE CHAMBER[-].[-]Tip:[-]Check the [-] in the Empyriopedia ([-]F1[-]) for more info on suits, boosters and their management!.
+A food processor allows you to craft advanced meals, medicals and farming equipment..
+A food processor allows you to craft advanced meals, medicals and materials required for [-]farming.[-]To proceed, use the capabilities of your [-]Small Constructor[-] and [-]Food Processor[-] and craft a [-]GROWING PLOT[-] (of any material) and a [-]PLANT GROW LIGHT[-].[-]Tip[-]: [-]You can link the Input/Output of any construction machine to each other just by assigning their cargo units and containers accordingly, [-]so they can be shared[-]. This way you do not need to manually move the crafting materials!.
+Equip Plant Grow Light.
+A growing plot is used to grow any plants..
+A plant grow light can be used indoors but also outside, though on temperate planets you can grow your crops without a grow light if the conditions are good.  Check the Empyriopedia ([-]F1[-]) for more info about farming!.
+Place the growing plot to a suitable place on your base.[-]In case you have a SPROUT you can place it onto the growing plot right away..
+Place the Plant Grow Light at a [-]CEILING ABOVE[-] the Growing Plot [-]BUT [-]leave the blockspace ATOP the Growing Plot free for placing sprouts![-]The Plant Grow Light has a range of 3x3 large blocks..
+Place Plant Grow Light.
+You can plant any SPROUT into any growing plot..
+In a temperate environment you might not need to use a Plant Grow Light. Check the [-] section of the Empyriopedia ([-]F1[-]) for more details!.
+Updating mission parameters.. please wait..
+When having set your bases as HOME (Control Panel > HOME checkbox) a Clone Chamber will allow you to respawn in case of death.[-]The same approach works on Capital Vessels..
+Open the Control Panel ([-]P[-]) and check the [-]HOME SPAWN[-] checkbox. [-]As long as your base at least has a [-]Clone Chamber,[-] you can respawn here.[-]NEXT: craft and place a [-]FOOD PROCESSOR[-]..
+[-] Commander, I am afraid the failing containment system of the facility has lead to infecting you with a [-]Dermal Parasite[-].[-]I suggest to [-]head back to the Talon village[-]. They might have a cure for it!.
+Go back to the settlement and speak to the chief.
+Tales of the Past.
+[-] Detecting movement around the wreckage![-]Approach the site and [-]open fire[-] when being attacked!.
+Approach cautiously. Clear the area from enemies if necessary..
+Kill all Zirax troopers and their Ripper dogs.[-]Check the area and loot all containers, crates and devices..
+[-] [-]Commander, it seems the soldiers have taken a prisoner which is not a Talon.  [-]Speak to him.[-].
+Speak to the prisoner in the cage..
+[-] [-]Commander, I think you should look for the [-]bridge main console[-] before we leave. [-]We might not find any remains of the crew, but maybe more info..
+Follow the marker on the HUD and find the Sanctuary..
+[-] There it is. Make sure you have Doctor Mandors' [-]Space Anomalies report[-] with you - although we should not directly ask for Kezzel.[-]Speak to one of the guards[-] in the center building and try to get an appointment with the commander of this station..
+Speak to the guard at the elevator to get an appointment with the commander..
+Go one level up and then to the right to find Commander Carver.
+Speak to Commander Carver.
+Find Kezzel and speak to him. He is upstairs in one of the storage rooms..
+Follow the yellow hud marker to the burial chamber..
+Find the Technical Artifacts in a container or crate..
+There it is. I sense the spiders already....
+Hm. These crates. Someone brought them down here. Obviously they are not historical artifacts...[-]Let's head back and get some answers from Kezzel..
+Head back to the Sanctuary and speak to Kezzel.
+Head back to the Sanctuary.
+[-] Commander, I suggest to remain wary about that agent. Confronting him with your thoughts could be risky. I suggest playing his game for now...
+Updating mission parameters.. please wait..
+[-] [-]There are now two possible directions you can try:[-]1. Use the secret teleporter behind the cargo containers in the room where agent Kezzel works, find the Small Vessel and escape with it.[-]2. Head back to your base or camp, install the teleporter and improve your gear at first, as we might run into more and better equipped Zirax troops around their garrison..
+[-] There is a damaged Hover Vessel![-]In case you want me to help you on that topic, have a [-]have a seat[-] in the cockpit..
+Simple Hover Vessels are usually equipped with GROUND REPULSOR engines, which means they can NOT go over water. For traveling over liquids, you need to upgrade them to HOVER ENGINES T1 or T2.
+Open the Control Panel ([-]P[-])..
+The Control Panel works the same as for Bases. It will show missing devices in yellow in the DEVICEs tab..
+Go to the [-]DEVICES tab[-] and check the [-]YELLOW [-]entries.[-]These devices need to be added in order to allow the vessel to function..
+A fuel tank is required for any vessel..
+Same as for bases, the generator provides the energy for all devices..
+Add some Fuel to the tanks and fire up the vessel, pressing ([-]Y[-]) or using the POWER slider in the Control Panel..
+Hover Vessels use thrusters and hover engines. They can be switched on and off individually either in the main Control Panel page or in the Device tab..
+The Hover Vessel is now ready to drive! [-]1. Use [-]SPACE [-]and [-]C [-]to increase and lower the hover height of your vessel![-]2. In case you flipped your vessel upside down, use either [-]O[-] or [-]SHIFT[-] to upright it again![-]3. If your vessel handles too twitchy, open the Control Panel ([-]P[-]) and adjust the rotation sensitivity in the [-]STATISTICS[-] tab.[-]4. If your vessel has spotlights, use [-]L[-] to switch them on and off.[-]Note that this vessel has an [-]open cockpit[-], which does not protect you from enemies or environmental dangers!  [-]You might want to add a [-]detector [-]device to the vessel, as this has much higher range than your handheld variant!.
+[-] The vessel should be around here somewhere. Use the detector to find it.[-]You might need to at least add fuel..
+[-] There it is!  Make sure no troops are around, fill the tank and fly us out of here back to our base..
+Check [-]Control Panel[-] ([-]P[-]) > [-]STATISTICS [-]for its performance parameters!.
+Attention! This device requires a lot of energy when being activated! [-]Make sure you do not overload your generators, otherwise they will explode![-]Check the Control Panel (P) if your output is high enough! [-]If not, build more generators or deactivate the teleporter in the meantime..
+In case the required power is higher than the output of your generators, the generators will get damaged and explode after a while!.
+Credibility Mission - Talon.
+The Credibility-Missions will ask you to do something in favor of the faction that really proves your worth to them.[-]As a reward you will get two [-]faction credibility seals.[-]Find an [-]ambassador [-]of the faction or connect to a [-]global information network[-] (GIN) console on any trading station. One seal is used for each step from [-]hostile[-] to [-]unfriendly [-]and [-]unfriendly [-]to [-]neutral[-]. You cannot improve your reputation with the faction beyond neutral with the faction credibility seals, though.[-]***[-]Notes:[-]- You can also earn the credibility seals by some story missions and quests, if available for this faction.[-]- The Zirax Empire credibility seal will increase your reputation with the Empire and all houses of the Empire![-].
+Destroy the [-]CORE [-]of  POIs or vessels that belong to the LEGACY. (1).

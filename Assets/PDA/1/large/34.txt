@@ -1,0 +1,52 @@
+﻿[-]unknown[-] .. have no other choice if we want to get this New Eden project going. [-]unknown[-] And I am sure you do not want to face the consequences, correct? [-]Mercer[-] Of course not, sir, but what about Lamarr, Zerogen and the others?[-]unknown[-] Commander! What did I just say? Did you listen to my words? [-]Mercer[-] Sure, but in case the Commander find out what we did, we..[-]unknown[-] That won't be your problem anymore in a few hours.[-] [-] Did you make sure the cargo is untouched?[-]Mercer[-] Yes, they are secured in our lower dock. [-]unknown[-] Good. [-]unknown[-] Make sure that no one is putting his dirty hands on them. [-]unknown[-] Do not stand in the way of my employees and you will be fine. [-]Mercer[-] Affirmative, sir..
+Mercer (Senior) is most likely dead. And his son .. no way. He did not even know what we were up to. It is someone else. Either working with or even from inside the UCH. Someone who seems to have gained a lot of influence in the last months. We had some company yesterday. They sedated us, but I heard they were speaking about us. And one of them was a terran. Without doubt. We will find that traitor. I now know his voice!.
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+[-]Click on the dropdown arrows to read the logs.[-].
+Hail to the Chief.
+Debriefing. Speak to the Talon chief..
+Speak to the prisoner of the cryo containment facility.
+We should look for the spider creatures [-]around the basement[-] of the monument..
+Now let's find the inscription plate .. inside..
+[-] Power levels going critical. RUN!!.
+[-]Really abort the mission? Please confirm![-]You can start the mission via PDA (F1) at any time..
+Find a way inside.
+Go to Ancient Tower.
+Speak to the Chief.
+Open PDA [-]([-])[-].
+The Personal Data Assistant not only keeps track of available missions and their progress, but also offers the Journey Book (tracking your story progress) and the Empyriopedia ([-]encyclopedia[-] of names, creatures, vessels, features and more).[-]In case you missed or overlooked a message, you can review them later in the [-]PDA LOG [-]with the following steps:[-]1. Select the [-]HEADLINE [-]of the currently [-]ACTIVE mission[-] from the chapter list on the left.  [-]2. Click on the button [-]PDA LOG[-] on the [-]top right[-].[-]Notes:[-] [-]- A mission always has [-]ONE CHAPTER headline[-] and (often) [-]several TASKS[-]. The [-]active[-] mission and the tasks (bullet points) are visible in the list on the right. [-]- Each task can have one or several [-]ACTIONS[-]. The actions are displayed on the right side when you click on a task in the list on the left side. A brief list of all the actions of a task can be found on the top right area. [-]IMPORTANT[-]![-]Each ACTION also has a checkbox. Most of the actions can be solved manually in case something breaks. Just click on the checkbox in front of the broken action to complete it [-]BUT consider making a SAVE GAME [-]BEFORE resolving the action (!!)[-] and send it in together with bug report in the game forums over at [-]empyriononline.com[-]!  [-].
+The Personal Data Assistant (PDA) not only keeps track of available missions and their progress, but also offers the Journey Book (which is tracking your story progress) and the Empyriopedia (which is an [-]encyclopedia[-] of names, creatures, vessels, features and more).[-]In case you missed or overlooked a message, you can review them later in the [-]PDA LOG [-](use the button on the top right). [-]Simply click on a headline in the list on the left, for example [-] to see all messages logged for this mission.[-]Exit the PDA when you have familiarized yourself with the overview[-].
+Click the [-]X[-] on the top right or [-]ESC [-]to exit the screen..
+[-]INJURY DETECTED![-]Open personal status overview panel [-]([-]) ![-].
+Open [-]([-])[-].
+The [-]status overview panel [-]displays all inventory and personal status information - your health, wounds, hunger, etc.[-]In addition, if you suffer or benefit from any [-]status effect[-], hover over the status effect below the CHARACTER STATS section on the right side to get more info. Use the Empyriopedia to learn about medical items or find the required item in the Survival Constructor or other crafting machines..
+Find & pick up [-](F)[-].
+Fiber & Plant Protein.
+Select the toolbar slot and change the tool mode to Resource ([-]RMB[-]).[-]- Collect [-]Plant Protein[-] from plants. Point at them and press [-]F[-].[-]- Harvest [-]Fiber [-]from small trees. Point at them and shoot ([-]LMB[-]) when the [-]crosshair turns red.[-]Note: Destroying harvestable plants will not let them regrow!.
+Collect the plant protein from plants nearby. [-]Check the Biologist's Guide in the Empyriopedia [-]([-])[-] in case you need help with identifying the plants and their crops..
+To collect fiber, shoot at some larger plants, small trees and some bushes with the Survival Tool being set to RESOURCE mode or by using a chainsaw.[-]There are also plants that give you fiber by harvesting them. Check the Biologist's Guide in the Empyriopedia [-]([-])[-] to identify these plants..
+Open the status overview panel [-]([-]) [-]and select the Survival Constructor.[-]Make sure all resources are in the inventory on the left, then select the [-]Bandages [-]to start crafting..
+The Survival Constructor only allows a limited amount of usable items.[-]Notes:[-]- When having started a crafting process, you cannot stop it.[-]- When the crafted item is available, it will be moved to the OUTPUT. You can use drag & drop to move it to the inventory.[-]- You can use any consumable item directly from the Output, from the inventory or from the toolbar by clicking on it with [-]SHIFT + Right-Mouse-Button[-]..
+Open the status overview panel [-]([-]) [-]and use the Bandage to heal the broken leg by clicking at it with [-]SHIFT + Right-Mouse-Button (RMB)[-]..
+For more information about medical status effects and medical items, check the Doctors Journal in the Empyriopedia [-]([-])[-].
+Collect some [-]Plant Proteins[-] and craft an [-]Energy Bar[-]..
+The SURVIVAL TOOL has three basic modes. [-]- Defense[-]- Resource[-]- Salvage [-]Change the tool modes with [-]Right Mouse Button (RMB).[-]Shoot/use the tool with [-]Left Mouse Button (LMB).  [-]Defense[-]Use this mode for defending against small animals. It is suggested that you walk around with Defense mode activated, as small spiders and insects may attack you. [-]Resource[-]Use this mode for harvesting fiber from plants, wood logs from trees, extracting ore from the rocks lying around or drilling down to underground deposits. [-]Note: make use of your personal drone ([-]F5[-]) for mining underground deposits to avoid getting trapped in a deep mining hole.[-]Salvage[-]Use this mode for recovering usable materials from wrecks. With the Survival Tool you cannot regain the full amount of materials or components, but only a fraction. [-]If a red box lights up on the lower right, you will not get back any materials..
+Search the area for the survival tool. Pick it up with F..
+IDA is your Integrated Data Assistant. Check the CHARACTERS section in the Empyriopedia [-]([-]) [-]for more info..
+The detector can be crafted in the suits SURVIVAL CONSTRUCTOR.
+To equip a tool, weapon or other handheld devices, drag and drop them to a free slot in your toolbar.
+Use the Left-Mouse-Button ([-]LMB[-]) to scan the area for contacts. Several markers will pop up on your HUD for a few seconds. Use the detector again to make them visible again. [-]Moving the [-]crosshair [-]on the marker of a scanned object within [-]detection range[-] (~300m for the handheld Detector) will reveal more info.[-]As soon as you were close enough to [-] a station or deposit, the marker will change its description and be permanently available on your map..
+[-] There seems to be a [-]console [-]inside the shelter.[-]Find and access it ([-]F[-])..
+Exit the inventory screen, then fire the detector with the [-]Left Mouse Button (LMB)[-] to ping the area for signals..
+To access an interactive station or for speaking to an NPC press [-]F[-] to access. [-]Use the dialogue answers to progress through the conversation..
+Access Techtree [-]([-])[-].
+After the Portable Constructor is unlocked in the Techtree [-]([-])[-] it can be crafted in the Survival Constructor.
+The Techtree has several tabs with different topics. Most terrain-placeable devices like the Portable Constructor are to be found in the MISC tab.[-]In case you have enough XP and earned enough Unlock Points, you can either use the [-]UNLOCK [-]button on the top right or simply [-]double-click[-] on a locked item to unlock it..
+Go to the [-]MISC tab[-] and scroll down to the PORTABLE CONSTRUCTOR and [-]Double-Click[-] on it to unlock the device.[-]If you are not able to unlock the device, you might need to earn more [-]Experience Points (XPs)[-] in order to level up to earn more [-]Unlock Points[-].[-]Exit the screen when you are done..
+Check the Empyriopedia ([-]F1[-]) to learn more about ores and ore-bearing rocks..

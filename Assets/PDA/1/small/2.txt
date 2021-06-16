@@ -1,0 +1,459 @@
+﻿Desert (Burnt).
+Lava.
+Lava (Nascent).
+Temperate (Plateau).
+===.
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+===.
+Planet discovered!.
+..creating report...
+===.
+Planet discovered!.
+..creating report...
+==.
+==.
+Planet discovered!.
+..creating report...
+==.
+Planet discovered!.
+..creating report...
+===.
+Zirax Empire (Zrx).
+Talon (Tal).
+Polaris Megacorp (Pol).
+Kriel Empire (Kri).
+Traders Guild (Tra).
+Pirate Clans (Pir).
+The LEGACY (Lgc).
+Progenitor (Pro).
+The VOID (Voi).
+TESCH Collective (Tsc).
+Free Colonists (Col).
+New Task.
+New Action.
+New Task.
+New Action.
+INTEL.
+STRUCTURE.
+TECHNOLOGY.
+HISTORY.
+SUMMARY.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+=.
+=.
+=.
+New Task.
+New Action.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+=.
+Resources and Mining.
+Iron.
+Silicon.
+Copper.
+Cobalt.
+Neodymium.
+Sathium.
+Magnesium.
+Titanium.
+Aluminium.
+Erestrum.
+Zascosium.
+Promethium.
+Pentaxid.
+Gold.
+Platinum.
+Ice.
+Crushed Stones.
+Surface rocks.
+..creating report...
+=.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+New Task.
+New Action.
+Resources.
+Types.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+Underground deposit.
+Asteroids.
+New Action.
+New Action.
+0.
+0.
+Meteorit.
+New Action.
+0.
+Moon (Barren).
+Moon (Desert).
+Moon (Forest).
+Moon (Nascent).
+Moons.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Asteroid Field (Junkyard).
+Asteroid Field.
+Asteroid Field (Poor).
+Asteroid Field (Rich).
+Asteroid Field (Infested).
+Asteroid Field (Pirates).
+Asteroid Fields.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Empty Sector.
+Trading Stations.
+Sectors.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+O.
+B.
+A.
+F.
+G.
+K.
+M.
+N (Neutron Star).
+BH (Black Hole).
+Irregular Green Sun.
+Sun Types.
+Other celestial bodies.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+The LEGACY (Homeworld).
+Zirax Empire (Homeworld).
+Barren (Scorched).
+Kriel Empire (Homeworld).
+New Task.
+New Action.
+=.
+Planetary Sector (Scorched).
+Planetary Sector (Lava).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Task.
+New Action.
+=.
+New Action.
+=.
+== GALAXY ==.
+== FACTIONS ==.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+== NPCs ==.
+New Task.
+New Action.
+==.
+Drone (EMP).
+Drone (Minigun).
+Drone (Rocket).
+Drone (Cannon).
+Gunship (Minigun).
+Gunship (Rocket).
+Gunship (Bomber).
+Heavy Interceptor.
+Artillery Support.
+Kiuvera Class (PV).
+Korat Class (PV).
+Sunat Class (Corvette).
+Periat Class (Frigate).
+Imerat Class (Destroyer).
+Kamirat Class (Battlecarrier).
+Tovera Class (Dreadnought).
+Zirax Empire (Zrx).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+D.E.S.C. (DSC).
+New Task.
+New Action.
+=.
+Drone (PLR).
+Fighter (Laser).
+Fighter (Pulse).
+Idala Class (PV).
+Kellend Class (Corvette).
+Hoyzen Class (Frigate).
+Polaris Megacorp (Pol).
+Ilmarinen Class (Tender).
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+New Task.
+New Action.
+=.
+Plasma Drone.
+Fighter (Plasma).
+Fighter bomber (Plasma).
+Traders Guild (Tra).
+Frigate.
+Light Destroyer.
+Destroyer.
+Skylord (HC Cannon).
+Thrasher (Mortar).
+Stripper.
+Rocket Ferry.
+Corvus (Corvette).
+Privateer (Corvette).
+Rum Runner (Corvette).
+Pioneer (Corvette).

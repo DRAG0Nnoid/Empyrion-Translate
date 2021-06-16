@@ -12,151 +12,180 @@ using System.Text.RegularExpressions;
 
 public class Translation : MonoBehaviour
 {
-	[System.Serializable]
-	public class Segment2
-	{
-		public string key;
-		public string original;
-		public string parced;
-		public List<string> forms	=	new List<string>();
-	}
+	
 
-	[System.Serializable]
-	public class Segment
-	{
-		public string key;
-		public string textOriginal;
-		public string text;
-		public List<string> forms	=	new List<string>();
+	public	bool		parce;
+	public	bool		pack;
 
-		public Segment (string _textOriginal, string _key)
-		{
-			key					=	_key;
+	public	bool		show;
 
-			textOriginal		=	_textOriginal;
-			text				=	"";
+	//public	string		folder			=	"Assets/Dialogues/";
+	//public	string		fileName		=	"Dialogues.csv";
+	
 
-			var	textEngN		=	textOriginal.Replace("\\n\\n\\n", "[n3]");
-				textEngN		=	textEngN.Replace("\\n\\n", "[n2]");
-				textEngN		=	textEngN.Replace("\\n", "[n]");
+	public	string[]	files			=	new string[] {"Assets/Dialogues/Dialogues.csv"};
 
-			
-			var	skobkaOpen		=	0;
-			var	skobkaInside	=	"";
-
-			for (var i=0; i<textEngN.Length; i++)
-			{
-				if (textEngN[i] == '[')
-				{
-					skobkaOpen++;
-
-					if (skobkaOpen == 1)
-						text			+=	'[';
-				}
-
-				if (textEngN[i] == ']')
-				{
-					//	конец
-					if (i == textEngN.Length-1)
-					{
-						//text			+=	']';
-						skobkaInside	+=	']';
-
-						forms.Add(skobkaInside);
-
-						return;
-					}
-
-					//	закрывается и сразу открывается
-					if (textEngN[i+1] == '[')
-					{
-						skobkaInside	+=	"][";
-						i++;
-						continue;
-					}
-
-					//	закрывается и сразу открывается c символом или пробелом
-					if (i <= textEngN.Length-3 && textEngN[i+2] == '[')
-					{
-						skobkaInside	+=	"]" + textEngN[i+1] + "[";
-						i++;
-						i++;
-						continue;
-					}
-
-					skobkaOpen--;
-
-					if (skobkaOpen == 0)
-					{
-						skobkaInside	+=	']';
-
-						forms.Add(skobkaInside);
-
-						skobkaInside	=	"";
-
-						continue;
-					}
-				}
-					
-				if (skobkaOpen > 0)
-					skobkaInside	+=	textEngN[i];
-				else
-					text			+=	textEngN[i];
-			}
-		}
-	}
-
-	public	bool	parce;
-	public	bool	pack;
-
-	public	bool	show;
-
-	public	string	folder			=	"Assets/Dialogues/";
-	public	string	fileName		=	"Dialogues.csv";
-	public	int		smallNum		=	3;
-	public	int		rus				=	9;
-
-	int		max_		=	18;
+	int			smallNum_		=	3;
+	int			rus_			=	9;
+	int			max_			=	18;
 
 	//string	sPattern_	=	@"(<[^>]*>)+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
 
 
-	//var	sBrackets1	=	@"\{.*?\}";
-			//var sPattern	=	@"<[^>]+>\s+(?=<)|<[^>]+>";	//	делит на каждый <>
-			//var sPattern	=	@"<[^>]*>";
-
-			//var sPattern	=	@"<[^>]*>|\{.*?\}|\\n";
+	//var sBrackets1	=	@"\{.*?\}";
+	//var sPattern		=	@"<[^>]+>\s+(?=<)|<[^>]+>";	//	делит на каждый <>
+	//var sPattern		=	@"<[^>]*>";
+	//var sPattern		=	@"<[^>]*>|\{.*?\}|\\n";
 
 	//string	sPattern_	=	@"<[^>]*>+|\{.*?\}+|(\[.*?\])+|(\\n)+|(\@[a-zA-Z]+[0-9]+)";
-	string	sPattern_	=	@"(<[^>]*>+|\{.*?\}+|\[.*?\]+|\\n|\@[a-zA-Z]+[0-9]+)+";
-
-	
+	string	sPattern_	=	@"(<[^>]*>+|\{.*?\}+|\[.*?\]+|\\n|\@[a-zA-Z]+[0-9]+|"".*?""|'.*?')+";
 
     //
 	void Update()
 	{
 		if (parce) {
 			parce	=	false;
-			Parce();
+			//Parce();
 
 			Debug.Log("готово parce");
 		}
 
 		if (pack) {
 			pack	=	false;
-			Pack();
+			//Pack();
 
 			Debug.Log("готово pack");
 		}
 
 		if (show) {
 			show	=	false;
-			
+			 
+			var	fileString		=	ReadFile(files[1]);
+			var resultGrid		=	CSVReader.SplitCsvGrid(fileString);
+
+			var	path			=	GetPath(files[1]);
+
+			Debug.Log(files[0]);
+
+			//for (var i=0; i<resultGrid.GetLength(1); i++)
+			//{
+				/*
+				if (i == 1062)
+				{
+					var strings	=	GetFormsAndText(resultGrid[1, i]);
+
+					Debug.Log(i + ") forms: " + strings[0]);
+					Debug.Log(i + ") text: "  + strings[1]);
+				}
+				*/
+			//}
+
+			//	Parce(path[0], path[1]);
 
 
-
+			Pack(path[0], path[1]);
 		}
     }
+
+	void Parce (string _folder, string _fileName)
+	{
+		var file			=	ReadFile(_folder + _fileName);
+
+		var formsAll		=	new List<string>();
+		var formsSmall		=	new List<string>();
+		var formsLarge		=	new List<string>();
+			
+		var textAll			=	new List<string>();
+		var textSmall		=	new List<string>();
+		var textLarge		=	new List<string>();
+
+		var keysAll			=	new List<string>();
+		var keysLarge		=	new List<string>();
+		var keysSmall		=	new List<string>();
+
+		var resultGrid		=	CSVReader.SplitCsvGrid(file);
+
+		for (var i=0; i<resultGrid.GetLength(1); i++)
+		{
+			if (resultGrid[0, i] == null || resultGrid[0, i].Equals(""))
+				continue;
+
+			var formsAndText	=	GetFormsAndText(resultGrid[1, i]);
+
+			var	key				=	resultGrid[0, i];
+			var forms			=	formsAndText[0];
+			var text			=	formsAndText[1];
+
+			//	чисттка от лишних пробелов и разделение на длинный короткий
+			if (text.Split(' ').Length > 1)
+			{
+				var re				=	@"([ ]+|\[-\]+)+";
+
+				var options			=	RegexOptions.None;
+				var regex			=	new Regex(re, options);     
+
+				var textClean		=	regex.Replace(text, " ");
+					textClean		=	Regex.Replace(textClean, @"^\s+|\s+$", "");
+
+				var	textWords		=	textClean.Split(' ');
+
+				if (textWords.Length <= 3)
+				{
+					keysSmall.Add(key);
+					formsSmall.Add(forms);
+					textSmall.Add(text);
+				}
+				else
+				{
+					keysLarge.Add(key);
+					formsLarge.Add(forms);
+					textLarge.Add(text);
+				}
+			}
+			else
+			{
+				keysSmall.Add(key);
+				formsSmall.Add(forms);
+				textSmall.Add(text);
+			}
+		}
+
+		for (var i=0; i<keysSmall.Count; i++)
+		{
+			keysAll.Add(keysSmall[i]);
+			formsAll.Add(formsSmall[i]);
+			textAll.Add(textSmall[i]);
+		}
+
+		for (var i=0; i<keysLarge.Count; i++)
+		{
+			keysAll.Add(keysLarge[i]);
+			formsAll.Add(formsLarge[i]);
+			textAll.Add(textLarge[i]);
+		}
+
+		WriteToFile(_folder + "keys.txt" ,  string.Join("\n", keysAll));
+		WriteToFile(_folder + "forms.txt" , string.Join("\n", formsAll));
+
+		SaveFiles(_folder + "1/small/" , textSmall, 4990);
+		SaveFiles(_folder + "1/large/" , textLarge, 9990);
+	}
+
+	string[] GetPath (string _path)
+	{
+		var array	=	_path.Split('/');
+
+		if (array.Length == 2)
+			return new string[]{ array[0] + '/', array[1]};
+
+
+		var list	=	new List<string>();
+		for (var i=0; i<array.Length-1; i++)
+			list.Add(array[i]);
+
+		return new string[]{ string.Join("/", list) + '/', array[array.Length-1]};
+	}
+
 
 	//	получить две строки, вставки и текст
 	string[] GetFormsAndText (string _text)
@@ -180,37 +209,45 @@ public class Translation : MonoBehaviour
 	}
 
 	
-	void Pack ()
+	void Pack (string _folder, string _fileName)
 	{
-		var	keys				=	ReadFile(folder + "keys.txt").Split('\n');
-		var	forms				=	ReadFile(folder + "forms.txt").Split('\n');
+		//var folder				=	"";
+		//var fileName			=	"";
+
+		var	keys				=	ReadFile(_folder + "keys.txt").Split('\n');
+		var	forms				=	ReadFile(_folder + "forms.txt").Split('\n');
 		
-		var	texts_en_small		=	GetMergedFiles(folder + "1/small/");
-		var	texts_en_large		=	GetMergedFiles(folder + "1/large/");
+		var	texts_en_small		=	GetMergedFiles(_folder + "1/small/");
+		var	texts_en_large		=	GetMergedFiles(_folder + "1/large/");
 
 		var	texts_en_str		=	texts_en_small + "\n" + texts_en_large;
 			texts_en_str		=	texts_en_str.Replace("[ -]", "[-]");
 			texts_en_str		=	texts_en_str.Replace("[- ]", "[-]");
 			texts_en_str		=	texts_en_str.Replace("[ - ]", "[-]");
+			texts_en_str		=	texts_en_str.Replace("'", "");
+			texts_en_str		=	texts_en_str.Replace("\"", "");
 
 		var	texts_en			=	texts_en_str.Split('\n');
 
-		var	texts_ru_small		=	GetMergedFiles(folder + "9/small/");
-		var	texts_ru_large		=	GetMergedFiles(folder + "9/large/");
+		var	texts_ru_small		=	GetMergedFiles(_folder + "9/small/");
+		var	texts_ru_large		=	GetMergedFiles(_folder + "9/large/");
 
 		var	texts_ru_str		=	texts_ru_small + "\n" + texts_ru_large;
 			texts_ru_str		=	texts_ru_str.Replace("[ -]", "[-]");
 			texts_ru_str		=	texts_ru_str.Replace("[- ]", "[-]");
 			texts_ru_str		=	texts_ru_str.Replace("[ - ]", "[-]");
+			texts_ru_str		=	texts_ru_str.Replace("'", "");
+			texts_ru_str		=	texts_ru_str.Replace("\"", "");
 
 		var	texts_ru			=	texts_ru_str.Split('\n');
 
 		Debug.Log("Pack: " + keys.Length + " / " + forms.Length + " / " + texts_en.Length + " / " + texts_ru.Length);
 
-		var file_original		=	ReadFile(folder + fileName).Split('\n');
-		var first_line			=	file_original[0];
+		var file_original		=	ReadFile(_folder + _fileName).Split('\n');
+		//var first_line			=	file_original[0];
 
-		var resultGrid			=	CSVReader.SplitCsvGrid(folder + fileName);
+		/*
+		var resultGrid			=	CSVReader.SplitCsvGrid(_folder + _fileName);
 
 		var keys_original		=	new string[resultGrid.GetLength(1)];
 		var sorted				=	new string[keys_original.Length];
@@ -228,12 +265,12 @@ public class Translation : MonoBehaviour
 				}
 			}
 		}
-			
+		*/
 
 
 		//
 
-		using (CSVWriter writer = new CSVWriter(folder + "translate/" + fileName))
+		using (CSVWriter writer = new CSVWriter(_folder + "translate/" + _fileName))
 		{
 			writer.Write(file_original[0]);
 
@@ -343,92 +380,12 @@ public class Translation : MonoBehaviour
 		
 	}
 
-	void Parce ()
-	{
-		var file			=	ReadFile(folder + fileName);
-
-		var formsAll		=	new List<string>();
-		var formsSmall		=	new List<string>();
-		var formsLarge		=	new List<string>();
-			
-		var textAll			=	new List<string>();
-		var textSmall		=	new List<string>();
-		var textLarge		=	new List<string>();
-
-		var keysAll			=	new List<string>();
-		var keysLarge		=	new List<string>();
-		var keysSmall		=	new List<string>();
-
-		var resultGrid		=	CSVReader.SplitCsvGrid(file);
-
-		for (var i=0; i<resultGrid.GetLength(1); i++)
-		{
-			if (resultGrid[0, i] == null || resultGrid[0, i].Equals(""))
-				continue;
-
-			var formsAndText	=	GetFormsAndText(resultGrid[1, i]);
-
-			var	key				=	resultGrid[0, i];
-			var forms			=	formsAndText[0];
-			var text			=	formsAndText[1];
-
-			//	чисттка от лишних пробелов и разделение на длинный короткий
-			if (text.Split(' ').Length > 1)
-			{
-				var re				=	@"([ ]+|\[-\]+)+";
-
-				var options			=	RegexOptions.None;
-				var regex			=	new Regex(re, options);     
-
-				var textClean		=	regex.Replace(text, " ");
-					textClean		=	Regex.Replace(textClean, @"^\s+|\s+$", "");
-
-				var	textWords		=	textClean.Split(' ');
-
-				if (textWords.Length <= 3)
-				{
-					keysSmall.Add(key);
-					formsSmall.Add(forms);
-					textSmall.Add(text);
-				}
-				else
-				{
-					keysLarge.Add(key);
-					formsLarge.Add(forms);
-					textLarge.Add(text);
-				}
-			}
-			else
-			{
-				keysSmall.Add(key);
-				formsSmall.Add(forms);
-				textSmall.Add(text);
-			}
-		}
-
-		for (var i=0; i<keysSmall.Count; i++)
-		{
-			keysAll.Add(keysSmall[i]);
-			formsAll.Add(formsSmall[i]);
-			textAll.Add(textSmall[i]);
-		}
-
-		for (var i=0; i<keysLarge.Count; i++)
-		{
-			keysAll.Add(keysLarge[i]);
-			formsAll.Add(formsLarge[i]);
-			textAll.Add(textLarge[i]);
-		}
-
-		WriteToFile(folder + "keys.txt" ,  string.Join("\n", keysAll));
-		WriteToFile(folder + "forms.txt" , string.Join("\n", formsAll));
-
-		SaveFiles(folder + "1/small/" , textSmall, 4990);
-		SaveFiles(folder + "1/large/" , textLarge, 9990);
-	}
-
+	
 	void ParceDebug ()
 	{
+		var folder			=	"";
+		var fileName		=	"";	
+
 		var file			=	ReadFile(folder + fileName);
 		var fileList		=	file.Split('\n');
 
@@ -765,3 +722,106 @@ public class Translation : MonoBehaviour
 	}
 
 }
+
+
+
+
+
+
+
+
+/*
+	[System.Serializable]
+	public class Segment2
+	{
+		public string key;
+		public string original;
+		public string parced;
+		public List<string> forms	=	new List<string>();
+	}
+
+	[System.Serializable]
+	public class Segment
+	{
+		public string key;
+		public string textOriginal;
+		public string text;
+		public List<string> forms	=	new List<string>();
+
+		public Segment (string _textOriginal, string _key)
+		{
+			key					=	_key;
+
+			textOriginal		=	_textOriginal;
+			text				=	"";
+
+			var	textEngN		=	textOriginal.Replace("\\n\\n\\n", "[n3]");
+				textEngN		=	textEngN.Replace("\\n\\n", "[n2]");
+				textEngN		=	textEngN.Replace("\\n", "[n]");
+
+			
+			var	skobkaOpen		=	0;
+			var	skobkaInside	=	"";
+
+			for (var i=0; i<textEngN.Length; i++)
+			{
+				if (textEngN[i] == '[')
+				{
+					skobkaOpen++;
+
+					if (skobkaOpen == 1)
+						text			+=	'[';
+				}
+
+				if (textEngN[i] == ']')
+				{
+					//	конец
+					if (i == textEngN.Length-1)
+					{
+						//text			+=	']';
+						skobkaInside	+=	']';
+
+						forms.Add(skobkaInside);
+
+						return;
+					}
+
+					//	закрывается и сразу открывается
+					if (textEngN[i+1] == '[')
+					{
+						skobkaInside	+=	"][";
+						i++;
+						continue;
+					}
+
+					//	закрывается и сразу открывается c символом или пробелом
+					if (i <= textEngN.Length-3 && textEngN[i+2] == '[')
+					{
+						skobkaInside	+=	"]" + textEngN[i+1] + "[";
+						i++;
+						i++;
+						continue;
+					}
+
+					skobkaOpen--;
+
+					if (skobkaOpen == 0)
+					{
+						skobkaInside	+=	']';
+
+						forms.Add(skobkaInside);
+
+						skobkaInside	=	"";
+
+						continue;
+					}
+				}
+					
+				if (skobkaOpen > 0)
+					skobkaInside	+=	textEngN[i];
+				else
+					text			+=	textEngN[i];
+			}
+		}
+	}
+	*/

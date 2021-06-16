@@ -236,12 +236,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parce: 0
-  translate: 0
-  checkFiles: 0
   pack: 0
-  smallNum: 3
-  rus: 9
-  parceCSV: 0
+  show: 0
+  files:
+  - Assets/Dialogues/Dialogues.csv
+  - Assets/PDA/PDA.csv
 --- !u!4 &1211218208
 Transform:
   m_ObjectHideFlags: 0
